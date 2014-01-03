@@ -1,0 +1,1503 @@
+
+Ruby on Rails
+Rails is one of the most popular frameworks in the web development world. Built on the Ruby programming language, it is most well known for its failure to power Twitter. The idea that Rails is unable to perform effectively at scale is a missnomer and can rather be attributed to Twitter not using Rails appropriately. Many large websites have successfully leveraged Rails, most notably, Scribd and Hulu.
+Rails follows convention over configuration, and a religious devotion to the principles of the MVC model, though this may steepen the learning curve, it will ensure that code remains simple and easy to understand.
+Screencasts and tutorials make it easy to dive in to the rails community.
+
+Django
+Built on Python, and orignally developed to cater for online-news operations, Django prides itself on the ability to build high performance web applications in rapid time. Python was designed with readability of the code as a key factor. As a result, the framework adheres to the the principle of Don’t Repeat Yourself (DRY) and tries automate as many tasks for you as possible. Django builds a proffessional and production ready admin interface for you, and provides a powerful templating system that lets you separately design, content and code for easy editing.
+Being one of the largest and most popular frameworks Django has an excellent community to turn to when you get stuck.
+Used by NASA Science and commenting platform Disqus
+
+Drupal
+Drupal is commonly perceived to be a Content Management System (CMS). This is no mistake but such a description does not illustrate Drupal’s powerful versatility. At it’s core, Drupal fits the bill for a web framework. With its long list of features it is no surprise the at the php based framework powers 1.5% of the world’s websites. Drupal appeals to all levels of developers, allowing the more experienced ones a set of tools to greatly manipulate the framework. Less skilled users, meanwhile, can tap into the 10 000 free community built addons.
+Drupal is great for powering content rich sites.
+Drupal powers large websites such as whitehouse.gov MTV United Kingdom and Yahoo! Research.
+
+CakePHP
+CakePHP is not only one of the most popular frameworks but it is one of the oldest too. The framework, built on PHP, has a large community where you can turn for tutorials and support.
+CakePHP draws many of its concepts from Ruby on Rails. As a result, you have a set of strict conventions. Althought CakePHP may, in some cases, lack flexability you can be sure that your application will be uniform throughout – making code easy to understand and modify.
+Used by The Onion Store and followmy.tv
+
+CodeIgniter
+With a small learning curve, CodeIgnitor attempts to get anyone coding. Built on PHP and designed to take advantage of shared hosting, CodeIgniter has a small footprint that requires very little configuration. The framework offering is very flexible and does not require you to stick to the rigid coding practices like frameworks. CodeIgnitor is a good starting point for beginners who wish to explore web frameworks.
+Powers: The Mail & Guardian 
+
+And for good measure, here’s a much longer list of other’s out there:
+PHP FRAMEWORKS
+
+DooPHP: fast, lightweight and easy to learn with great documentation.
+
+Horde: primed for use as an email client and groupware, comes with a modern library and a complete application stack.
+
+Joomla!: although traditionally used as a CMS, you can leverage to power of Joomla’s MVC framework to build your own apps.
+
+Kajona: PHP5 based it provides a great base for developing hooks and plugins.
+
+Kohana: designed to be secure, lightweight and easy to use Kohana provides the right set of tools for building PHP5 applications.
+
+Lithium: adhering to no nonsense philosophies Lithium wants you to build better applications without sacrificing quality.
+
+Rain Framework: installed with a simple copy/paste action, seeks to help teams work together.
+
+Symfony: build robust applications for enterprise deployment.
+
+Yii: a framework that is quickly gaining traction, great for developing Web 2.0 applications.
+
+Zend Framework: powering some of the world’s most trafficked sites, build applications of any size.
+
+JAVA FRAMEWORKS
+
+Apache Click: A free and opensource framework that is built on top of the Java Servlet API.
+
+
+AppFuse: Build apps quickly with a large number out-of-the-box features.
+
+Google Web Toolkit: Develop and maintain complex frontend Javascript applications in Java.
+
+Play!: inspired by Rails and with scala support, harness the power of Java to build web applications.
+
+
+Apache Sling: Bring back the fun to web development in the creation of content centric web applications.
+
+
+ZK: code enterprise apps and slick looking user interfaces with no Javascript and little programming.
+
+PYTHON FRAMEWORKS
+
+CherryPy: wants you to build object orientated applications as you would normally do in Python
+
+CubicWeb: build applications quickly and efficiently with cubes.
+
+Flask: a mircoframework which has a very simple core. Developers only add on what is necessary.
+
+Grok: emphasizes agile web development, sutable for all levels of developers.
+
+Nagare: a web framework dedicated to application development rather than content publishing.
+
+Pylons: strongly influenced by Ruby on Rails, pylons gives you a near complete third party stack of schools with which to code.
+
+web2py: originally a teaching tool, development and easy are key.
+
+TurboGears: built with a large number of components and libraries, TurboGears attempts to make application developed easy, rapid and maintainable.
+
+RUBY FRAMEWORKS
+
+Camping: Ruby goodness in less than 4k, fully compatible with Rails if you ever out grow your tent.
+
+Ramaze: keeping things straight forward and simple
+
+Sinatra: dependent on the Rack web server interface, very flexible and allows you to create applications quickly.
+Django
+1.5
+2013-02-26
+the Web framework for perfectionists (with deadlines). Django makes it easier to build better Web apps more quickly and with less code. Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performing, elegant Web applications quickly. Django focuses on automating as much as possible and adhering to the DRY (Don't Repeat Yourself) principle. http://www.djangoproject.com/.
+Grok
+1.4
+2011-04-04
+built on the existing Zope 3 libraries, but aims to provide an easier learning curve and a more agile development experience. It does this by placing an emphasis on convention over configuration and DRY (Don't Repeat Yourself).
+Pylons
+1.0
+2010-05-28
+a lightweight Web framework emphasizing flexibility and rapid development. It combines the very best ideas from the worlds of Ruby, Python and Perl, providing a structured but extremely flexible Python Web framework. It's also one of the first projects to leverage the emerging WSGI standard, which allows extensive re-use and flexibility but only if you need it. Out of the box, Pylons aims to make Web development fast, flexible and easy. Pylons is built on top of Paste (see below). NOTE: Pylons-the-web-framework has recently been placed into maintenance status with the release of Pyramid, a successor, which is detailed further down the page.
+TurboGears
+2.1.5
+2012-04-06
+the rapid Web development megaframework you've been looking for. Combines SQLAlchemy (Model) or Ming (MongoDB Model), Genshi (View), Repoze and Tosca Widgets. Create a database-driven, ready-to-extend application in minutes. All with designer friendly templates, easy AJAX on the browser side and on the server side, with an incredibly powerful and flexible Object Relational Mapper (ORM), and with code that is as natural as writing a function. After reviewing the Documentation, check out: QuickStart Manual
+web2py
+2.1.1
+2012-10-15
+* Python 2.4 to 2.7, no 3.x support yet * All in one package with no further dependencies. Development, deployment, debugging, testing, database administration and maintenance of applications can be done via the provided web interface. * web2py has no configuration files, requires no installation, can be run off a USB drive. * web2py uses Python for the Model, View and the Controller * Built-in ticketing system to manage errors * Internationalization engine, caching system * Flexible authentication system (LDAP, MySQL, janrain etc) * NIX(Linux, BSD), Windows, Mac OSX, tested on EC2, Webfaction * works with MySQL, PostgreSQL, SQLite , Firebird, Oracle, MSSQL and the Google App Engine via an ORM abstraction layer. * Includes libraries to handle HTML/XML, RSS, ATOM, CSV, RTF, JSON, AJAX, XMLRPC, WIKI markup. * Production ready, capable of upload/download of very large files * Emphasis on backward compatibility.
+Zope2
+2.13.19
+2012-10-30
+Being the grandaddy of Python web frameworks, Zope has grown into a family of frameworks over the years. Zope 1 was released in 1999. Zope 2 is both a web framework and a general purpose application server, today it is primarily used by ContentManagementSystems. Zope 3 is both a standalone framework and a collection of related libraries, which are also included with newer releases of Zope 2. All of the Zope frameworks include the ZODB, an object database for Python.
+PHP:
+
+CakePHP: the rapid development php framework. Home
+CodeIgniter - Open source PHP web application framework
+Zend Framework
+symfony | Web PHP Framework
+Seagull PHP Framework :: Overview
+
+JavaScript:
+
+script.aculo.us - web 2.0 javascript
+jQuery: The Write Less, Do More, JavaScript Library
+Prototype JavaScript framework: Easy Ajax and DOM manipulation for dynamic web applications
+Home | The Dojo Toolkit
+MooTools - a compact javascript framework
+MochiKit - A lightweight Javascript library
+
+CSS:
+
+Blueprint: A CSS Framework | Spend your time innovating, not replicating
+Home: Yet Another Multicolumn Layout | An (X)HTML/CSS Framework
+Elastic CSS Framework
+Yahoo! UI Library: Grids CSS
+Elements - A Down to Earth CSS Framework
+Concurrent programming
+Declarative programming
+Event-driven programming
+Functional programming
+Imperative programming
+Literate programming
+Object-oriented programming
+Parsing
+Comparison of programming languages
+Compiled language
+Formal semantics of programming languages
+Interpreted language
+Programming language dialect
+Programming language theory
+Types of programming languages[edit]
+Main articles: Programming paradigm and List of programming languages by type
+Array programming language
+Aspect-oriented programming language
+Assembly language
+Class-based programming language
+Compiled language
+Concatenative programming language
+Concurrent programming language
+Data-structured language
+Dataflow programming language
+Declarative programming language
+Domain-specific language
+Dynamic programming language
+Esoteric programming language
+Event-driven programming language
+Extensible programming language
+Functional programming language
+High-level programming language
+Imperative programming language
+Interpreted language
+Logic programming language
+Low-level programming language
+Machine programming language
+Macro language
+Metaprogramming programming language
+Multi-paradigm programming language
+Non-English-based programming language
+Object-based language
+Object-oriented programming language
+Off-side rule programming language
+Pipeline programming language
+Procedural programming language
+Prototype-based programming language
+Reflective programming language
+Rule-based programming language
+Scripting language
+Synchronous programming language
+Very high-level programming language
+Visual programming language
+Specific programming languages[edit]
+Ada
+ALGOL
+BASIC
+Brainfuck
+C
+C++
+C#
+COBOL
+ColdFusion
+D
+ECMAScript
+ActionScript
+InScript
+JavaScript
+JScript
+QML
+QtScript
+Eiffel
+Erlang
+Forth
+Fortran
+Java
+Haskell
+Lisp
+Scheme
+Mathematica
+Objective-C
+Object Pascal
+OCaml
+Pascal
+Delphi
+Perl
+PHP
+Python
+Ruby
+Scala
+Smalltalk
+Self
+Visual Basic .NET
+C
+Java
+C++
+PHP
+Visual Basic
+C#
+Python
+Perl
+JavaScript
+Embarcadero Delphi
+Objective-C
+Ruby
+0. JavaScript
+What is it?
+JavaScript is an object-oriented scripting language that is smaller than Java. Being a client-side language, it runs in the web browser on the client-side with a simplified set of commands, easier code and no need for compilation.
+Why is it important?
+JavaScript is simple to learn and is the tenth most widely used programming language. It is used in millions of web pages to authenticate forms, detect browsers and improve design, and it is easier to run these functions as it is embedded into HTML.
+9. Perl
+What is it?
+Being a high-level programming language, its emphasis lies in code readability and clear syntax. It combines Object-oriented and functional programming styles, and is often used as a scripting language. Perl is an open-source language used widely to process text through CGI programs.
+Why is it important?
+Perl’s efficiency in processing of piles of text has ranked it ninth in terms of programming language popularity. It is used extensively to write Web server programs for a variety of tasks. “Learning some form of scripting language, such as Perl or PHP is critical if you are doing Web apps," told Wayne Duqaine, director of Software Development at Grandview Systems, of Sebastopol, Calif., in a talk with eWEEK.
+8. Python
+This is an event-driven programming language which is extensively used by Google because of its simplicity. It is managed by the Python SoftwareFoundation.
+Why is it important?
+This language ranked as the seventh most popular language on TIOBE’s list, probably because it was designed by Microsoft to be easy to learn and use.
+7. (Visual) Basic
+This is an event-driven programming language which is implemented on Microsoft’s .Net framework.
+6. PHP
+This language is especially suited for Web development because of it easy embedding into HTML pages. It is an open-source, server-side, cross-platform, interpretive HTML scripting language
+5. Objective-C
+This object-oriented programming language created first by Brad Cox and Tom Love at their company Stepstone in the early 1980s, adds Smalltalk-like messaging to the C programming language.
+3. C#
+This general-purpose programming language developed by Microsoft evolved from C and C++ as a part of the software company’s .NET initiative.
+2. C
+C, a general purpose programming language built by Dennis Ritchie when he was a part of Bell Telephone labs, is the bass of C++ and other programming languages. It was built to work with the Unix operating system.
+1. Java
+ An object-oriented programming language developed in the late 1990s by James Gosling and colleagues at Sun Microsystems.
+4. C++
+C++ is a general purpose multi-paradigm spanning compiled language that has both high-level and low-level languages’ features. It was started as an enhancement to the C programming language, Bjarne Stroustrup in 1979.
+C	C offers great freedom, and lot of debugging challenge thanks to pointers and memory management. 
+More - Code	Suffering slow programming to make fast programs. For system programming.
+C++	 C++ is C plus objects, an extended library, templates. 
+More - Code	System programming as C but allow larger project, or applications.
+C# 
+(C Sharp)	Concurrent to java, runs on .NET or compatible platforms (Portable NET, Mono). 
+More - Code	Easier than C++. May share resources with other languages under a common runtime.
+Go	System language designed to be compiled quickly. It replaces C++ and Python thanks to its integrated garbage collector.
+More - Code	Program more quickly. Perform scripts and system tools, or online applications.
+Pascal	Old language (1970), improved with objects, imposes a strictly structured programming. 
+More - Code	Teaching, or client/server apps with Delphi and Kylix.
+Basic	This very old language (1964) was improved by Microsoft, with a complete programming environment. Other portages exist. 
+More - Code
+Standard language for scripting Microsoft's applications (Word etc...), and for dynamic web pages (ASP) on Windows servers.
+PHP	 Designed to be embedded inside HTML to build dynamic Web pages or update them from databases.
+More - Code	Producing HTML pages from data.
+The version 5 targets Web services.
+Java	Was designed to be portable and to replace C++.
+More - Code	Cross-platform applications. For web services and mobile phone apps under Android.
+Scala	Procedural, functional and object-oriented programming language.
+Scala - Code	 Provides a more compact syntax than Java on the virtual machine
+JavaScript,
+ECMAScript	JavaScript has been invented to build dynamic client-side html pages, ECMAScript is the standardized version. 
+More - Code	For interactivity in web pages and applications.
+Used with HTML 5 for Web or local apps on Metro or Node.js or Qt.
+Python	A modern interpreted language with powerful built-in features and a unique indentation feature to shorten coding.
+The Jython version compiles in Java bytecode. 
+More - Code	Programming at light speed. Powerful and easy to learn.
+Extending Zope for web services.
+Java scripting with Jython.
+Only for open source applications (not compiled).
+ASP	Scripting language, server-side, for dynamic web pages by Microsoft, same syntax as Basic. 
+ASP - Code	Producing HTML pages from data, but under Windows servers only.
+Assembler	This is near the machine language and the fastest. You should never use it, as older programmers did.	Making graphic subroutines, drivers or industrial processing.
+Eiffel, Sather	Object-oriented, with "programming per contract" and other secure features. Sather is an open source implementation. 
+More - Code	Programming secured applications. Used by hospitals.
+Perl	A scripting interpreted language. Readabillity and ease of use are not the goal. 
+Perl - Code	 Mainly used by networks administrators and for small CGI scripts.
+Rebol	Interpreted language for network scripting. The language itself may be augmented. 
+Rebol - Code	Processing information on distributed computer systems, with small programs.
+Ruby	Designed with simplicity in mind. It is interpreted, and has a proprietary but extensible library. 
+More - Code	Writing scripts more easily. Using Ruby on Rails for Web applications.
+Tcl	A scripting language, easy to learn and available on any platform.
+More - Code	Scripting of portable programs with GUI, and web programming by CGI.
+Lua	Add-on or standalone language with extensible semantic.
+Lua - Code	Extending the C language.
+Cobol	Business language still used on big computers. 
+Cobol - Code	Maintaining old programs on mainframes.
+Fortran	One of the first languages, always used for mathematical tasks.
+Fortran - Code
+Has huge library for scientific calculations.
+Lisp	Lisp is a very old language designed for artificial intelligence, processes lists only.
+Lisp - Code	Artificial intelligence and scripting.
+Scheme	Scheme is a modernized version of Lisp.
+Scheme - Code	Artificial intelligence and scripting.
+Prolog	For logic programming, based on Horn's clauses.
+Prolog - Code	Heavy artificial intelligence processing.
+Haskell	Functional programming. Slow and memory consuming. 
+Haskell - Code	To try programming in another way
+Forth	Another oldy. Invented by an astronomer, is stack based
+Forth - Code	For instrumental commands and legacy libraries re-using.
+Smalltalk	One of the first object oriented language, programs can't run outside the IDE.
+Smalltalk - Code	Absolutely object-oriented processing.
+Caml, Ocalm	Functional languages, Ocalm is object-oriented.
+Caml - Code	Used by universities. May help to build a compiler.
+CoffeeScript	Simplified version of JavaScript, compiles into JS. 
+CoffeeScript - Code	Can be used for Web applications or Node.js.
+Dart	Language in HTML pages, supported by Chrome or converted to JavaScript.
+Dart - Code	Alternative to JavaScript for big applications.
+Scriptol	A simple, object-oriented, universal language with an intuitive and powerful syntax. Compiles to C++ or PHP. 
+More - Code	Easy and universal for scripting, prototyping, making binary applications, dynamic web pages and XML processing.
+SQL	Language of data management. 
+MySQL	For databases queries.
+XML	Not really a programming language, but may be used for similar tasks.
+XML	XML serves to describe precisely data and may include actions on data.
+XSL allows to transform documents.
+JavaScript is fine for adding basic interactivity to Web pages, but when your Web applications swell to thousands of lines of code, its weaknesses quickly become apparent. That's why Google created Dart, a language it hopes will become the new vernacular of Web programming.
+You can't do much with Dart today. It's designed to run on either the client or the server (a la Node.js), but the only way to run client-side Dart code so far is to cross-compile it to JavaScript. Even then it doesn't work with every browser. But because Dart is released under a BSD-style open source license, any vendor that buys Google's vision is free to build the language into its products. Google only has an entire industry to convince.
+Experimental programming language No. 2: Ceylon
+Gavin King denies that Ceylon, the language he's developing at Red Hat, is meant to be a "Java killer." King is best known as the creator of the Hibernate object-relational mapping framework for Java. He likes Java, but he thinks it leaves lots of room for improvement.
+Among King's gripes are Java's verbose syntax, its lack of first-class and higher-order functions, and its poor support for meta-
+King and his team don't plan to reinvent the wheel completely. There will be no Ceylon virtual machine; the Ceylon compiler will output Java bytecode that runs on the JVM. But Ceylon will be more than just a compiler, too. A big goal of the project is to create a new Ceylon SDK to replace the Java SDK, which King says is bloated and clumsy, and it's never been "properly modernized."
+That's a tall order, and Red Hat has released no Ceylon tools yet. King says to expect a compiler this year. Just don't expect software written in "100 percent pure Ceylon" any time soon.
+Experimental programming language No. 3: Go
+Interpreters, virtual machines, and managed code are all the rage these days. Do we really need another old-fashioned language that compiles to native binaries? A team of Google engineers -- led by Robert Griesemer and Bell Labs legends Ken Thompson and Rob Pike -- says yes.
+Go is a general-purpose programming language suitable for everything from application development to systems programing. In that sense, it's more like C or C++ than Java or C#. But like the latter languages, Go includes modern features such as garbage collection, runtime reflection, and support for concurrency.
+Experimental programming language No. 5: Opa
+Web development is too complicated. Even the simplest Web app requires countless lines of code in multiple languages: HTML and JavaScript on the client, Java or PHP on the server, SQL in the database, and so on.
+Opa doesn't replace any of these languages individually. Rather, it seeks to eliminate them all at once, by proposing an entirely new paradigm for Web programming. In an Opa application, the client-side UI, server-side logic, and database I/O are all implemented in a single language, Opa.
+Opa accomplishes this through a combination of client- and server-side frameworks. The Opa compiler decides whether a given routine should run on the client, server, or both, and it outputs code accordingly. For client-side routines, it translates Opa into the appropriate JavaScript code, including AJAX calls.
+Naturally, a system this integrated requires some back-end magic. Opa's runtime environment bundles its own Web server and database management system, which can't be replaced with stand-alone alternatives. That may be a small price to pay, however, for the ability to prototype sophisticated, data-driven Web applications in just a few dozen lines of code. Opa is open source and available now for 64-bit Linux and Mac OS X platforms, with further ports in the works.
+
+Experimental programming language No. 6: Fantom
+Should you develop your applications for Java or .Net? If you code in Fantom, you can take your pick and even switch platforms midstream. That's because Fantom is designed from the ground up for cross-platform portability. The Fantom project includes not just a compiler that can output bytecode for either the JVM or the .Net CLI, but also a set of APIs that abstract away the Java and .Net APIs, creating an additional portability layer.
+
+There are plans to extend Fantom's portability even further. A Fantom-to-JavaScript compiler is already available, and future targets might include the LLVM compiler project, the Parrot VM, and Objective-C for iOS.
+
+But portability is not Fantom's sole raison d'être. While it remains inherently C-like, it is also meant to improve on the languages that inspired it. It tries to strike a middle ground in some of the more contentious syntax debates, such as strong versus dynamic typing, or interfaces versus classes. It adds easy syntax for declaring data structures and serializing objects. And it includes support for functional programming and concurrency built into the language.
+Experimental programming language No. 4: F#
+Functional programming has long been popular with computer scientists and academia, but pure functional languages like Lisp and Haskell are often considered unworkable for real-world software development. One common complaint is that functional-style code can be difficult to integrate with code and libraries written in imperative languages like C++ and Java.
+Like JavaScript, Dart uses C-like syntax and keywords. One significant difference, however, is that while JavaScript is a prototype-based language, objects in Dart are defined using classes and interfaces, as in C++ or Java. Dart also allows programmers to optionally declare variables with static types. The idea is that Dart should be as familiar, dynamic, and fluid as JavaScript, yet allow developers to write code that is faster, easier to maintain, and less susceptible to subtle bugs.
+Computer programming (often shortened to programming, scripting, or coding) is the process of designing, writing, testing, debugging, and maintaining the source code of computer programs. This source code is written in one or more programming languages (such as C++, C#, Java, Python, Smalltalk, etc.). The purpose of programming is to create a set of instructions that computers use to perform specific operations or to exhibit desired behaviors. The process of writing source code often requires expertise in many different subjects, including knowledge of the application domain, specialized algorithms and formal logic.
+Within software engineering, programming (the implementation) is regarded as one phase in a software development process.
+There is an ongoing debate on the extent to which the writing of programs is an art form, a craft, or an engineering discipline.[1] In general, good programming is considered to be the measured application of all three, with the goal of producing an efficient and evolvable software solution (the criteria for "efficient" and "evolvable" vary considerably). The discipline differs from many other technical professions in that programmers, in general, do not need to be licensed or pass any standardized (or governmentally regulated) certification tests in order to call themselves "programmers" or even "software engineers." Because the discipline covers many areas, which may or may not include critical applications, it is debatable whether licensing is required for the profession as a whole. In most cases, the discipline is self-governed by the entities which require the programming, and sometimes very strict environments are defined (e.g. United States Air Force use of AdaCore and security clearance). However, representing oneself as a "Professional Software Engineer" without a license from an accredited institution is illegal in many parts of the world.
+Another ongoing debate is the extent to which the programming language used in writing computer programs affects the form that the final program takes. This debate is analogous to that surrounding the Sapir–Whorf hypothesis[2] in linguistics and cognitive science, which postulates that a particular spoken language's nature influences the habitual thought of its speakers. Different language patterns yield different patterns of thought. This idea challenges the possibility of representing the world perfectly with language, because it acknowledges that the mechanisms of any language condition the thoughts of its speaker community.
+f you've been looking at our reviews on HTML editors, you're probably thinking about doing a little work on your website. You may be thinking about creating an entire website for the first time.
+
+While there are plenty of support forums to help you along your way, the web development community has created an entire language for itself. Get two developers together and you might hear words like “pixels” or things like, “I’m getting a $end error. Bad code in the include.” Unfortunately, this is often the same language they use in the support forums.
+
+Like any foreign language, you need to know some key terms if you’re going to travel into web development country. Below are some commonly-used coding terms:
+
+WYSIWYG (whiz-e-wig) 
+WYSIWYG stands for “what you see is what you get” and is used to describe a visual editor. Visual editors span the gap between beginners and web developers, making it possible to create websites without learning HTML. Much like you can highlight and change the color of text in a document, you can change the text, colors, where you want images to go and more on your website. Visual editors do have flaws, so what you see may not always be what you get, but they make web creation much faster and easier.
+
+Server 
+Your website is hosted on a server, a large computer built specifically to hold tons of information, such as your website files.
+
+HTML
+HyperText Markup Language. HTML is the base code of a website. Written in tags using <angle-brackets> to set code apart from normal text, HTML tells the browser how to view your website. It’s fairly easy to learn the basics; it’s possible to learn the actual language in an hour or so. Putting the basics to use is a little harder, but time and patience can turn pretty much anyone into an HTML coder.
+
+CSS 
+Cascading Style Sheets. If you thought of HTML as a gift box, or framework, CSS is the gift wrapping. The HTML says, “this text goes here as a heading. This space is a sidebar. This box is the content.” CSS defines what each piece looks like: “This header text is large and bold. The sidebar is blue. The content box is 500px by 500px.”
+
+PX (picks)
+Short for “pixel”. Your monitor is made up of single points called pixels, which are used as measurement increments. Instead of “two inches”, you might use “200px” or two hundred pixels. The pixels of an image combine to show you the whole image.
+
+PNG 
+Portable Network Graphics. PNG is an image format, like JPG (j-peg). PNGs are often used in website work. Instead of using an image with a white background on a website with a multi-colored background, the background can be transparent. All you see is the image, not the box around it.
+
+CMS 
+Content Management System. Simply put, a content management system is a clean, organized file vault for your website data. A CMS can be set to specific user definitions with varying levels of security access to your core files. For instance, a website owner would have a higher security access than someone editing text. Good examples of a CMS are WordPress, Joomla and ExpressionEngine. To find out which CMS is right for you, please visit our CMS Review site.
+
+FTP 
+File Transfer Protocol. FTP makes it easy for you to make changes to your website on your computer and then upload those changes. Many HTML editors have FTP capabilities, but you may need a separate program, such as FileZilla or Fetch. Some kind of FTP program is essential if you plan to work on a website.
+
+Front End 
+The front end of your website is the part that visitors see. If you have an online account with a website, the page you land on that says “log in” is part of the front end.
+
+Back End 
+The back end of your website is the part that only authorized users can see. With the online account example above, the back end is the My Account page after you log in.
+
+PHP Include 
+PHP stands for Hypertext Preprocessor and is a type of scripting language. Sometimes, a developer might want to write a separate file that’s only PHP. They “call” that file in the web page with the use of PHP includes. The include tells the server “get this .php file and put what it does here.”
+
+Code 
+Code is the universal term used to define the various tags, symbols, numbers and so on that combine to form a program or web page. There are thousands of coding languages and hundreds of web coding languages.
+
+Script
+Script is a subset of code. Scripts are the go-to guys that run repetitive tasks like auto-filling parts of a web form. They can also be used for more exciting things, however, like sliding or flipping images.
+The language of web development is full of techie terms, acronyms and odd syntax. In fact, it’s complicated enough that you can learn HTML before you’ll understand half the tech terms. While you’re stepping into the world of development, don’t be afraid to ask what a term means if you don’t understand an answer to a question or website critique. Developers make speak another language, but they’re nice about it.
+Another cool plugin for Notepad++ is 'Explorer' which lets you open a folder of files in a sidebar to select and edit. #webdesign #coding
+Expand
+For those using Notepad++ and need it to be more intuitive (like TextMate for Mac) download TextFX (from Plugins manager) #webdesign Should I learn Python or Javascript first? #coding
+@hackrdotco thanks for the follow! Very interesting concept, #crowdsourced #coding. Is this freelance or do companies contract through you?
+This is my workday: "I have no idea how to do this... oh wait, it's working". Repeat ad nauseum. #coding
+Working with Code Snippets in Sublime Text - via @hongkiat #sublimetext #coding
+Looking for #webdesign or #coding advice? #DevSEOChat #forums has a section for that! #SEO #SEOChat
+That moment when you have a breakthrough troubleshooting CSS issues and it makes you want to yell out in relief/joy. #coding 
+10.5 hours of #coding. Yeah I'm spent. Good day today, though! @GQPSF
+Ready for a long night ahead of me. #coding 
+Three Free iPad Apps That Teach Kids To Program   #coding #programming
+#Coding doesn't have to be scary says @cecilycarver from @DMGToronto. Just writing instructions in a specialized language.
+RT @nehabhaskar: #Coding Is Coming To Every Industry You Can Think Of, Time To Start Learning It Now 
+#Coding for Kids! How and Why to teach your children to code:
+Quality programming cheat sheet (You should KNOW these!) #coding
+Can anyone help me make this code more user-friendly?
+Looking to get into web design but need the #coding skills? Check out our Principles to HTML, CSS, JavaScript course: http://ow.ly/Clean programming principles (You should KNOW these!) #coding rules http://bit.ly/ZxPxws   #in
+Codecademy: "Gamification is more than badges; it's about a meaningful experience for the user"   #coding
+1. Koding (public beta)
+Social coding's new kid on the block isn't actually that new. Formerly known as Kodingen, this full-featured, browser-based IDE may still be in beta but it's already got a nice feel to it at "about 20 per cent" complete.
+
+Relying at this stage on the Ace code editor, Koding has a few interesting possibilities already, among them access to MongoDB as an option over SQL.
+Terminal access is handy too, but really, it's too early to tell whether Koding will become a strong contender for the social coding crown. Being free as a base set-up can't hurt though.
+2. Cloud9
+"It's like Google Docs but for code". So goes the promotional punchline. But actually, evolving from the Mozilla Bespin cloud coding tool, Cloud9 is much nicer to look at. And for collaborative coding, it's first rate.
+SSH, FTTP, drag and drop files, and even a local/offline development option for Linux/Mac users. You can share your code and literally have several users operating on the same doc in minutes. Just takes a quick email and you're ready to roll. Deployment options are, of course, available at a price.
+3. CodePen
+The work of Alex Vazquez, Tim Sabat and Chris Coyier, CodePen is focused on having fun with frontend functionality. CSS3 and canvas animation getting special attention.
+Log in with your GitHub ID and either set up your own CSS/HTML/JS experiment or fork one of the numerous and extremely cool explorations already online. Environments can be tailored to incorporate your choice of library: jQuery, MooTools and so on… So pretty much any frontend tinkering can be demoed and deconstructed. This is learning on steroids, great stuff.
+4. Dabblet
+Dabblet means clean and simple CSS/HTML experimentation. The interface gives you up to three panes to view your code and it's resulting output. There is no JS input at present but the snippets can be saved as GitHub Gists and revisited/shared in that fashion.
+To ensure the Dabblet experience is as clean as possible, CSS input employs prefix-free.js (another of Lea Verou's first rate projects). And that is it. No frills, no messing, just clarity and focus. The sharing aspect of the equation is weak, but if that's not a major concern, get dabbling.
+5. Pastebin.me
+This is the bare bones approach to online code sharing. Each snippet set up on Pastebin gets a unique URL, which can be shared via email. Alternatively, if you want to see what people have been up to on the site, just check out the recent posts section.
+A quick scan of these past experiments tells you that Pastebin acts as a workhorse, 'what does this code do?' verification environment for a number of working developers. It could do the same for you, maybe? It runs on CouchDB, and that's good, right?
+6. CSSDesk
+The fact that CSSDesk is the work of lone designer/developer Josh Pyles shows how much can be done by even the smallest of teams these days. Collaboration and experimentation online are here to stay. Not only that but there's a very good chance that tools like Josh's will help to change the way the web is built.
+CSSDesk is fairly basic but it offers a clean environment for style-based experimentation. Live updates appear alongside highlighted code and URLs can be generated with which to share the resulting magic. There's no social aspect to the site so if that's what floats your boat, keep looking.
+7. JSFiddle
+Piotr Zalewa apparently had no idea that JSFiddle was going to become quite as popular as it has, lamenting in one interview that a few of his design decisions on day one are hampering the site today. Well, if that is the case, then they're well-hidden problems – because JSFiddle is a model of usability.
+
+As a JavaScript/HTML/CSS/SCSS debugging, experimentation and sharing site it's one of the best. Choose your libraries, Lint your JS, embed the resulting fiddle or just share the URL. It'll smarten up your code for you too, but there's no completion/hinting, only highlighting.
+
+
+8. jsdo.it
+
+jsdo.it has got it all. Whether you happen to be hacking away at a WebGL experiments, HTML5 game or just plain old JavaScript, the system is ready to go – and the array of importable libraries is impressive too. It just lacks a little something in the UI department.
+
+This shortcoming is largely down to a lack of customisability. This is a shame, because if you go on to set up an account there are lots of goodies to be had in terms of tagging/analysing your output and the discussion boards are pretty lively (though mostly with Japanese). You can even set up a folio page...
+
+
+9. Tinker.io
+
+Chiel Kunkels' Tinker eschews the bells and whistles of other JS/HTML/CSS sandboxes, preferring the virtues of quiet competence and visual simplicity. The result of this is that you focus on the code you're working with, not on other people's, or on the possibility of showing off.
+
+That said, if you want to demo your efforts, Tinker is good enough to automatically version your work each time you save it, so there's plenty of scope for discussion with those you invite to the party. Tinker runs on Node.js, it's open source and is available on GitHub. If you fork your own version, include keyboard shortcuts.
+10. Tinkerbin
+Created for the 2011 Philippine Web Design Conference, Tinkerbin does a reasonable job of restating what should by now be a well-understood format – separate panes for HTML/Haml/JS/CoffeeScript/CSS/Sass/LESS and one for the output. Each consecutive save produces a new version/URL for you to share, and there's also a nice 'code view' mode.
+Tinkerbin enables you to import libraries from external sources – such as Google code – rather than providing settings internally. There's a bit of a shortage of docs here though. For example, the opening page says the list of supported languages includes 'more', though this is nowhereed upon… and feels a bit abandoned.
+11. SQL Fiddle
+
+Who can put hand on heart and say that those three little letters don't cause a terrible sinking feeling? Part of the reason SQL can be difficult is the long set-up required to test even the simplest cases. Well, not any more, thanks to Alaskan developer, Jake Feasel and SQL Fiddle.
+
+You can set up your fiddle to play out against any number of DBs from MS SQL Server to Oracle via good old MySQL. Create a schema to query against, populate tables with a minimal dataset and away you go. As with other sites, if things are still not going your way you can always refer StackOverflow to your fiddling exploit.
+12. ReFiddle
+Well, if JavaScript, SQL and all the more popular scripting languages have their own fiddle pages, why not Regular Expressions? (The bane of any sane coder's existence.)
+While it cannot eliminate the hurt, ReFiddle makes testing and debugging regular expressions in Ruby, JavaScript and .NET a much less painful process. And if you're still not getting anywhere it semi-automates your plaintive posting to StackOverflow.
+True gluttons for punishment can browse current and past Regex submissions and share successful solutions to common problems in the fiddle directory.
+13. CSSDeck
+CSSDeck gets the social aspect right, opening with a page previewing current and most popular experiments. These are nicely varied too, from pure CSS drawing trials to three.js animation tests.
+There are a few ads, which is a little annoying, but the overall feel of the site is lively and engaging. Plus, there's actual documentation, keyboard shortcuts work, and you can sign in from Twitter or GitHub. Libraries, preprocessors, validator: it's all here.
+
+The ability to record 'codecasts' documenting your process is a stand-out feature, and once it's rolled out to all users it could be a 
+14. JS Bin
+
+HTML/CSS/JS plus console and output. Configure them how you like, add libraries and preprocessors or just start playing. JS Bin is really strong on usability. There's a bit of latency in the system compared to some other sandboxes, but the UI is a model of clarity.
+It's also nice being able to codecast your development, because it happens just by sharing a URL – ideal for anyone trying to demonstrate exactly how problems can creep in or how solutions can be crafted. Also, thanks to the console, JS Bin is good for debugging as well as 'show and tell'.
+15. Thimble
+Mozilla, champion of the open web, has made Thimble – a tool to give youngsters and others lacking the resources access to the basic tools of web creation: HTML and CSS.
+Everything happens on the same page, split to reveal the effect which code changes have on display. The most useful aspect of the site is probably it's inline hinting, which does a fair job of elucidating the roles of things like selectors and elements, as well as pointing out when and why they're being used incorrectly.
+16. Eclipse Orion
+The Eclipse IDE has been a mainstay of the desktop programming world for a long, long time, but clearly its creators have been watching what's happening online. So, with that in mind, the Orion project has been spawned. Unfortunately, this is not the cause for celebration that it could have been.
+On paper the system looks great – HTML/JS/CSS editing, Git integration, code hinting and some nice plug-ins such as JSLint and JS Beautifier. And of course, there's the pedigree. But it's horrible to use and dull to look at. Perhaps as the project matures it'll knock what is probably a massively system into some kind of usable shape. But as things stand it's simply not a pleasant experience.
+17. Liveweave
+Liveweave is super simple to use. No need to log in, no sharing – no messing. Just open the page and start coding. Everything happens in a single view, so your JavaScript and styles all appear alongside the HTML. The resulting output runs in an adjoining pane.
+It's surprisingly powerful too, easily handling experiments that have all but killed a MacBook after a few iterations. You can view code alone, split the screen or just marvel at your creation. Sharing, sadly, is nonexistent and the save/download option is non-functional. Debugging is also entirely up to you, but there is code hinting so you may not need it. Yeah, right.
+18. Google Code Playground
+Image search, translation, Google Earth. The list goes on at great length. Interacting with the many and varied Google APIs is one way to rapidly introduce something meaningful to your web pages but where do you start? The Google Code Playground, that's where. Duh!
+It's about as easy as you can imagine. Pick an API and choose from a number of basic solutions to begin hacking; for example, image search with a particular colour restriction. And if you get stuck, launch the debugger with a single click, or hit the books via 'View Docs'. Sharing, strangely for a corporation currently at war with Facebook, is entirely missing.
+19. Pastebin.com
+Pastebin is about as basic as it gets. Paste your code snippet into the text area, choose language from an exhaustive array if you want code highlighting, and set whether the selection is to be publicly listed. That's it.
+It's handy too, that you can share you code with an embeddable hook, or editable text but the main joy is reading 99 per cent manifestos.
+20. Compilr
+Compilr is more than just a simple snippet sharing site – it's a full-functioning IDE capable of handling an exhaustive array of languages, with Console access and automated sharing via Google+, Facebook and Twitter. You can also just email a link to your collaborators.
+Scratch conversation planning starter planning in Scratch 2.0 and 1.4celebrate Scratch 2.0 #Coding
+17-yr-old girl wins #coding competition! Only female to present at the hackathon & only developer working aloneThis 17-Year-Old Coder Is Saving Twitter From TV Spoilers
+Jennie Lamere was the only woman to present at a Boston hackathon. She won it.
+Topcoat - opensource beautiful CSS for the responsive web.
+What’s so great about JavaScript and jQuery? Find out with Patrick McNeil’s other great #coding course:
+Genius: Devs release pirated version of their own game-dev sim, set up to make players fail due to piracy. #coding 
+ The computer #coding skills needed to succeed are not taught in our #schools what do you think? 
+ Coding is still struggling for time in the classroom
+Coding is still struggling for time in the classroom
+Ireland needs to move more quickly to get IT and coding lessons on to the school curriculum
+ The Irish Times @IrishTimes ·
+What are your summer plans? #coding camps or extra CS classes? Our collaborative code editor #Squad can help! 
+Check out the study conducted by @JWCooney - Popularity of 5 commonly used server-side #programming languages #coding
+What is going to be one of the most important and desirable skills in the future?  http://mashable.com/2013/04/30/job-skill-future-coding/ … #coding
+I'm excited for #StartupWeekend in Boulder next weekend!  54 hours of #coding and company creation @swboulder http://Why children should learn the logic of coding via @VentureBeat   #edtech #coding
+How to raise the next Zuckerberg: Six #coding apps for #kids.
+How To Raise The Next Zuckerberg: 6 Coding Apps For Kids
+Some of the tech world's biggest successes began coding early. Here's how to get your kid on that track — for free!
+Women 2.0: Top 5 girl coders to watch. Who's that on the list first? What whaaaattt:… #coding #Women20
+Nice post by @MrReddyMaths on #coding is the next modern lang. @gotynker will help make you fluent. #learn2code
+35 Fresh CSS3 Tutorials and Techniques #Coding
+Why your 8-year-old should be #coding
+Don’t miss this crash course in #HTML #coding with Patrick McNeil. This hands-on course starts today!
+By the way, the new book #coding freedom, by Gabriella Coleman can be downloaded for free here.
+This is what our  #developers do when having a break from #coding
+'CodeSpells' wizard game teaches you how to program in Java. #Coding is becoming revolutionary start here!
+They say to get them good, sart them when they're young: Reasons why your 8yr old should be #coding
+Why your 8-year-old should be #Coding.
+CSS Basics - stuck in the world of nested tables and deprecated markup? You've found the right place! http://bit.ly/r5D4e5  #css #coding
+Looking to get started in #coding? Here’s @PandoDaily’s ten websites to check out:
+One of these sites is going to make me more useful: 10 Websites that Teach #Coding 
+8 Raspberry Pi projects made by kidsVery cool to see kids #programming and #coding so young!
+Ten websites that teach coding and a bunch of other things  #tutorial #coding
+What most schools don't teach: #coding, the new superpower.
+What most schools don't teach
+Learn about a new "superpower" that isn't being taught in in 90% of US schools. Starring Bill Gates, Mark Zuckerberg, will.i.am, Chris Bosh, Jack Dorsey, Ton...
+
+Advice for my unborn daughter: Garrett Heath on how #coding 
+I love to teach my girl @brittkayy0314 a thing or two #coding :D she's my sidekick !
+Day two of coding on the iPads with @boxuk !! #coding #
+1. MIT Open Courseware
+MIT’s Open Courseware offers 2100 courses in a variety of topics, including Electrical Engineering and Computer Science. The free resources include online textbooks, exams, multimedia content, assignments and projects and examples – all from actual MIT courses from the last decade or so.
+2. Coursera
+Coursera launched in April and already has hit the 1 million student mark, and hased to include 0ver 200 courses from 33 universities. If you haven’t heard of Coursera, it is the Stanford-learning-idea-turned-mega-startup that basically lets you take a full university course online taught by a real professor at one of the world’s best schools – for free
+3. Udacity
+Udacity is a free service currently with 14 classes where, “You learn by solving challenging problems… with world-renowned university instructors.” The classes cover topics that seemed geared to not only teaching you to code, but also giving you a solid grounding in math, physics and even, “How to Build a Startup”.
+4. Google Code University
+It’s Google and it’s code, so yeah, it’s a pretty solid free resource, and obviously a good one if you are interested in Android development. Has some more advanced topics as well including distributed systems and web security.
+5. Mozilla Developer Network
+Mozilla knows a thing or two about what makes a good website run, and it’s put together a free learning center that includes work written by the the network and also by other sites, like…
+6. HTML5 Rocks
+Just in case you were wondering, it kind of does. The site has a lot of free info on HTML5, including blog posts, and tutorials.
+7. The Code Player
+The Code Player is a great way to get a real sense of the ebbs and flows of coding (while learning stuff too). It’s kind of like being able to look over the shoulder of a programmer while she works.
+8. Codecademy
+Codecademy was made extra famous at the beginning of this year when NYC Mayor Michael Bloomberg tweeted out that he was going to use the site to learn to code in 2012 (wonder how he’s doing?). Regardless, Codecademy is a popular and free site that adds gamification to the learning process if you want to learn with friends. Codecademy also runs CodeYear.
+9. Khan Academy
+Another “academy”, Khan Academy offers lots of courses beyond programming if you are looking to be a Renaissance man/woman – but if you’re just looking to code, it has that too.
+10. General Assembly
+General Assembly takes a different approach by offering livestream (paid) sessions on topics like “Rapid Prototyping: From Wireframes to HMTL” – you buy an e-ticket on Eventbrite, get a password, and tune into the livestream when it happens.
+11. PeepCode
+PeepCode covers a lot of programming languages, providing downloadable (paid) screencast lessons.
+12. Eloquent JavaScript
+Eloquent JavaScript is actually a book that is completely online for free (or you can buy the ebook on Amazon). From the author’s intro: “JavaScript is the language that is, at the moment, mostly being used to do all kinds of clever and horrible things with pages on the World Wide Web.”
+
+13. Ruby Koans
+If learning Ruby (and this is Ruby, not Ruby-on-Rails) is what you’re looking for, Ruby Koans has a free tutorial, promising to “walk you along the path to enlightenment in order to learn Ruby.”
+14. Learn Code The Hard Way
+Learn Code The Hard Way started with the book (free online) Learn Python The Hard Way and has branched to add other languages including Ruby and C.
+15. Stack Overflow
+While it technically doesn’t have “tutorials” there is a ton of (easily searchable) info on Stack Overflow that can be of great help once you get going. Also, if you ever get stuck on something (and the answer isn’t already there) the community is very good at answering questions.
+
+16. Coder Dojo
+Coder Dojos are places were young people can get together to learn to code, so if you’re a parent that’s thinking of setting your kid on the Path to Instagramum, you might want to see if there is one in your area. The site also has a knowledge base put together by  its instructors/volunteers, but it is relatively limited.
+17. O’Reilly
+Beyond the many many books that O’Reilly publishes, the company also offers (paid) online courses on many different programming languages.
+18. Scratch
+Again, if you are a parent, Scratch is a free downloadable program developed by the MIT Media Lab that helps young kids build interactive stories.
+19. Apple Developer
+If you’re interested in developing for Apple products, it’s a great idea to head over to to Apple’s developer site to see what all the fuss is about and learn from the resources Apple has made available online.
+20. Android Developer
+Google’s Android developer site continues to improve, and includes videos from Google i/o as well as section that goes over best practices for designing apps.
+21. Mobiletuts+
+Mobiletuts+ has free tutorials/blog posts on Android and iOS as well as other mobile-centric needs such as design and also has a premium (paid) service as well.
+22. Udemy
+Udemy offers courses (some free, some paid) on a wide range of subjects, and boasts instructors including Mark Zuckerberg and Marissa Mayer.
+23. Code School
+Code School offers courses and screencasts for a monthly no-contract subscription, and also has a few free courses as well.
+24. Bloc
+Bloc promises to teach you to “become a web developer in 12 weeks.” For a hefty fee, Bloc will team you with a programmer mentor that acts like a personal fitness trainer throughout your learning. For the price tag, it probably makes sense to make this your full-time job for three months if you go this route.
+25. Treehouse
+Treehouse has over 600 videos that you can watch for a monthly fee, as well as a premium subscription that offers more features.
+26. Programr
+Programr takes a different line to learning code: you build stuff until it works. Check out our in-depth interview with Programr 27. Processing
+While it has taken on an open source life of its own for visuals, Processing started out as a way for people to learn programming (in fact, Programr above has integrated it as well).
+ Quite fascinated by Clojure. Lets see how far it goes
+A# .NET
+A# (Axiom)
+A-0 System
+A+
+A++
+ABAP
+ABC
+ABC ALGOL
+ABLE
+ABSET
+ABSYS
+Abundance
+ACC
+Accent
+Ace DASL
+ACT-III
+Action!
+ActionScript
+Ada
+Adenine
+Agda
+Agilent VEE
+Agora
+AIMMS
+Alef
+ALF
+ALGOL 58
+ALGOL 60
+ALGOL 68
+Alice
+Alma-0
+AmbientTalk
+Amiga E
+AMOS
+AMPL
+APL
+AppleScript
+Arc
+ARexx
+Argus
+AspectJ
+ASP.NET
+Assembly language
+ATS
+Ateji PX
+AutoHotkey
+Autocoder
+AutoIt
+AutoLISP / Visual LISP
+Averest
+AWK
+Axum
+Babbage
+BAIL
+Bash
+BASIC
+bc
+BCPL
+BeanShell
+Batch (Windows/Dos)
+Bertrand
+BETA
+Bigwig
+Bistro
+BitC
+BLISS
+Blue
+Bon
+Boo
+Boomerang
+Bourne shell (including bash and ksh)
+BREW
+BPEL
+BUGSYS
+BuildProfessional
+C--
+C++ - ISO/IEC 14882
+C# - ISO/IEC 23270
+C/AL
+Caché ObjectScript
+C Shell
+Caml
+Candle
+Cayenne
+CDuce
+Cecil
+Cel
+Cesil
+Ceylon
+CFML
+Cg
+Ch
+Chapel
+CHAIN
+Charity
+Charm
+Chef
+CHILL
+CHIP-8
+chomski
+ChucK
+CICS
+Cilk
+CL (IBM)
+Claire
+Clarion
+Clean
+Clipper
+CLIST
+Clojure
+CLU
+CMS-2
+COBOL - ISO/IEC 1989
+CobolScript
+Cobra
+CODE
+CoffeeScript
+Cola
+ColdC
+ColdFusion
+Cool
+COMAL
+Combined Programming Language (CPL)
+Common Intermediate Language (CIL)
+Common Lisp (also known as CL)
+COMPASS
+Component Pascal
+COMIT
+Constraint Handling Rules (CHR)
+Converge
+Coral 66
+Corn
+CorVision
+Coq
+COWSEL
+CPL
+csh
+CSP
+Csound
+Curl
+Curry
+Cyclone
+Cython
+DASL (Datapoint's Advanced Systems Language)
+DASL (Distributed Application Specification Language)
+Dart
+DataFlex
+Datalog
+DATATRIEVE
+dBase
+dc
+DCL
+Deesel (formerly G)
+Delphi
+DinkC
+DIBOL
+Dog
+Draco
+Dylan
+DYNAMO
+E#
+Ease
+Easy PL/I
+EASYTRIEVE PLUS
+ECMAScript
+Edinburgh IMP
+EGL
+Eiffel
+ELAN
+Elixir
+Emacs Lisp
+Emerald
+Epigram
+Erlang
+es
+Escapade
+Escher
+ESPOL
+Esterel
+Etoys
+Euclid
+Euler
+Euphoria
+EusLisp Robot Programming Language
+CMS EXEC
+EXEC 2
+F#
+Factor
+Falcon
+Fancy
+Fantom
+FAUST
+Felix
+Ferite
+FFP
+Fjölnir
+FL
+Flavors
+Flex
+FLOW-MATIC
+FOCAL
+FOCUS
+FOIL
+FORMAC
+@Formula
+Forth
+Fortran - ISO/IEC 1539
+Fortress
+FoxBase
+FoxPro
+FP
+FPr
+Franz Lisp
+Frink
+F-Script
+FSProg
+Game Maker Language
+GameMonkey Script
+GAMS
+GAP
+G-code
+Genie
+GDL
+Gibiane
+GJ
+GEORGE
+GLSL
+GNU E
+GM
+Go
+Go!
+GOAL
+Gödel
+Godiva
+GOM (Good Old Mad)
+Goo
+Gosu
+GOTRAN
+GPSS
+GraphTalk
+GRASS
+Groovy
+HAL/S
+Hamilton C shell
+Harbour
+Hartmann pipelines
+Haskell
+Haxe
+High Level Assembly
+HLSL
+Hop
+Hope
+Hugo
+Hume
+HyperTalk
+IBM Basic assembly language
+IBM HAScript
+IBM Informix-4GL
+IBM RPG
+ICI
+Icon
+Id
+IDL
+Idris
+IMP
+Inform
+Io
+Ioke
+IPL
+IPTSCRAE
+ISLISP
+ISPF
+ISWIM
+J#
+J++
+JADE
+Jako
+JAL
+Janus
+JASS
+Java
+JavaScript
+JCL
+JEAN
+Join Java
+JOSS
+Joule
+JOVIAL
+Joy
+JScript
+JavaFX Script
+Julia
+Kaleidoscope
+Karel
+Karel++
+Kaya
+KEE
+KIF
+Kojo
+KRC
+KRL
+KRL (KUKA Robot Language)
+KRYPTON
+ksh
+L# .NET
+LabVIEW
+Ladder
+Lagoona
+LANSA
+Lasso
+LaTeX
+Lava
+LC-3
+Leadwerks Script
+Leda
+Legoscript
+LIL
+LilyPond
+Limbo
+Limnor
+LINC
+Lingo
+Linoleum
+LIS
+LISA
+Lisaac
+Lisp - ISO/IEC 13816
+Lite-C
+Lithe
+Little b
+Logo
+Logtalk
+LPC
+LSE
+LSL
+LiveCode
+Lua
+Lucid
+Lustre
+LYaPAS
+Lynx
+M2001
+M4
+Machine code
+MAD (Michigan Algorithm Decoder)
+MAD/I
+Magik
+Magma
+make
+Maple
+MAPPER (Unisys/Sperry) now part of BIS
+MARK-IV (Sterling/Informatics) now VISION:BUILDER of CA
+Mary
+MASM Microsoft Assembly x86
+Mathematica
+MATLAB
+Maxima (see also Macsyma)
+Max (Max Msp - Graphical Programming Environment)
+MaxScript internal language 3D Studio Max
+Maya (MEL)
+MDL
+Mercury
+Mesa
+Metacard
+Metafont
+MetaL
+Microcode
+MicroScript
+MIIS
+MillScript
+MIMIC
+Mirah
+Miranda
+MIVA Script
+ML
+Moby
+Model 204
+Modelica
+Modula
+Modula-2
+Modula-3
+Mohol
+MOO
+Mortran
+Mouse
+MPD
+MSIL - deprecated name for CIL
+MSL
+MUMPS
+Napier88
+NASM
+NATURAL
+Neko
+Nemerle
+NESL
+Net.Data
+NetLogo
+NetRexx
+NewLISP
+NEWP
+Newspeak
+NewtonScript
+NGL
+Nial
+Nice
+Nickle
+NPL
+Not eXactly C (NXC)
+Not Quite C (NQC)
+Nu
+NSIS
+NWScript
+o:XML
+Oak
+Oberon
+Obix
+OBJ2
+Object Lisp
+ObjectLOGO
+Object REXX
+Object Pascal
+Objective-C
+Objective-J
+Obliq
+Obol
+OCaml
+occam
+occam-π
+Octave
+OmniMark
+Onyx
+Opa
+Opal
+OpenEdge ABL
+OPL
+OPS5
+OptimJ
+Orc
+ORCA/Modula-2
+Oriel
+Orwell
+Oxygene
+Oz
+P#
+PARI/GP
+Pascal - ISO 7185
+Pawn
+PCASTL
+PCF
+PEARL
+PeopleCode
+Perl
+PDL
+PHP
+Phrogram
+Pico
+Pict
+Pike
+PIKT
+PILOT
+Pipelines
+PL-11
+PL/0
+PL/B
+PL/C
+PL/I - ISO 6160
+PL/M
+PL/P
+PL/SQL
+PL360
+PLANC
+Plankalkül
+PLEX
+PLEXIL
+Plus
+POP-11
+PostScript
+PortablE
+Powerhouse
+PowerBuilder - 4GL GUI appl. generator from Sybase
+PowerShell
+PPL
+Processing
+Processing.js
+Prograph
+PROIV
+Prolog
+Visual Prolog
+Promela
+PROTEL
+ProvideX
+Pro*C
+Pure
+Python
+Q (equational programming language)
+Q (programming language from Kx Systems)
+Qalb
+QBasic
+Qi
+Qore
+QtScript
+QuakeC
+QPL
+R++
+Racket
+RAPID
+Rapira
+Ratfiv
+Ratfor
+rc
+REBOL
+Red
+Redcode
+REFAL
+Reia
+Revolution
+rex
+REXX
+Rlab
+ROOP
+RPG
+RPL
+RSL
+RTL/2
+Ruby
+Rust
+S2
+S3
+S-Lang
+S-PLUS
+SA-C
+SabreTalk
+SAIL
+SALSA
+SAM76
+SAS
+SASL
+Sather
+Sawzall
+SBL
+Scala
+Scheme
+Scilab
+Scratch
+Script.NET
+Sed
+Seed7
+Self
+SenseTalk
+SequenceL
+SETL
+Shift Script
+SIMPOL
+SIMSCRIPT
+Simula
+Simulink
+SISAL
+SLIP
+SMALL
+Smalltalk
+Small Basic
+SML
+SNOBOL(SPITBOL)
+Snowball
+SOL
+Span
+SPARK
+SPIN
+SP/k
+SPS
+Squeak
+Squirrel
+SR
+S/SL
+Starlogo
+Strand
+Stata
+Stateflow
+Subtext
+SuperCollider
+SuperTalk
+SYMPL
+SyncCharts
+SystemVerilog
+TACL
+TACPOL
+TADS
+TAL
+Tcl
+Tea
+TECO
+TELCOMP
+TeX
+TEX
+TIE
+Timber
+TMG, compiler-compiler
+Tom
+TOM
+Topspeed
+TPU
+Trac
+TTM
+T-SQL
+TTCN
+Turing
+TUTOR
+TXL
+TypeScript
+Ubercode
+UCSD Pascal
+Unicon
+Uniface
+UNITY
+Unix shell
+UnrealScript
+Vala
+VBA
+VBScript
+Verilog
+VHDL
+Visual Basic
+Visual Basic .NET
+Microsoft Visual C++
+Visual C#
+Visual DataFlex
+Visual DialogScript
+Visual Fortran
+Visual FoxPro
+Visual J++
+Visual J#
+Visual Objects
+VSXu
+
+WATFIV, WATFOR
+WebDNA
+WebQL
+Windows PowerShell
+Winbatch
+
+X++
+X#
+X10
+XBL
+XC (exploits XMOS architecture)
+xHarbour
+XL
+XOTcl
+XPL
+XPL0
+XQuery
+XSB
+XSLT - See XPath
+Yorick
+YQL
+
+Zeno
+ZOPL
+ZPL
+What happens if we were to ban Java?. a Javapocalypse 
+http://youtu.be/E3418SeWZfQ 
+"It's supposed to write once, run everywhere. But it's more like write once, ruin everything..." http://www.javazone.no — Join thousands of developers at Java..
+The final #socialactionapp development day starting soon with @YoungAdvisors and @madebyfieldwork #coding
+its always good to prepare for your future #coding
+cant sleep going to be a nerd and do some #coding
+#Coding Is Coming To Every Industry You Can Think Of, Time To Start Learning It Now 
+Continuing the quest of learning to code this weekend. Just completed CSS Selectors on http://codeacademy.com ! #coding
+Very cool article about the future of #coding! No matter what you do, it’s going to be helpful to learn to code.
+If you want to learn Processing, this was actually a really good (albeit slow) site with lessons! 
+How cool! Students in Mrs. @PetroskiLindsay's class teach the #rsd13 school board about #coding
+Three Free iPad Apps That Teach Kids To Program
+#Coding for Kids! How and Why to teach your children to code
+Quality programming cheat sheet (You should KNOW these!) #coding rules 
+Can anyone help me make this code more user-friendly?
+Looking to get into web design but need the #coding skills? Check out our Principles to HTML, CSS, JavaScript course
+#Traffic RT @Codecademy: "Gamification is more than badges; it's about a meaningful experience for the user" http://ow.ly/lHdVJ  #coding
+"Gamification is more than badges; it's about providing a meaningful experience for the user"
+Should coding be taught in elementary schools? @NBCNews has useful #coding resources for kids:
+ Marissa Bronfman ‏@MarissaBronfman 4 Jun
+'Coding literacy is a huge part of our future' .. Should schools teach #coding? http://bit.ly/117mxrV  via @FastCompany #thefutureisdigital
+Coding Is Coming To Every Industry You Can Think Of, Time To Start...
+Not every coder job involves working in a blue chip tech company or Silicon Valley startup.As British technologist, Conrad Wolfram said in a TED talk on teaching math with computers: “In the real.
+'The similarities between #coding and street fighting: 
+#Coding is going to be helpful in almost every industry. So we should probably start teaching it in school.
+Live coding session with Clojure, Music Overtone and core.logic @ #hotcode
+#Coding Is Coming To Every Industry - 
+#Coding Is Coming To Every Industry You Can Think Of, Time To Start Learning It Now 
+Cursive or coding? What skills do kids really need
+Last week we were joined by students from @iamangelfdn for a #coding workshop at our #LA office. PIC: http://say.ly/otf5Vnc 
+
+Last week we were joined by students from @iamangelfdn for a #coding workshop at our #LA office. PIC:
+I believe everyone should learn to code. The skill of coding is no different from the skill of reading and writing English or any human language. I hold myself up as an example: if an art major can
+So you want teach yourself #coding? @ApplicoMobile's Dir. of Android Engineering @Thomas Karam has tips for you 
+A tired team of volunteer developers sign off. Been #coding since Friday morning. 
+1 week to better #coding #design! Check out this intensive HTML/CSS Coding Bootcamp to kick your skills into shape:
+When #coding, one must ensure one's feet are comfy. Right @juliandramirez ? CC: @torrenegra @ VoiceBunny 
+Programming requires "a high tolerance for failure" 
+How to Be a ‘Woman Programmer’
+There is always that moment when you are alone with the prejudice: the joke, the leer, the disregard, the fact that the moment you walk through the door you are seen as lesser.
+What most schools don't teach
+Learn about a new "superpower" that isn't being taught in in 90% of US schools. Starring Bill Gates, Mark Zuckerberg, will.i.am, Chris Bosh, Jack Dorsey, Ton...
+This App Teaches Kids To Code By Letting Them Make Their Own Games #education #coding
+Stack Overflow – like most online communities I've studied – naturally trends toward increased strictness over time. It's primarily a defense mechanism, an immune system of the sort a child develops after first entering school or daycare and being exposed to the wide, wide world of everyday sneezes and coughs with the occasional meningitis outbreak. It isn't always a pleasant process, but it is, unfortunately, a necessary one if you want to survive.
+
+Consider this question from two years ago:
+
+New programming jargon you coined?
+What programming terms have you coined that have taken off in your own circles (i.e. have heard others repeat it)? It might be within your own team, workplace or garnered greater popularity on the Internet.
+
+Write your programming term, word or phrase in bold text followed by an explanation, citation and/or usage example so we can use it in appropriate context.
+
+Don't repeat common jargon already ingrained in the programming culture like: kludge, automagically, cruft, etc. (unless you coined it).
+
+This question serves in the spirit of communication among programmers through sharing of terminology with each other, to benefit us by its propagation within our own teams and environments.
+
+Is this even a question, really? How many answers does it have?
+
+Three hundred and eighty six!
+
+A question that invites 386 different "answers" isn't a question at all. It's an opinion survey, a poll, a List of X. I suppose you could argue that reading through all those responses would teach you something about programming, but it was pretty clear that the bulk of the responses were far more about laughs and GTKY (Getting to Know You) than learning. That's why it was eventually deleted by experienced Stack Overflow community members. Although it is somewhat borderline in terms of learning, and I didn't personally vote to delete it, I tend to agree that it was correctly deleted. Though opinions vary.
+
+I won't bore you with the entire history, our so-called "war on fun", and the trouble with popularity. Ultimately, Stack Overflow is a college, not a frat house. All the content on the site must exist to serve the mission of learning over entertainment – even if that means making difficult calls about removing some questions and answers that fail to meet those goals, plus or minus 10 percent.
+
+In terms of programmer culture, though, there is precedent in the form of The Jargon File. Unfortunately, we don't have a good designated place for deleted "too fun" questions to live, but all Stack Exchange content is licensed under Creative Commons in perpetuity. Which means, with proper attribution, we can give it a permanent home on our own blogs. So I did. I've collected the top 30 Stack Overflow New Programming Jargon entries below, as judged by the Stack Overflow community. Enjoy.*
+
+1. Yoda Conditions
+zneak
+
+
+Using if(constant == variable) instead of if(variable == constant), like if(4 == foo). Because it's like saying "if blue is the sky" or "if tall is the man".
+
+2. Pokémon Exception Handling
+woot4moo
+
+
+For when you just Gotta Catch 'Em All.
+
+try {
+}
+catch (Exception ex) {
+   // Gotcha!
+}
+3. Egyptian Brackets
+computronium
+
+
+You know the style of brackets where the opening brace goes on the end of the current line, e.g. this?
+
+if (a == b) {
+    printf("hello");
+}
+We used to refer to this style of brackets as "Egyptian brackets". Why? Compare the position of the brackets with the hands in the picture. (This style of brackets is used in Kernighan and Ritchie's book The C Programming Language, so it's known by many as K&R style.)
+
+4. Smug Report
+aaronaught
+
+
+A bug submitted by a user who thinks he knows a lot more about the system's design than he really does. Filled with irrelevant technical details and one or more suggestions (always wrong) about what he thinks is causing the problem and how we should fix it.
+
+Also related to Drug Report (a report so utterly incomprehensible that whoever submitted it must have been smoking crack.), Chug Report (where the submitter is thought to have had one too many), and Shrug Report (a bug report with no error message or repro steps and only a vague description of the problem. Usually contains the phrase "doesn't work.")
+
+5. A Duck
+kyoryu
+
+
+A feature added for no other reason than to draw management attention and be removed, thus avoiding unnecessary changes in other aspects of the product.
+
+I don't know if I actually invented this term or not, but I am certainly not the originator of the story that spawned it.
+
+This started as a piece of Interplay corporate lore. It was well known that producers (a game industry position, roughly equivalent to PMs) had to make a change to everything that was done. The assumption was that subconsciously they felt that if they didn't, they weren't adding value.
+
+The artist working on the queen animations for Battle Chess was aware of this tendency, and came up with an innovative solution. He did the animations for the queen the way that he felt would be best, with one addition: he gave the queen a pet duck. He animated this duck through all of the queen's animations, had it flapping around the corners. He also took great care to make sure that it never overlapped the "actual" animation.
+
+Eventually, it came time for the producer to review the animation set for the queen. The producer sat down and watched all of the animations. When they were done, he turned to the artist and said, "that looks great. Just one thing - get rid of the duck."
+
+6. Refuctoring
+Jason Gorman
+
+
+The process of taking a well-designed piece of code and, through a series of small, reversible changes, making it completely unmaintainable by anyone except yourself.
+
+7. Stringly Typed
+Mark Simpson
+
+
+A riff on strongly typed. Used to describe an implementation that needlessly relies on strings when programmer & refactor friendly options are available.
+
+For example:
+
+Method parameters that take strings when other more appropriate types should be used.
+On the occasion that a string is required in a method call (e.g. network service), the string is then passed and used throughout the rest of the call graph without first converting it to a more suitable internal representation (e.g. parse it and create an enum, then you have strong typing throughout the rest of your codebase).
+Message passing without using typed messages etc.
+Excessively stringly typed code is usually a pain to understand and detonates at runtime with errors that the compiler would normally find.
+
+8. Heisenbug
+unknown
+
+
+A computer bug that disappears or alters its characteristics when an attempt is made to study it. (Wikipedia)
+
+9. Doctype Decoration
+Zurahn
+
+
+When web designers add a doctype declaration but don't bother to write valid markup.
+
+<!DOCTYPE html>
+<BLINK>Now on sale!</BLINK>
+10. Jimmy
+Gord
+
+
+A generalized name for the clueless/new developer.
+
+Found as we were developing a framework component that required minimal knowledge of how it worked for the other developers. We would always phrase our questions as: "What if Jimmy forgets to update the attribute?"
+
+This led to the term: "Jimmy-proof" when referring to well designed framework code.
+
+11. Higgs-Bugson
+gingerbreadboy
+
+
+A hypothetical bug predicted to exist based on a small number of possibly related event log entries and vague anecdotal reports from users, but it is difficult (if not impossible) to reproduce on a dev machine because you don't really know if it's there, and if it is there what is causing it. (see Higgs-Boson)
+
+12. Nopping
+Stanislav
+
+
+I'm writing a scifi novel from the POV of an AI, and their internal language has a lot of programming jargon in it. One of the more generalizable terms is "nopping", which comes from assembler NOP for no-operation. It's similar to 'nap', but doesn't imply sleep, just zoning out. "Stanislav sat watching the screensaver and nopped for a while."
+
+13. Unicorny
+Yehuda Katz
+
+
+An adjective to describe a feature that's so early in the planning stages that it might as well be imaginary. We cribbed this one from Yehuda Katz, who used it in his closing keynote at last year's Windy City Rails to describe some of Rails' upcoming features.
+
+14. Baklava Code
+John D. Cook
+
+
+Code with too many layers.
+
+Baklava is a delicious pastry made with many paper-thin layers of phyllo dough. While thin layers are fine for a pastry, thin software layers don’t add much value, especially when you have many such layers piled on each other. Each layer has to be pushed onto your mental stack as you dive into the code. Furthermore, the layers of phyllo dough are permeable, allowing the honey to soak through. But software abstractions are best when they don’t leak. When you pile layer on top of layer in software, the layers are bound to leak.
+
+15. Hindenbug
+Mike Robinson
+
+
+A catastrophic data destroying bug. "Oh the humanity!"
+
+Also related to Counterbug (a bug you present when presented with a bug caused by the person presenting the bug) and Bloombug (a bug that accidentally generates money).
+16. Fear Driven Development
+When project management adds more pressure (fires someone, moves deadlines forward, subtracts resources from the project, etc).
+Code that cannot be fixed. Like the Hydra of legend, every new fix introduces two new bugs. It should be rewritten.
+A bug in the application that has existed so long that it is now part of the expected functionality, and user support is required to actually fix it.
+When almost every class has the same prefix. IE, when a user clicks on the button, a SmurfAccountView passes a SmurfAccountDTO to the SmurfAccountController. The SmurfID is used to fetch a SmurfOrderHistory which is passed to the SmurfHistoryMatch before forwarding to either SmurfHistoryReviewView or SmurfHistoryReportingView. If a SmurfErrorEvent occurs it is logged by SmurfErrorLogger to ${app}/smurf/log/smurf/smurflog.log
+A prototype that ends up in production. Heard this from a tech at the Fermi lab. He said he didn't coin the term but had heard it used a number of times at Fermi.
+Sometimes, you just have to talk a problem out. I used to go to my boss and talk about something and he'd listen and then I'd just answer my own question and walk out without him saying a thing. I read about someone that put a rubber duck on their monitor so they could talk to it, so rubberducking is talking your way through a problem.
+Placeholder text indicating that documentation is in progress or yet to be completed. Mostly used because FxCop complains when a public function lacks documentation.
+/// <summary>
+/// banana banana banana
+/// </summary>
+public CustomerValidationResponse Validate()
+Other food-related jargon: Programmer Fuel (Mountain Dew, coffee, Mate, anything which gets you well-caffeinated), Hot Potato (Http and Https respectively. Same number of syllables, but more fun to say), Cake (Marty's noob cake broke the build), Chunky Salsa (based on the chunky salsa rule, a single critical error or bug that renders an entire system unusable, especially in a production environment).
+25. Bicrement
+evilteach
+Adding 2 to a variable.
+26. Reality 101 Failure
+Loren Pechtel
+The program (or more likely feature of a program) does exactly what was asked for but when it's deployed it turns out that the problem was misunderstood and it's basically useless.
+27. Mad Girlfriend Bug
+Jeduan Cornejo
+When you see something strange happening, but the software is telling you everything is fine.
+28. Megamoth
+zolomon
+Stands for MEGA MOnolithic meTHod. Often contained inside a God Object, and usually stretches over two screens in height. Megamoths of greater size than 2k LOC have been sighted. Beware of the MEGAMOTH!
+29. Hooker Code
+NullPointerException
+Code that is problematic and causes application instability (application "goes down" often). "Did the site go down again? Yeah, Jim must still have some hooker code in there."
+30. Jenga Code
+This is just the top 30, what I consider to be the most likely candidates for actual new programming jargon based on community upvotes, not just "funny thing that another programmer typed on a webpage and I felt compelled to upvote for hilarity". Because that would be Reddit. If you're itching to see even more, there are plenty more answers to read – three hundred and fifty six more to be precise. Longtime Stack Overflow user Greg Hewgill maintains an archive of old deleted Stack Overflow questions, but this one hasn't quite made it in there yet. In the meantime, try Stack Printer, or if you have the requisite 10k rep on Stack Overflow, you can view the full soft-deleted question on the site.
+Natural language processing (NLP) is a field of computer science, artificial intelligence, and linguistics concerned with the interactions between computers and human (natural) languages. As such, NLP is related to the area of human–computer interaction. Many challenges in NLP involve natural language understanding -- that is, enabling computers to derive meaning from human or natural language input.
+Modern NLP algorithms are based on machine learning, especially statistical machine learning. The paradigm of machine learning is different from that of most prior attempts at language processing. Prior implementations of language-processing tasks typically involved the direct hand coding of large sets of rules. The machine-learning paradigm calls instead for using general learning algorithms — often, although not always, grounded in statistical inference — to automatically learn such rules through the analysis of large corpora of typical real-world examples. A corpus (plural, "corpora") is a set of documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned.
+Stemming
+Text simplification
+Text-to-speech
+Text-proofing
+Natural language search
+Query expansion
+Automated essay scoring
+Truecasing

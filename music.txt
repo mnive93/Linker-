@@ -1,0 +1,1286 @@
+A.R.Rahman	Tamil,Hindi,Telugu,Malayalam,Kannada and English
+Aadesh Shrivastava	Hindi
+Adnan Sami	Hindi
+Ajay-Atul	Marathi,Hindi,Tamil,Sanskrit
+Amit Trivedi	Hindi
+Anand Raj Anand	Hindi
+Anand-Milind	Hindi
+Anil Biswas	Hindi
+	Marathi, Hindi
+Honey Singh	Punjabi
+V. Harikrishna	Kannada, Telugu
+Husnlal Bhagatram
+Ilayaraja	Tamil, Telugu, Malayalam, Hindi, Kannada, English, Marathi[1
+Anirudh Ravichander	Tamil,Hindi
+1	 1	 Justin Bieber	 @justinbieber	 Canada	 37617919
+2	 2	 Lady Gaga	 @ladygaga	 USA	 36218810
+3	 3	 Katy Perry	 @katyperry	 USA	 35048911
+4	 5	 Rihanna	 @rihanna	 USA	 29217969
+5	 6	 Taylor Swift	 @taylorswift13	 USA	 26317147
+6	 8	 Britney Spears	 @britneyspears	 USA	 25757555
+7	 9	 Shakira	 @shakira	 Colombia	 20373031
+8	 10	 Justin Timberlake	 @jtimberlake	 USA	 18854773
+9	 17	 Jennifer Lopez	 @JLo	 USA	 16407892
+10	 18	 Nicki Minaj	 @NICKIMINAJ	 USA	 16257145
+11	 19	 Bruno Mars	 @BrunoMars	 USA	 15895645
+12	 21	 P!nk	 @Pink	 USA	 14883194
+13	 22	 Selena Gomez	 @selenagomez	 USA	 14794264
+14	 23	 Marshall Mathers	 @Eminem	 USA	 14187868
+15	 25	 demetria lovato	 @ddlovato	 USA	 13247361
+16	 26	 Adele	 @OfficialAdele	 United Kingdom	 13008150
+17	 27	 Alicia Keys	 @aliciakeys	 USA	 12654136
+18	 28	 Chris Brown	 @chrisbrown	 USA	 12418597
+19	 29	 Harry Styles	 @Harry_Styles	 United Kingdom	 12264098
+20	 31	 Miley Ray Cyrus	 @MileyCyrus	 USA	 11763425
+21	 32	 One Direction	 @onedirection	 United Kingdom	 11199725
+22	 34	 Lil Wayne WEEZY F	 @LilTunechi	 USA	 11111693
+23	 35	 Niall Horan	 @NiallOfficial	 United Kingdom	 10940372
+24	 38	 Snoop Dogg	 @SnoopDogg	 USA	 10626289
+25	 41	 Louis Tomlinson	 @Louis_Tomlinson	 United Kingdom	 10042876
+26	 42	 Mariah Carey	 @MariahCarey	 USA	 10015009
+27	 43	 Liam Payne	 @Real_Liam_Payne	 United Kingdom	 10009445
+28	 44	 Coldplay	 @coldplay	 United Kingdom	 10002184
+29	 45	 Wiz Khalifa	 @wizkhalifa	 USA	 9951338
+30	 47	 Pitbull	 @Pitbull	 Cuba	 9665355
+31	 49	 Avril Lavigne	 @AvrilLavigne	 Canada	 9435229
+32	 50	 Ashley Tisdale	 @ashleytisdale	 USA	 9343766
+33	 51	 Kanye West	 @kanyewest	 USA	 9310315
+34	 53	 Alejandro Sanz	 @AlejandroSanz	 Spain	 8965234
+35	 54	 iamdiddy	 @iamdiddy	 USA	 8958131
+36	 56	 Zayn Malik	 @zaynmalik	 United Kingdom	 8761045
+37	 60	 Ricky Martin	 @ricky_martin	 Puerto Rico	 8483946
+38	 62	 David Guetta	 @davidguetta	 France	 8292003
+39	 69	 Ivete Sangalo	 @ivetesangalo	 Brazil	 7895392
+40	 70	 50cent	 @50cent	 USA	 7802833
+41	 72	 Juanes	 @juanes	 Colombia	 7515720
+42	 73	 Beyoncé Knowles	 @Beyonce	 USA	 7503011
+43	 75	 Ludacris	 @Ludacris	 USA	 7380986
+44	 78	 Usher	 @UsherRaymondIV	 USA	 7239902
+45	 79	 Agnes Monica	 @agnezmo	 Indonesia	 7235243
+46	 89	 will.i.am	 @iamwill	 USA	 6430308
+47	 91	 Paulina Rubio	 @paurubio	 Mexico	 6413946
+48	 92	 Jessie J	 @JessieJ	 United Kingdom	 6413816
+49	 97	 Jessica Simpson	 @JessicaSimpson	 USA	 6317136
+50	 100	 Trey Songz	 @TreySongz	 USA	 6173332
+51	 101	 Ed Sheeran	 @edsheeran	 United Kingdom	 6167140
+52	 104	 Nick Jonas	 @nickjonas	 USA	 6012511
+53	 107	 Carly Rae Jepsen	 @carlyraejepsen	 Canada	 5858141
+54	 112	 Sherina Munaf	 @sherinamunaf	 Indonesia	 5698343
+55	 127	 T-Raww	 @Tyga	 USA	 5303959
+56	 132	 joe jonas	 @joejonas	 USA	 5132156
+57	 133	 Soulja Boy	 @souljaboy	 USA	 5066129
+58	 136	 Jason Mraz	 @jason_mraz	 USA	 4932803
+59	 138	 Kelly Rowland	 @KELLYROWLAND	 USA	 4867481
+60	 139	 David Bisbal	 @davidbisbal	 Spain	 4831240
+61	 140	 Calle 13	 @Calle13Oficial	 Puerto Rico	 4820257
+62	 145	 Luis Fonsi	 @luisfonsi	 Puerto Rico	 4699810
+63	 150	 Thalia	 @thalia	 Mexico	 4576359
+64	 152	 Queen Latifah	 @IAMQUEENLATIFAH	 USA	 4563508
+65	 153	 Daddy Yankee	 @daddy_yankee	 Puerto Rico	 4562339
+66	 156	 Vidi Aldiano	 @vidialdiano	 Indonesia	 4527451
+67	 158	 Cody Simpson	 @CodySimpson	 Australia	 4511128
+68	 163	 LMFAO	 @LMFAO	 USA	 4431082
+69	 169	 Luan Santana	 @luansantana	 Brazil	 4375047
+70	 170	 Christina Aguilera	 @xtina	 USA	 4369579
+71	 180	 Cher Lloyd	 @CherLloyd	 United Kingdom	 4249328
+72	 181	 Olly Murs	 @ollyofficial	 United Kingdom	 4249175
+73	 185	 afgansyah reza	 @afgansyah_reza	 Indonesia	 4192871
+74	 186	 Lenny Kravitz	 @LennyKravitz	 USA	 4188820
+75	 187	 Jonas Brothers	 @JonasBrothers	 USA	 4185361
+76	 191	 John Legend	 @johnlegend	 USA	 4158382
+77	 195	 Lily Allen	 @lilyrosecooper	 United Kingdom	 4113226
+78	 196	 Rev Run	 @RevRunWisdom	 USA	 4110300
+79	 199	 Adam Levine	 @adamlevine	 USA	 4099147
+80	 214	 Sandy Leah	 @SandyLeah	 Brazil	 3917949
+81	 216	 Mary J. Blige	 @maryjblige	 USA	 3890543
+82	 223	 Sean Kingston	 @SeanKingston	 USA	 3801223
+83	 227	 Jaden Smith	 @officialjaden	 USA	 3753717
+84	 228	 Big Sean	 @BigSean	 USA	 3740183
+85	 230	 Cheryl Cole	 @CherylCole	 United Kingdom	 3726256
+86	 232	 T.I.	 @Tip	 USA	 3723170
+87	 234	 Kelly Clarkson	 @kelly_clarkson	 USA	 3706494
+88	 236	 Yoko Ono	 @yokoono	 Japan	 3690882
+89	 245	 Ricardo Montaner	 @montanertwiter	 Argentina	 3614485
+90	 246	 Mac Miller	 @MacMiller	 USA	 3600670
+91	 249	 LL COOL J	 @llcoolj	 USA	 3590239
+92	 254	 Chayanne	 @CHAYANNEMUSIC	 Puerto Rico	 3531081
+93	 257	 Ne-Yo	 @NeYoCompound	 USA	 3512828
+94	 258	 J. Cole	 @JColeNC	 USA	 3512091
+95	 262	 Juan Luis Guerra	 @JuanLuisGuerra	 Dominican Republic	 3474002
+96	 264	 Miranda Cosgrove	 @MirandaCosgrove	 USA	 3447970
+97	 267	 Enrique Iglesias	 @enrique305	 Spain	 3421631
+98	 271	 Ciara	 @ciara	 USA	 3391816
+99	 274	 Siwon Choi	 @siwon407	 South Korea	 3377469
+100	 279	 Ke$ha	 @keshasuxx	 USA	 3328797
+
+The Baroque era of music took place from 1600 to 1750, as the Baroque artistic style flourished across Europe; and during this time, music genreed in its range and complexity. Baroque music began when the first operas were written and when contrapuntal music became prevalent. German Baroque composers wrote for small ensembles including strings, brass, and woodwinds, as well as choirs, pipe organ, harpsichord, and clavichord. During this period several major music forms were defined that lasted into later periods when they were genreed and evolved further, including the fugue, the invention, the sonata, and the concerto.[19] The late Baroque style was polyphonically complex and ornamental and rich in its melodies. Composers from the Baroque era include Johann Sebastian Bach, George Frideric Handel, and Georg Philipp Telemann.
+Classicism
+W.A. Mozart
+Symphony 40 g-moll
+
+Romantic Music (c. 1810 A.D. to 1900 A.D.) turned the rigid styles and forms of the Classical era into more passionate and expressive pieces. It attempted to increase emotional expression and power to describe deeper truths or human feelings. The emotional and expressive qualities of music came to take precedence over technique and tradition. Romantic composers grew in idiosyncrasy, and went further in the syncretism of different art-forms (such as literature), history (historical figures), or nature itself with music. Romantic love was a prevalent theme in many works composed during this period. In some cases the formal structures from the classical period were preserved, but in many others existing genres, forms, and functions were improved. Also, new forms were created that were deemed better suited to the new subject matter. Opera and ballet continued to evolve.[17]
+In 1800, the music developed by Ludwig van Beethoven and Franz Schubert introduced a more dramatic, expressive style. In Beethoven's case, motifs, developed organically, came to replace melody as the most significant compositional unit. Later Romantic composers such as Pyotr Ilyich Tchaikovsky, Antonín Dvořák, and Gustav Mahler used more elaborated chords and more dissonance to create dramatic tension. They generated complex and often much longer musical works. During Romantic period tonality was at its peak. The late 19th century saw a dramatic expansion in the size of the orchestra, and in the role of concerts as part of urban society. It also saw a new diversity in theatre music, including operetta, and musical comedy and other forms of musical theatre.[17]
+20th- and 21st-century music
+Main article: 20th-century music
+
+
+Double bassist Reggie Workman, tenor saxophone player Pharoah Sanders, and drummer Idris Muhammad performing in 1978
+With 20th-century music, there was a vast increase in music listening as the radio gained popularity and phonographs were used to replay and distribute music. The focus of art music was characterized by exploration of new rhythms, styles, and sounds. Igor Stravinsky, Arnold Schoenberg, and John Cage were all influential composers in 20th-century art music. The invention of sound recording and the ability to edit music gave rise to new sub-genre of classical music, including the acousmatic [21] and Musique concrète schools of electronic composition.
+Jazz evolved and became an important genre of music over the course of the 20th century, and during the second half of that century,  music did the same. Jazz is an American musical artform that originated in the beginning of the 20th century in African American communities in the Southern United States from a confluence of African and European music traditions. The style's West African pedigree is evident in its use of blue notes, improvisation, polyrhythms, syncopation, and the swung note.[22] From its early development until the present, jazz has also incorporated music from 19th- and 20th-century American popular music.[23] Jazz has, from its early-20th-century inception, spawned a variety of subgenres, ranging from New Orleans Dixieland (1910s) to 1970s and 1980s-era jazz- fusion.
+ music is a genre of popular music that developed in the 1960s from 1950s  and roll, abilly, blues, and country music. The sound of  often revolves around the electric guitar or acoustic guitar, and it uses a strong back beat laid down by a rhythm section of electric bass guitar, drums, and keyboard instruments such as organ, piano, or, since the 1970s, analog synthesizers and digital ones and computers since the 1990s. Along with the guitar or keyboards, saxophone and blues-style harmonica are used as soloing instruments. In its "purest form," it "has three chords, a strong, insistent back beat, and a catchy melody."[24] In the late 1960s and early 1970s, it branched out into different subgenres, ranging from blues  and jazz- fusion to heavy metal and punk , as well as the more classical influenced genre of progressive  and several types of experimental  genres.
+Performance
+
+Main article: Performance
+
+
+Sheet music is written representation of music. This is a homorhythmic (i.e., hymn-style) arrangement of a traditional piece entitled "Adeste Fideles", in standard two-staff format for mixed voices.  Play (help·info)
+Notation is the written expression of music notes and rhythms on paper using symbols. When music is written down, the pitches and rhythm of the music is notated, along with instructions on how to perform the music. The study of how to read notation involves music theory, harmony, the study of performance practice, and in some cases an understanding of historical performance methods. Written notation varies with style and period of music. In Western Art music, the most common types of written notation are scores, which include all the music parts of an ensemble piece, and parts, which are the music notation for the individual performers or singers. In popular music, jazz, and blues, the standard musical notation is the lead sheet, which notates the melody, chords, lyrics (if it is a vocal piece), and structure of the music. Scores and parts are also used in popular music and jazz, particularly in large ensembles such as jazz "big bands."
+In popular music, guitarists and electric bass players often read music notated in tablature (often abbreviated as "tab"), which indicates the location of the notes to be played on the instrument using a diagram of the guitar or bass fingerboard. Tabulature was also used in the Baroque era to notate music for the lute, a stringed, fretted instrument. Notated music is produced as sheet music. Musical improvisation is the creation of spontaneous music. Improvisation is often considered an act of instantaneous composition by performers, where compositional techniques are employed with or without preparation. Improvisation is a major part of some types of music, such as blues, jazz, and jazz fusion, in which instrumental performers improvise solos and melody lines. In the Western art music tradition, improvisation was an important skill during the Baroque era and during the Classical era; solo performers and singers improvised virtuoso cadenzas during concerts. However, in the 20th and 21st century, improvisation played a smaller role in Western Art music.
+Theory
+Main article: Music theory
+Music theory encompasses the nature and mechanics of music. It often involves identifying patterns that govern composers' techniques and examining the language and notation of music. In a grand sense, music theory distills and analyzes the parameters or elements of music – rhythm, harmony (harmonic function), melody, structure, form, and texture. Broadly, music theory may include any statement, belief, or conception of or about music.[25] People who study these properties are known as music theorists. Some have applied acoustics, human physiology, and psychology to the explanation of how and why music is perceived. Music has many different fundamentals or elements. These are, but are not limited to: pitch, beat or pulse, rhythm, melody, harmony, texture, allocation of voices, timbre or color, expressive qualities (dynamics and articulation), and form or structure.
+Pitch is a subjective sensation, reflecting generally the lowness or highness of a sound. Rhythm is the arrangement of sounds and silences in time. Meter animates time in regular pulse groupings, called measures or bars. A melody is a series of notes sounding in succession. The notes of a melody are typically created with respect to pitch systems such as scales or modes. Harmony is the study of vertical sonorities in music. Vertical sonority refers to considering the relationships between pitches that occur together; usually this means at the same time, although harmony can also be implied by a melody that outlines a harmonic structure. Notes can be arranged into different scales and modes. Western music theory generally divides the octave into a series of 12 notes that might be included in a piece of music. In music written using the system of major-minor tonality, the key of a piece determines the scale used. Musical texture is the overall sound of a piece of music commonly described according to the number of and relationship between parts or lines of music: monophony, heterophony, polyphony, homophony, or monody.
+Timbre, sometimes called "Color" or "Tone Color" is the quality or sound of a voice or instrument.[26] Expressive Qualities are those elements in music that create change in music that are not related to pitch, rhythm or timbre. They include Dynamics and Articulation. Form is a facet of music theory that explores the concept of musical syntax, on a local and global level. Examples of common forms of Western music include the fugue, the invention, sonata-allegro, canon, strophic, theme and variations, and rondo. Popular Music often makes use of strophic form often in conjunction with Twelve bar blues. Analysis is the effort to describe and explain music.
+This Week's Chart
+1. Selena Gomez - Come And Get It Lyrics
+2. Imagine Dragons - Radioactive Lyrics
+3. Justin Timberlake - Mirrors Lyrics
+4. Fall Out Boy - My Songs Know What You Did In The Dark (light Em' Up) Lyrics
+5. Luke Bryan - Crash My Party Lyrics
+6. Taylor Swift - 22 Lyrics
+7. Demi Lovato - Heart Attack Lyrics
+8. Florida Georgia Line - Cruise Lyrics
+9. Emeli Sande - Next To Me Lyrics
+10. Avril Lavigne - Here's To Never Growing Up Lyrics
+11. Bruno Mars - When I Was Your Man Lyrics
+12. Jason DeRulo - The Other Side Lyrics
+13. Hunter Hayes - I Want Crazy Lyrics
+14. Maroon 5 - Love Somebody Lyrics
+15. Bruno Mars - Treasure Lyrics
+16. Florida Georgia Line - Get Your Shine On Lyrics
+17. Randy Houser - Runnin' Outta Moonlight Lyrics
+18. Lana Del Rey - Young And Beautiful Lyrics
+19. Ed Sheeran - Lego House Lyrics
+20. Phillip Phillips - Gone, Gone, Gone Lyrics
+21. The Band Perry - Done Lyrics
+22. Awolnation - Sail Lyrics
+23. Miranda Lambert - Mama's Broken Heart Lyrics
+24. Drake - Started From The Bottom Lyrics
+25. Jake Owen - Anywhere With You Lyrics
+26. Kip Moore - Hey Pretty Girl Lyrics
+27. Imagine Dragons - Demons Lyrics
+28. Brad Paisley - Beat This Summer Lyrics
+29. The Lumineers - Ho Hey Lyrics
+30. Little Mix - DNA Lyrics
+31. Lady Antebellum - Downtown Lyrics
+32. Capital Cities - Safe And Sound Lyrics
+33. Darius Rucker - Wagon Wheel Lyrics
+34. Chris Brown - Fine China Lyrics
+35. Blake Shelton - Sure Be Cool If You Did Lyrics
+36. Kelly Clarkson - People Like Us Lyrics
+37. Billy Currington - Hey Girl Lyrics
+38. Taylor Swift - I Knew You Were Trouble Lyrics
+39. Imagine Dragons - It's Time Lyrics
+40. Christina Perri - A Thousand Years Lyrics
+41. Fun. - Carry On Lyrics
+42. Brett Eldredge - Don't Ya Lyrics
+43. Zach Sobiech - Clouds Lyrics
+44. Eric Church - Like Jesus Does Lyrics
+45. Krewella - Alive Lyrics
+46. Kid Ink - Money And The Power Lyrics
+47. Carrie Underwood - See You Again Lyrics
+48. Sheryl Crow - Easy Lyrics
+49. Of Monsters And Men - Little Talk Lyrics
+50. Jason Aldean - 1994 Lyrics
+51. Maroon 5 - Daylight Lyrics
+52. George Strait - Give It All We Got Tonight Lyrics
+53. The Wanted - Walks Like Rihanna Lyrics
+54. Keith Urban - Little Bit Of Everything Lyrics
+55. Easton Corbin - All Over The Road Lyrics
+56. Darius Rucker - Wagon Wheel Lyrics
+57. Luke Bryan - Crash My Party Lyrics
+58. Florida Georgia Line - Cruise Lyrics
+59. Demi Lovato - Heart Attack Lyrics
+60. Bruno Mars - When I Was Your Man Lyrics
+61. Avril Lavigne - Here's To Never Growing Up Lyrics
+62. Jason DeRulo - The Other Side Lyrics
+63. Bruno Mars - Treasure Lyrics
+64. Hunter Hayes - I Want Crazy Lyrics
+65. Maroon 5 - Love Somebody Lyrics
+66. Zach Sobiech - Clouds Lyrics
+67. Florida Georgia Line - Get Your Shine On Lyrics
+68. Randy Houser - Runnin' Outta Moonlight Lyrics
+69. Phillip Phillips - Gone, Gone, Gone Lyrics
+70. Awolnation - Sail Lyrics
+71. Ed Sheeran - Lego House Lyrics
+72. The Band Perry - Done Lyrics
+73. Lana Del Rey - Young And Beautiful Lyrics
+74. Miranda Lambert - Mama's Broken Heart Lyrics
+75. Drake - Started From The Bottom Lyrics
+76. Imagine Dragons - Demons Lyrics
+77. Kip Moore - Hey Pretty Girl Lyrics
+78. Brad Paisley - Beat This Summer Lyrics
+79. Lady Antebellum - Downtown Lyrics
+80. Capital Cities - Safe And Sound Lyrics
+81. Chris Brown - Fine China Lyrics
+82. Blake Shelton - Sure Be Cool If You Did Lyrics
+83. Billy Currington - Hey Girl Lyrics
+84. Little Mix - DNA Lyrics
+85. Kelly Clarkson - People Like Us Lyrics
+86. Imagine Dragons - It's Time Lyrics
+87. Brett Eldredge - Don't Ya Lyrics
+88. Fun. - Carry On Lyrics
+89. Eric Church - Like Jesus Does Lyrics
+90. Fall Out Boy - My Songs Know What You Did In The Dark (light Em' Up) Lyrics
+91. Carrie Underwood - See You Again Lyrics
+92. Christina Perri - A Thousand Years Lyrics
+93. Krewella - Alive Lyrics
+94. Jason Aldean - 1994 Lyrics
+95. Of Monsters And Men - Little Talk Lyrics
+96. Easton Corbin - All Over The Road Lyrics
+97. Keith Urban - Little Bit Of Everything Lyrics
+98. Maroon 5 - Daylight Lyrics
+99. George Strait - Give It All We Got Tonight Lyrics
+100. Kenny Chesney - Pirate Flag Lyrics
+In its physical aspect, singing has a well-defined technique that depends on the use of the lungs, which act as an air supply, or bellows; on the larynx, which acts as a reed or vibrator; on the chest and head cavities, which have the function of an amplifier, as the tube in a wind instrument; and on the tongue, which together with the palate, teeth, and lips articulate and impose consonants and vowels on the amplified sound. Though these four mechanisms function independently, they are nevertheless coordinated in the establishment of a vocal technique and are made to interact upon one another.[2] During passive breathing, air is inhaled with the diaphragm while exhalation occurs without any effort. Exhalation may be aided by the abdominal, internal intercostal and lower pelvic muscles. Inhalation is aided by use of external intercostals, scalenes and sternocleidomastoid muscles. The pitch is altered with the vocal cords. With the lips closed, this is called humming.
+The sound of each individual's singing voice is entirely unique not only because of the actual shape and size of an individual's vocal cords but also due to the size and shape of the rest of that person's body. Humans have vocal folds which can loosen, tighten, or change their thickness, and over which breath can be transferred at varying pressures. The shape of the chest and neck, the position of the tongue, and the tightness of otherwise unrelated muscles can be altered. Any one of these actions results in a change in pitch, volume (loudness), timbre, or tone of the sound produced. Sound also resonates within different parts of the body and an individual's size and bone structure can affect the sound produced by an individual.
+Singers can also learn to project sound in certain ways so that it resonates better within their vocal tract. This is known as vocal resonation. Another major influence on vocal sound and production is the function of the larynx which people can manipulate in different ways to produce different sounds. These different kinds of laryngeal function are described as different kinds of vocal registers.[3] The primary method for singers to accomplish this is through the use of the Singer's Formant; which has been shown to match particularly well to the most sensitive part of the ear's frequency range.[4][5]
+Vocal registration [edit]
+Main article: Vocal registration
+Vocal registers
+Highest
+  Whistle
+  Falsetto
+  Modal
+  Vocal fry
+Lowest
+v t e
+Vocal registration refers to the system of vocal registers within the human voice. A register in the human voice is a particular series of tones, produced in the same vibratory pattern of the vocal folds, and possessing the same quality. Registers originate in laryngeal function. They occur because the vocal folds are capable of producing several different vibratory patterns. Each of these vibratory patterns appears within a particular range of pitches and produces certain characteristic sounds.[6] The term "register" can be somewhat confusing as it encompasses several aspects of the human voice. The term register can be used to refer to any of the following:[7]
+A particular part of the vocal range such as the upper, middle, or lower registers.
+A resonance area such as chest voice or head voice.
+A phonatory process (phonation is the process of producing vocal sound by the vibration of the vocal folds that is in turn modified by the resonance of the vocal tract)
+A certain vocal timbre or vocal "colour"
+A region of the voice which is defined or delimited by vocal breaks.
+In linguistics, a register language is a language which combines tone and vowel phonation into a single phonological system. Within speech pathology the term vocal register has three constituent elements: a certain vibratory pattern of the vocal folds, a certain series of pitches, and a certain type of sound. Speech pathologists identify four vocal registers based on the physiology of laryngeal function: the vocal fry register, the modal register, the falsetto register, and the whistle register. This view is also adopted by many vocal pedagogues.[7]
+Vocal resonation [edit]
+Main article: Vocal resonation
+
+
+Vocal resonation is the process by which the basic product of phonation is enhanced in timbre and/or intensity by the air-filled cavities through which it passes on its way to the outside air. Various terms related to the resonation process include amplification, enrichment, enlargement, improvement, intensification, and prolongation, although in strictly scientific usage acoustic authorities would question most of them. The main point to be drawn from these terms by a singer or speaker is that the end result of resonation is, or should be, to make a better sound.[7] There are seven areas that may be listed as possible vocal resonators. In sequence from the lowest within the body to the highest, these areas are the chest, the tracheal tree, the larynx itself, the pharynx, the oral cavity, the nasal cavity, and the sinuses.[8]
+Chest voice and head voice [edit]
+Main articles: Chest voice and Head voice
+Chest voice and head voice are terms used within vocal music. The use of these terms varies widely within vocal pedagogical circles and there is currently no one consistent opinion among vocal music professionals in regards to these terms. Chest voice can be used in relation to a particular part of the vocal range or type of vocal register; a vocal resonance area; or a specific vocal timbre.[7] Head voice can be used in relation to a particular part of the vocal range or type of vocal register or a vocal resonance area.[7]
+History and development [edit]
+The first recorded mention of the terms chest voice and head voice was around the 13th century, when it was distinguished from the "throat voice" (pectoris, guttoris, capitis—at this time it is likely that head voice referred to the falsetto register) by the writers Johannes de Garlandia and Jerome of Moravia.[9] The terms were later adopted within bel canto, the Italian opera singing method, where chest voice was identified as the lowest and head voice the highest of three vocal registers: the chest, passagio and head registers.[10] This approach is still taught by some vocal pedagogists today. Another current popular approach that is based on the bel canto model is to divide both men and women's voices into three registers. Men's voices are divided into "chest register", "head register", and "falsetto register" and woman's voices into "chest register", "middle register", and "head register". Such pedagogists teach that the head register is a vocal technique used in singing to describe the resonance felt in the singer's head.[11]
+However as knowledge of human physiology has increased over the past two hundred years, so has the understanding of the physical process of singing and vocal production. As a result, many vocal pedagogists, such as Ralph Appelman at Indiana University and William Vennard at the University of Southern California, have redefined or even abandoned the use of the terms chest voice and head voice.[10] In particular, the use of the terms chest register and head register have become controversial since vocal registration is more commonly seen today as a product of laryngeal function that is unrelated to the physiology of the chest, lungs, and head. For this reason, many vocal pedagogists argue that it is meaningless to speak of registers being produced in the chest or head. They argue that the vibratory sensations which are felt in these areas are resonance phenomena and should be described in terms related to vocal resonance, not to registers. These vocal pedagogists prefer the terms chest voice and head voice over the term register. This view believes that the problems which people identify as register problems are really problems of resonance adjustment. This view is also in alignment with the views of other academic fields that study vocal registration including: speech pathology, phonetics, and linguistics. Although both methods are still in use, current vocal pedagogical practice tends to adopt the newer more scientific view. Also, some vocal pedagogists take ideas from both viewpoints.[7]
+The contemporary use of the term chest voice often refers to a specific kind of vocal coloration or vocal timbre. In classical singing, its use is limited entirely to the lower part of the modal register or normal voice. Within other forms of singing, chest voice is often applied throughout the modal register. Chest timbre can add a wonderful array of sounds to a singer's vocal interpretive palette.[12] However, the use of overly strong chest voice in the higher registers in an attempt to hit higher notes in the chest can lead to forcing. Forcing can lead consequently to vocal deterioration.[13]
+Classifying singing voices [edit]
+Main articles: Voice type and Voice classification in non-classical music
+Voice type
+Female voices
+Soprano
+Mezzo-soprano
+Contralto
+Male voices
+
+Countertenor
+Tenor
+Baritone
+Bass
+In European classical music and opera, voices are treated like musical instruments. Composers who write vocal music must have an understanding of the skills, talents, and vocal properties of singers. Voice classification is the process by which human singing voices are evaluated and are thereby designated into voice types. These qualities include but are not limited to: vocal range, vocal weight, vocal tessitura, vocal timbre, and vocal transition points such as breaks and lifts within the voice. Other considerations are physical characteristics, speech level, scientific testing, and vocal registration.[14] The science behind voice classification developed within European classical music has been slow in adapting to more modern forms of singing. Voice classification is often used within opera to associate possible roles with potential voices. There are currently several different systems in use within classical music including: the German Fach system and the choral music system among many others. No system is universally applied or accepted.[10]
+However, most classical music systems acknowledge seven different major voice categories. Women are typically divided into three groups: soprano, mezzo-soprano, and contralto. Men are usually divided into four groups: countertenor, tenor, baritone, and bass. When considering voices of pre-pubescent children an eighth term, treble, can be applied. Within each of these major categories there are several sub-categories that identify specific vocal qualities like coloratura facility and vocal weight to differentiate between voices.[7]
+It should be noted that within choral music, singers' voices are divided solely on the basis of vocal range. Choral music most commonly divides vocal parts into high and low voices within each sex (SATB, or soprano, alto, tenor, and bass). As a result, the typical choral situation affords many opportunities for misclassification to occur.[7] Since most people have medium voices, they must be assigned to a part that is either too high or too low for them; the mezzo-soprano must sing soprano or alto and the baritone must sing tenor or bass. Either option can present problems for the singer, but for most singers there are fewer dangers in singing too low than in singing too high.[15]
+Within contemporary forms of music (sometimes referred to as contemporary commercial music), singers are classified by the style of music they sing, such as jazz, pop, blues, soul, country, folk, and  styles. There is currently no authoritative voice classification system within non-classical music. Attempts have been made to adopt classical voice type terms to other forms of singing but such attempts have been met with controversy.[16] The development of voice categorizations were made with the understanding that the singer would be using classical vocal technique within a specified range using unamplified (no microphones) vocal production. Since contemporary musicians use different vocal techniques, microphones, and are not forced to fit into a specific vocal role, applying such terms as soprano, tenor, baritone, etc. can be misleading or even inaccurate.[17]
+Vocal pedagogy [edit]
+
+Main article: Vocal pedagogy
+
+
+Ercole de' Roberti: Concert, c. 1490
+Vocal pedagogy is the study of the teaching of singing. The art and science of vocal pedagogy has a long history that began in Ancient Greece[citation needed] and continues to develop and change today. Professions that practice the art and science of vocal pedagogy include vocal coaches, choral directors, vocal music educators, opera directors, and other teachers of singing.
+Vocal pedagogy concepts are a part of developing proper vocal technique. Typical areas of study include the following:[18][19]
+Human anatomy and physiology as it relates to the physical process of singing
+Vocal health and voice disorders related to singing
+Breathing and air support for singing
+Phonation
+Vocal resonation or Voice projection
+Vocal registration: a particular series of tones, produced in the same vibratory pattern of the vocal folds, and possessing the same quality, which originate in laryngeal function, because each of these vibratory patterns appears within a particular range of pitches and produces certain characteristic sounds.
+Voice classification
+Vocal styles: for classical singers, this includes styles ranging from Lieder to opera; for pop singers, styles can include "belted out" a blues ballads; for jazz singers, styles can include Swing ballads and scatting.
+Techniques used in styles such as sostenuto and legato, range extension, tone quality, vibrato, and coloratura
+Vocal technique [edit]
+Singing when done with proper vocal technique is an integrated and coordinated act that effectively coordinates the physical processes of singing. There are four physical processes involved in producing vocal sound: respiration, phonation, resonation, and articulation. These processes occur in the following sequence:
+Breath is taken
+Sound is initiated in the larynx
+The vocal resonators receive the sound and influence it
+The articulators shape the sound into recognizable units
+Although these four processes are often considered separately when studied, in actual practice they merge into one coordinated function. With an effective singer or speaker, one should rarely be reminded of the process involved as their mind and body are so coordinated that one only perceives the resulting unified function. Many vocal problems result from a lack of coordination within this process.[17]
+Since singing is a coordinated act, it is difficult to discuss any of the individual technical areas and processes without relating them to the others. For example, phonation only comes into perspective when it is connected with respiration; the articulators affect resonance; the resonators affect the vocal folds; the vocal folds affect breath control; and so forth. Vocal problems are often a result of a breakdown in one part of this coordinated process which causes voice teachers to frequently focus in intensively on one area of the process with their student until that issue is resolved. However, some areas of the art of singing are so much the result of coordinated functions that it is hard to discuss them under a traditional heading like phonation, resonation, articulation, or respiration.
+Once the voice student has become aware of the physical processes that make up the act of singing and of how those processes function, the student begins the task of trying to coordinate them. Inevitably, students and teachers will become more concerned with one area of the technique than another. The various processes may progress at different rates, with a resulting imbalance or lack of coordination. The areas of vocal technique which seem to depend most strongly on the student's ability to coordinate various functions are:[7]
+Extending the vocal range to its maximum potential
+Developing consistent vocal production with a consistent tone quality
+Developing flexibility and agility
+Achieving a balanced vibrato
+Developing the singing voice [edit]
+Singing is a skill that requires highly developed muscle reflexes. Singing does not require much muscle strength but it does require a high degree of muscle coordination. Individuals can develop their voices further through the careful and systematic practice of both songs and vocal exercises. Vocal pedagogists instruct their students to exercise their voices in an intelligent manner. Singers should be thinking constantly about the kind of sound they are making and the kind of sensations they are feeling while they are singing.[17] Vocal exercises have several purposes, including[7] warming up the voice; extending the vocal range; "lining up" the voice horizontally and vertically; and acquiring vocal techniques such as legato, staccato, control of dynamics, rapid figurations, learning to sing wide intervals comfortably, singing trills, singing melismas and correcting vocal faults.
+Extending vocal range [edit]
+An important goal of vocal development is to learn to sing to the natural limits of one's vocal range without any obvious or distracting changes of quality or technique. Vocal pedagogists teach that a singer can only achieve this goal when all of the physical processes involved in singing (such as laryngeal action, breath support, resonance adjustment, and articulatory movement) are effectively working together. Most vocal pedagogists believe in coordinating these processes by (1) establishing good vocal habits in the most comfortable tessitura of the voice, and then (2) slowly genreing the range.[3]
+There are three factors that significantly affect the ability to sing higher or lower:
+The energy factor – "energy" has several connotations. It refers to the total response of the body to the making of sound; to a dynamic relationship between the breathing-in muscles and the breathing-out muscles known as the breath support mechanism; to the amount of breath pressure delivered to the vocal folds and their resistance to that pressure; and to the dynamic level of the sound.
+The space factor – "space" refers to the size of the inside of the mouth and the position of the palate and larynx. Generally speaking, a singer's mouth should be opened wider the higher he or she sings. The internal space or position of the soft palate and larynx can be widened by relaxing the throat. Vocal pedagogists describe this as feeling like the "beginning of a yawn".
+The depth factor – "depth" has two connotations. It refers to the actual physical sensations of depth in the body and vocal mechanism, and to mental concepts of depth that are related to tone quality.
+McKinney says, "These three factors can be expressed in three basic rules: (1) As you sing higher, you must use more energy; as you sing lower, you must use less. (2) As you sing higher, you must use more space; as you sing lower, you must use less. (3) As you sing higher, you must use more depth; as you sing lower, you must use less."[7]
+Posture [edit]
+The singing process functions best when certain physical conditions of the body exist. The ability to move air in and out of the body freely and to obtain the needed quantity of air can be seriously affected by the posture of the various parts of the breathing mechanism. A sunken chest position will limit the capacity of the lungs, and a tense abdominal wall will inhibit the downward travel of the diaphragm. Good posture allows the breathing mechanism to fulfill its basic function efficiently without any undue expenditure of energy. Good posture also makes it easier to initiate phonation and to tune the resonators as proper alignment prevents unnecessary tension in the body. Vocal pedagogists have also noted that when singers assume good posture it often provides them with a greater sense of self-assurance and poise while performing. Audiences also tend to respond better to singers with good posture. Habitual good posture also ultimately improves the overall health of the body by enabling better blood circulation and preventing fatigue and stress on the body.[3]
+There are eight components of the ideal singing posture:
+Feet slightly apart
+Legs straight but knees slightly bent
+Hips facing straight forward
+Spine aligned
+Abdomen flat
+Chest comfortably forward
+Shoulders down and back
+Head facing straight forward
+Breathing and breath support [edit]
+Natural breathing has three stages: a breathing-in period, a breathing out period, and a resting or recovery period; these stages are not usually consciously controlled. Within singing there are four stages of breathing: a breathing-in period (inhalation); a setting up controls period (suspension);a controlled exhalation period (phonation); and a recovery period.
+These stages must be under conscious control by the singer until they become conditioned reflexes. Many singers abandon conscious controls before their reflexes are fully conditioned which ultimately leads to chronic vocal problems.[20]
+Vibrato [edit]
+Vibrato is used by singers in which a sustained note wavers very quickly and consistently between a higher and a lower pitch, giving the note a slight quaver. Vibrato is the pulse or wave in a sustained tone. Vibrato occurs naturally, and is the result of proper breath support and a relaxed vocal apparatus.[21] Some singers use vibrato as a means of expression. Many successful artists have built a career on deep, rich vibrato.
+Vocal music
+Main article: Vocal music
+Vocal music is music performed by one or more singers, with or without instrumental accompaniment, in which singing provides the main focus of the piece. Vocal music is probably the oldest form of music, since it does not require any instrument besides the human voice. All musical cultures have some form of vocal music and there are many long standing singing traditions throughout the world's cultures.
+Music which employs singing but does not feature it prominently is generally considered as instrumental music. For example, some blues  songs may have a simple call-and-response chorus, but the emphasis in the song is on the instrumental melodies and improvisation. Vocal music typically features sung words called lyrics, although there are notable examples of vocal music that are performed using non-linguistic syllables or noises, sometimes as musical onomatopoeia. A short piece of vocal music with lyrics is broadly termed a song.
+Genres of vocal music [edit]
+ singer Ian Gillan performing live with Deep Purple in Montreux in 2006
+Main article: Music genre
+Vocal music is written in many different forms and styles which are often labeled within a particular genre of music. These genres include: Art music, Popular music, Traditional music, regional and national music, and fusions of those genres. Within these larger genres are many sub-genres. For example, popular music would encompass blues, jazz, country music, easy listening, hip hop,  music, and several other genres. There may also be a sub-genre within a sub-genre such as vocalese and scat singing in jazz.
+Popular and traditional music [edit]
+In many modern pop musical groups, a lead singer performs the primary vocals or melody of a song, as opposed to a backing singer who sings backup vocals or the harmony of a song. Backing vocalists sing some, but usually not all, parts of the song often singing only in a song's refrain or humming in the background. An exception is five-part gospel a cappella music, where the lead is the highest of the five voices and sings a descant, and not the melody. Some artists may sing both the lead and backing vocals on audio recordings by overlapping recorded vocal tracks.
+Popular music includes a range of vocal styles. Hip-hop uses rapping, the rhythmic delivery of rhymes in a rhythmic speech over a beat or without accompaniment. Some types of rapping consist mostly or entirely of speech and chanting, like the Jamaican "toasting". In some types of rapping, the performers may interpolate short sung or half-sung passages. Blues singing is based on the use of the blue notes–notes sung at a slightly lower pitch than that of the major scale for expressive purposes. In heavy metal and hardcore punk subgenres, vocal styles can include techniques such as screams, shouts, and unusual sounds such as the "death growl".
+One difference between live performances in the popular and Classical genres is that whereas Classical performers often sing without amplification in small- to mid-size halls, in popular music, a microphone and PA system (amplifier and speakers) are used in almost all performance venues, even a small coffee house. The use of the microphone has had several impacts on popular music. For one, it facilitated the development of intimate, expressive singing styles such as "crooning" which would not have enough projection and volume if done without a microphone. As well, pop singers who use microphones can do a range of other vocal styles that would not project without amplification, such as making whispering sounds, humming, and mixing half-sung and sung tones. As well, some performers use the microphone's response patterns to create effects, such as bringing the mic very close to the mouth to get an enhanced bass response, or, in the case of hip-hop beatboxers, doing plosive "p" and "b" sounds into the mic to create percussive effects.
+While some bands use backup singers who only sing when they are onstage, it is common for backup singers in popular music to have other roles. In many  and metal bands, the musicians doing backup vocals also play instruments, such as rhythm guitar, electric bass, or drums. In Latin or Afro-Cuban groups, backup singers may play percussion instruments or shakers while singing. In some pop and hip-hop groups and in musical theater, the backup singers may be required to perform elaborately choreographed dance routines while they sing through headset microphones.
+Careers in singing [edit]
+The salaries and working conditions for vocalists vary a great deal. While jobs in other music fields such as music education tend to be based on full-time, salaried positions, singing jobs tend to be based on contracts for individual shows or performances, or for a sequence of shows (e.g., a two-week series of performances of an opera or musical theater show). Since income from singing jobs can be unsteady, singers often supplement their performing income with other singing-related jobs, such as vocal coaching, voice lessons, or as working as a choral director in a church. Due to the large number of aspiring vocalists, it can be very competitive to get jobs in singing.
+Maria Callas during her final tour in Amsterdam in 1973
+Church choir soloists can make from $30 to $500 per performance (all figures in US dollars). Performers in a community choral group can earn from $200–$3,000 yearly; members of a professional concert choral group can make $80 and up per performance. Singers who perform on radio or TV shows can make $75 and up per show on a local station and $125 and up per national network show (e.g., CBS or NBC). Jazz or pop singers who perform with dance bands or nightclub show groups can make $225 and up per week. Professional opera chorus singers can make from $350–$750 per week. Opera soloists, for which the number of job openings is very limited, can make from $350 to $20,000 per performance for the most elite performers. Classical concert soloists, for which the number of job openings is very limited, have approximate earnings of $350 per performance and up.[22]
+Aspiring singers and vocalists must have musical talent and skill, an excellent voice, the ability to work with people, and a sense of showmanship and drama. Additionally, singers need to have the ambition and drive to continually study and improve,[22] because the process of studying singing does not end after an initial diploma or degree is finished-even decades after finishing their initial training, professional singers continue to seek out vocal coaching to hone their skills, extend their range, and learn new styles. As well, aspiring singers need to gain specialized skills in the vocal techniques used to interpret songs, learn about the vocal literature from their chosen style of music, and gain skills in choral music techniques, sight singing and memorizing songs, and basic skills at the piano, to aid in learning new songs and in ear training or vocal exercises. In Classical singing and in some other genres, a knowledge of foreign languages such as French, Italian, German, or other languages, is needed. Prior to college or university training, aspiring singers should learn to read music, study basic piano, and gain experience with singing, both in choirs and in solo settings.
+College or university degrees are "not always required but the equivalent training is usually necessary".[22] Post-secondary training in singing is available for both Classical and non-Classical singers. In the Classical stream, singing can be studied at conservatories and university music programs; credentials that are available range from diplomas and Bachelor's degrees to Master's degrees and the Doctor of Musical Arts. In popular and jazz styles, college and university degrees are also available, though there are fewer programs.
+Once aspiring vocalists have completed their professional training, they must then take steps to market themselves to buyers of vocal talent, by doing auditions in front of an opera director, choirmaster, or conductor. Depending on the style of vocal music that a person has trained in, the "talent buyers" that they seek out may be record company A&R representatives, opera or musical theater directors, choir directors, nightclub managers, or concert promoters. In addition preparing a resume or CV listing their training and performance experience, singers typically prepare a promotional kit that includes professionally taken photographs (head shots); a CD or DVD with excerpts of vocal performances; and copies of reviews from music critics or journalists. Some singers hire an agent or manager to help them to seek out engagements and other performance opportunities; the agent or manager is often paid by receiving a percentage of the fees that the singer gets from performing onstage.
+
+American singer Harry Belafonte in 1954
+Singing is the act of producing musical sounds with the voice, and augments regular speech by the use of both tonality and rhythm. One who sings is called a singer or vocalist. Singers perform music (Arias, Recitatives, Songs, etc.) that can be sung either with or without accompaniment by musical instruments. Singing is often done in a group of other musicians, such as in a choir of singers with different voice ranges, or in an ensemble with instrumentalists, such as a  group or baroque ensemble.
+In many respects human song is a form of sustained speech, nearly anyone able to speak can also sing. Singing can be formal or informal, arranged or improvised. It may be done for pleasure, comfort, ritual, education, or profit. Excellence in singing may require time, dedication, instruction, and regular practice. If practice is done on a regular basis then the sounds are said to be more clear and strong.[1] Professional singers usually build their careers around one specific musical genre, such as classical or . They typically take voice training provided by voice teachers or vocal coaches throughout their careers.
+"The 500 Greatest Songs of All Time" was the cover story of a special issue of Rolling Stone, issue number 963, published December 9, 2004,[1] a year after the magazine published its list of "The 500 Greatest Albums of All Time". The song list was chosen based on votes by 172 musicians, critics, and music-industry figures. There is only one song published before 1950 and two thirds of them are published in the '60s and '70s. The list is composed overwhelmingly by songs produced in the US and UK (469 of them), a dozen songs from Ireland (8 of them composed by U2), 10 songs from Canada, 7 songs from Jamaica (mostly by Bob Marley and Jimmy Cliff), three from Australia (two of them by AC/DC) and a lone song from Sweden.
+#	Song	Artist
+1	"Like a Rolling Stone"	Bob Dylan
+2	"(I Can't Get No) Satisfaction"	The Rolling Stones
+3	"Imagine"	John Lennon
+4	"What's Going On"	Marvin Gaye
+5	"Respect"	Aretha Franklin
+6	"Good Vibrations"	The Beach Boys
+7	"Johnny B. Goode"	Chuck Berry
+8	"Hey Jude"	The Beatles
+9	"Smells Like Teen Spirit"	Nirvana
+10	"What'd I Say"	Ray Charles
+Q magazine[edit]
+In 2003 Q compiled a list of the "1001 Best Songs Ever". The following comprise the top ten:[2]
+"One" – U2
+"I Say a Little Prayer" – Aretha Franklin
+"Smells Like Teen Spirit" – Nirvana
+"A Day in the Life" – The Beatles
+"In the Ghetto" – Elvis Presley
+"My Name Is" – Eminem
+"Creep" – Radiohead
+"Independent Women Part 1" – Destiny's Child
+"Live Forever" – Oasis
+"River Deep, Mountain High" – Ike & Tina Turner
+VH1[edit]
+In 2003 VH1 compiled a list of the "100 Greatest Songs of the Past 25 Years." The following comprise the top ten:[3]
+"Smells Like Teen Spirit" – Nirvana
+"Billie Jean" – Michael Jackson
+"Sweet Child o' Mine" – Guns N' Roses
+"Lose Yourself" – Eminem
+"One" – U2
+"Walk This Way" – Aerosmith / Run–D.M.C.
+"When Doves Cry" – Prince and The Revolution
+"I Will Always Love You" – Whitney Houston
+"Every Breath You Take" – The Police
+"Like a Virgin" – Madonna
+International polls[edit]
+A global 2005 poll conducted in 66 different countries and translated into 20 languages came up with the following results:[4]
+"We Are the Champions" – Queen
+"Toxic" – Britney Spears
+"Billie Jean" – Michael Jackson
+"Hotel California" – Eagles
+"La Tortura" – Shakira
+"Smells Like Teen Spirit" – Nirvana
+"Yesterday" – The Beatles
+"Imagine" – John Lennon
+"Sultans of Swing" – Dire Straits
+A radio station in Britain conducted a poll to identify British armed forces' favourite song. Queen's "Bohemian Rhapsody" came in first.[5]
+Radio airtime[edit]
+Five songs have received more than 7 million plays over the radio. The information was compiled by Broadcast Music Incorporated, which has collected data for artist royalty payment purposes since 1939.[6]
+The following five songs have received more than 7 million individual plays, with one of them more than 8 million:[7]
+Over 8 million plays
+"You've Lost That Lovin' Feelin'" – The Righteous Brothers
+Over 7 million plays
+"Never My Love" – The Association
+"Yesterday" – The Beatles
+"Stand by Me" – Ben E. King
+"(Sittin' On) The Dock of the Bay" – Otis Redding
+By genre[edit]
+
+Country[edit]
+Country Music Television composed a list of their 100 Greatest Songs of Country Music. Here is the top of the list:[8]
+"Stand by Your Man" – Tammy Wynette
+"He Stopped Loving Her Today" – George Jones
+"Crazy" – Patsy Cline
+"Ring of Fire" – Johnny Cash
+"Your Cheatin' Heart" – Hank Williams
+"Friends in Low Places" – Garth Brooks
+"I Fall to Pieces" – Patsy Cline
+"Galveston" – Glen Campbell
+"Behind Closed Doors" – Charlie Rich
+"Mammas Don't Let Your Babies Grow Up to Be Cowboys" – Waylon Jennings & Willie Nelson
+Dance[edit]
+Mixmag composed a list of their 50 greatest dance tracks of all time, based on readers votes. Here is the top of the list:[9]
+"One More Time" - Daft Punk
+"Adagio for Strings" - Tiësto
+"Smack My Bitch Up" - The Prodigy
+"Born Slippy .NUXX" - Underworld
+"Insomnia" - Faithless
+"Music Sounds Better with You" - Stardust
+"Spastik" - Plastikman
+"For an Angel" - PVD
+"Xpander" - Sasha
+"Right Here, Right Now" - Fatboy Slim
+Folk[edit]
+Folk Alley, an influential radio broadcast and website operated by WKSU-FM at Kent State University, conducted an audience poll that drew from their more than 100,000 listeners in order to create their list of the The 100 Most Essential Folk Songs.[10][11] The following top out the list:[12]
+"This Land Is Your Land" – Woody Guthrie
+"Blowin' in the Wind" – Bob Dylan
+"City of New Orleans" – Steve Goodman
+"If I Had a Hammer" – Pete Seeger
+"Where Have All the Flowers Gone?" – The Kingston Trio
+"Early Morning Rain" – Gordon Lightfoot
+"Suzanne" – Leonard Cohen
+"We Shall Overcome" – Pete Seeger
+"Four Strong Winds" – Ian & Sylvia
+"The Last Thing on My Mind" – Tom Paxton
+Hard [edit]
+VH1 compiled a list of the greatest hard  songs, with the following topping the list:[13]
+"Welcome to the Jungle" – Guns N’ Roses
+"Back in Black" – AC/DC
+"Whole Lotta Love" – Led Zeppelin
+"Paranoid" – Black Sabbath
+"Enter Sandman" – Metallica
+"Won't Get Fooled Again" – The Who
+"Smells Like Teen Spirit" – Nirvana
+"Walk This Way" – Aerosmith
+"Runnin' with the Devil" – Van Halen
+"Ace of Spades" – Motörhead
+Heavy metal[edit]
+In May 2011, Gibson.com released their list of the top 50 metal songs of all time.[14] The top ten are:
+"Master of Puppets" – Metallica
+"Ace of Spades" – Motörhead
+"Crazy Train" – Ozzy Osbourne
+"Iron Man" – Black Sabbath
+"The Number of the Beast" – Iron Maiden
+"War Pigs" – Black Sabbath
+"Paranoid" – Black Sabbath
+"One" – Metallica
+"Hallowed Be Thy Name" – Iron Maiden
+"Breaking the Law" – Judas Priest
+Hip hop[edit]
+VH1 compiled a list of the greatest hip hop songs, with the following making the top ten:
+"Earth Angel"  – BTTF
+"Rapper’s Delight" – The Sugarhill Gang
+"Nuthin' but a 'G' Thang" – Dr. Dre & Snoop Dogg
+"Walk This Way" – Run–D.M.C. ft. Aerosmith
+"The Message" – Grandmaster Flash and the Furious Five
+"Straight Outta Compton" – N.W.A
+"Juicy" – The Notorious B.I.G.
+"Gin and Juice" – Snoop Dogg
+"Push It" – Salt-n-Pepa
+"The Breaks" – Kurtis Blow
+By decade[edit]
+
+1980s[edit]
+The following songs made the top of VH1's "VH1's 100 Greatest Songs of the 80's":[15]
+"Livin' On a Prayer" – Bon Jovi
+"Pour Some Sugar on Me" – Def Leppard
+"Hungry Like the Wolf" – Duran Duran
+"Billie Jean" – Michael Jackson
+"When Doves Cry" – Prince and The Revolution
+"I Can't Go For That (No Can Do)" – Hall & Oates
+"Sweet Child o' Mine" – Guns N' Roses
+"Like a Virgin" – Madonna
+"Walk This Way" – Run-D.M.C. and Aerosmith
+"You Shook Me All Night Long" – AC/DC
+1990s[edit]
+The following songs made the top of VH1's "VH1's 100 Greatest Songs of the 90's":[16]
+"Smells Like Teen Spirit" – Nirvana
+"One" – U2
+"I Want It That Way" – Backstreet Boys
+"I Will Always Love You" – Whitney Houston
+"Vogue" – Madonna
+"Baby Got Back" – Sir Mix-A-Lot
+"...Baby One More Time" – Britney Spears
+"Waterfalls" – TLC
+"Losing My Religion" – R.E.M.
+"Nothing Compares 2 U" – Sinéad O'Connor
+2000s[edit]
+The following are the top ten from Rolling Stone magazine's top songs from the 2000s:[17]
+"Crazy" – Gnarls Barkley
+"99 Problems" – Jay-Z
+"Crazy In Love" – Beyoncé
+"Hey Ya!" – OutKast
+"Paper Planes" – M.I.A.
+"Seven Nation Army" – The White Stripes
+"Maps" – Yeah Yeah Yeahs
+"Rehab" – Amy Winehouse
+"Beautiful Day" – U2
+"Stan" – Eminem
+by playing the violin, and she has fallen into a deep sleep, "oblivious of all grief, mental and physical."
+Music therapy
+Intervention
+ICD-9-CM	93.84
+MeSH	D009147
+Psychology
+Listening to viva la viva reliving the french revolution
+i am sexy and i know it 
+ABBA	
+Dancing Queen	This Swedish group, known for its disco style, was popular in the 70's. The name is based on the initial letters of the singers' first names (Anni, Bjorn, Benny, and Agnetha)
+Whitney Houston	
+I will always love you	Popular since the late 80's, Whitney Houston is often remembered for singing the US national anthem at the 1991 Superbowl and for her marriage to Bobby Brown. She has also acted in several movies and is the cousin of Dionne Warwick.
+Pink Floyd	
+Another brick in the wall, Part II	This psychedelic  band from the UK was most popular during the 70's. Their album The Wall is considered by many to be one of the greatest  albums of all-time.
+Marvin Gaye	
+I heard it through the grapevine	Marvin Gaye, known as the Prince of Soul, was one of Motown's most popular solo artists during the 60's and 70's. He died in 1984 during an argument with his father.
+The Beach Boys	
+Good Vibrations	Known for their California-style  music in the 60's and their vocal harmonies, the Beach Boys are the most successful American  band of all-time.
+Mariah Carey	
+We belong together	Popular since the early 90's, this US singer has had more No. 1 songs on Billboard than any other solo artist. She is most well-known for her five-octave vocal range.
+Aretha Franklin	
+Respect	Known as the Queen of Soul, Aretha Franklin was named the greatest singer of all-time by Rolling Stone magazine. Famous since the 60's, she sang at Barack Obama's presidential inauguration. She is also the godmother of Whitney Houston.
+Ray Charles	
+What'd I say	Blind from age of seven, Ray Charles became popular in the early 50's and was a key player in the racial integration of pop music in the US.
+The Bee Gees	
+Stayin' Alive	The Bee Gees started their career in Australia and eventually became the foremost stars of the the late 70's disco era. The group consisted of three brothers, one of which was famous for his high-pitched falsetto voice.
+James Brown	
+I got you (I feel good)	Known as the Godfather of Soul and "the hardest working man in show business", James Brown is famous for his "scream" and feverish dancing.
+Michael Jackson	
+Billie Jean	Known as the King of Pop, Michael Jackson started his career in the early 70's in a group with his brothers called the Jackson 5. He later went solo and by the 80's had become the most successful entertainer of all-time (according to the Guiness Book of World Records). He lived a highly publicized and controversial life up until his sudden death in 2009. His sister Janet Jackson is also a very famous solo artist.
+Madonna	
+Like a virgin	Popular since the 80's and known as the Queen of Pop, this often controversial singer is the most successful female artist of all-time.
+Jimi Hendrix	
+Purple Sky	Considered the greatest electric guitar player in the history of  music, Jimi Hendrix influenced later guitarists by popularizing the wah-wah pedal and amplifier feedback in the late 60's. Hendrix died an early death in 1970, the exact of circumstances of which are still not fully known.
+Bob Dylan	
+Like a rolling stone	One of the most influential and ground-breaking artists of all-time, this US singer-songwriter became famous in the early 60's as a counterculture folk singer
+Led Zeppelin	
+Stairway to heaven	This British group rose to prominence in the early 70's and became one of the first ever heavy metal bands. Their song "Stairway to Heaven" is often cited as the most requested radio song of all-time.
+Elton John	
+Candle in the wind	Popular since the 70's and known for his flamboyant costumes, Elton John's remake of "Candle in the Wind" for Princess Diana's funeral became the best selling single of all-time.
+Stevie Wonder	
+Superstition	Blind from birth, Stevie Wonder plays several instruments and several genres of music, ranging from soul to pop. He has won more grammy awards than any other male solo artist.
+The Rolling Stones	
+(I can't get no) Satisfaction	This British  band has been playing together for almost 50 years. Second only to the Beatles, they helped lead "The British Invasion" in the mid-60's.
+Elvis Presley	Hound dog	
+Known as the King of  and Roll, or simply "the King", Elvis was popular from the mid 50's until his death in the 70's afterwhich he quickly became a cultural icon. He was so well loved that many people denied his death and to this day, Elvis impersonation is a major worldwide phenomenon.
+The Beatles	
+Hey Jude	The Beatles, made up of Paul McCartney, John Lennon, George Harrison and Ringo Starr, are undeniably the greatest musical group of all-time. Formed in the early 60's, most of their songs were written by McCartney and Lennon and were known for breaking new ground. The UK group also had a tremendous cultural impact up until their breakup in 1970. Most of the members went on to successful solo careers, particularly John Lennon, who was assassinated in 1980.
+May 12 2012: Music really is media that lift me up beyond imagination, and bring me more enthusiast and compassion.
+
+My favorites from Dano http://soundcloud.com/seremonia/sets/elegant . Try listening for a couple of minute, perhaps you’ll will say it’s elegance. Please explore it. It help me much headed to simplicity, warm and elegant inner feeling.
+May 8 2012: Playing live is addictive.
+The communication between the band and audience as well as between band members is instant, palpable and for the most part, wordless (I guess you could point to the lyric but I think that's communication on a different level).
+Driving home on a drizzly, gray morning from a shop that estimated my car repair to be very expensive, I happened to be listening to Cat Stevens, from the 1970s, on the radio. It brought me back to when I was younger, much younger, and the sorts of inner struggles I bore then. As the wipers swished away the raindrops, the music melted my anxiety over the cost to repair my car. 
+Music reminds of us our continuum.
+Cat Steven is one of my favourite artists!
+May 7 2012: I feel just wonderful when I listen to my favorite music (songs). I think that music is the pure language of the soul//heart. One's favorite music can create inside him//her enormously positive feelings of enjoyment, optimism, love, etc. I like mainly POP songs (not all) and I see myself as a lucky one that I can enjoy equally 3 different types of songs from 3 different cultures of Israel, India and the West.
+music makes me feel the love,nature everything but depends upon type of music i am hearing ....:-)
+I live music. It's a part of me, I can't imagine myself without listening to music at least once or twice in a day.
+From the amazing 'classical' pieces of composers from Bach to Schoenberg, to the mind-blowing 70s british prog- (Pink Floyd, Yes, Camel, etc.) and things like RadioHead and Ornatos Violeta, I spend many many hours listening to music, letting it flow through me, felling things never imagined before.
+This is what true music is about, sending you to an outer dimension, to another universe. Listening to proper music in a darkened room, that's my definition of heaven.
+Feels like being in love.
+oh yeah.... one of the most common feelings. it is felt so much that heavy metal invokes feelings of love just like classical ones do
+music is what you want to feel out of it. I am a pianist. a certain piece may invoke a certain feeling, but it is rarely the same as another's feelings. feelings as such when listening to music cannot be defined, neither can it be measured. music is what you make of it.
+10. Trumpet:-
+trumpet
+When it comes to Jazz music the band can’t be completed without a Trumpeter or a trumpet Player. Trumpet is a musical instruments that was born in 1500 BC in the reign of Egyptian King Tutankhamen.This instrument is mainly made up of brass. The trumpets sound were marked as the harbinger of war. The trumpet produce a buzzing sound. This musical instrument is played by blowing air in it with lips and the variation in the standing wave will be produced with the help of 3 or 4 piston valves attached to it.
+9. Clarinet:-
+Clarinet
+Have you ever been to a fat Indian wedding, if yes then you must have seen the shehnai(clarinet). This is a musical instrument that is used mostly on happy occasions. The clarinet is developed in the 18 century in Germany  This musical instrument produce a very high pitched sound which is converted into music with the help of the holes given in it. This musical instrument is made up of wood. This instrument is very difficult to master but once done you can create master piece daily. This instrument is very famous in jazz and classical music.
+8. Saxophone:-
+Saxophone
+If we are talking about the jazz music than the soul of this music is the sound of saxophone. The most romantic and classy music can be played with the help of Saxophone. Saxophone got its name from its creator Adolphe sax in 1864. This musical instrument is like the clarinet which was made up of wood but only in earlier times but now it is made up of brass and produce the romantic music. This insrument was made in belgian.
+7. Harmonica:-
+harmonica
+Mouth organ, french harp or blues harp these are the names of the musical instrument called Harmonica.Harmonica is the musical instrument which is played with the help of free reed. The person has to blow air in a set of holes and behind the hole chamber there is at least one read which is accustomed to the individual pitches. Harmonica was originated in France in the late 19th century. Since then it is used in jazz music, and roll and american folk music.
+6. Violin:-
+violin
+When it comes to Violin it arouses a feeling of true love. The plays of Romeo Juliet and many other love story plays, all uses the sound of violin which is sad,romantic and divine. Violin first came into existence in central Asia in the early 16th century and were called as fiddle. The person who plays it is called fiddler or violinist. It is an musical instrument which is string based and have four strings and is played with the help of bow string which produce vibrations of different pitches.
+5. Acoustic Guitar:-
+Acoustic guitar
+All of you boys, Let me tell you a secret about a musical instrument which every girl wants her boyfriend to play for whenever she is sad or just to show his love to her. Yes i am talking about the acoustic guitar. This is the musical instrument which is made up of timber which is also a string instrument and just uses the acoustic field to spread its music .This is played with help of fingers or plectrum and the vibrations produce in the string depends on the tension,mass and length of the strings.
+4. Flute:-
+Flute
+And now we are talking about the oldest musical instrument that have existed in our society which was first discovered in Slovenia around 39000-40000 years ago. This instrument is related to the Lord Krishna  Flute is the instrument which is made up of wood. It is in a shape of a hollow cylindrical bamboo which has got holes in it, but one thing is it doesn’t have a reed to support on.
+3. Drums:-
+Drums
+When you think of drums you think to . Drums or the whole drum kit was born in last of the nineteenth century in circa. The drum kit consists of a snare drum, bass drums,drum sticks,tom tom drums,hi-hat stands and cymbals. Drums are the music instruments which has to be played fast to get the best music out of them. That’s why this instrument is preferred to produce the fast  music.
+2. Electric Guitar:-
+Electric Guitar
+You all must have heard the  bands and their music what so special about them?? Don’t know, let me tell you yes,its their ing spirit and it came from their hardcore music obtained from their hardcore electric guitars ,drums and all the other stuff. But coming to electric guitars they are normal guitars which convert the acoustic sound to electric impulse which is then amplified by the amplifier and then you get to . This musical instrument was invented by George Beauchamp in 1931.
+1. Piano:-
+
+At last we have reached to the most famous musical instrument that is played all over the world. Piano is the musical instrument that is played by means of a keyboard. Piano has keys paded in an alternate fashion of black and white which gives it a more sophisticated look. This is mainly used for solo performances in Jazz and classical music.
+ Loving Kesha. Been on my loop for long.
+ Lalgudi Jayaraman passed away
+ I am sexy and I know it
+Where are the real record executives we need you back...Pls!!!! #music needs you
+genre
+ semp3.com ‏@tviterast 57m
+#mp3 #music $8.88 The Essential - Alan Jackson (2012) http://goo.gl/AFG0Y 
+genre
+ Justin Bieber ‏@justinbieber 12h
+About to hit one more session. #music #art #focused
+ Retweeted 41,758 times
+genre
+ Big Music Catalog ‏@bigmusiccatalog 1h
+#mp3 #music $2.4 100% Trance Anthems Vol.1  - Various Artists (2012) http://goo.gl/jgxQM3 
+genre
+ A Passion for Jazz!® ‏@APassion4Jazz 1h
+"The light of the future casts the shadows of tomorrow." Sun Ra #jazz #music
+genre
+ Melodishop Music ‏@melodishop_com 1h
+#mp3 #music $0.88 Official Bootleg #1: Live In Tokyo Playing Real Good - David Lindley, Hani Naser (1994) http://goo.gl/aCAsqM 
+genre
+ Salvador Santana ‏@salvadorsantana 1h
+Great news! the music video for Rise Up will be premiering tomorrow morning at 9am PST on http://www.RyanSeacrest.com !!! Stay tuned! #music
+genre
+ semp3.com ‏@tviterast 1h
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+genre
+ Melodishop Music ‏@melodishop_com 2h
+#mp3 #music $0.64 Studio Sessions Bare Tracks (single) - Depeche Mode (2011) http://goo.gl/gvMlL 
+genre
+ Jeff Barrett ‏@BarrettAll 2h
+Just when you think you have seen it all... #Music #JazzBoarding pic.twitter.com/lzGgiML1wX
+ View photo
+ Daniel Pearson ‏@daniel_pearson 2h
+Watch the video for 'I Still Believe' on YouTube. The album Mercury State is out now! #RT #music
+http://www.youtube.com/watch?v=aPL_wKkUPxQ …
+ genre
+
+Daniel Pearson - I Still Believe
+iTunes - https://itunes.apple.com/gb/album/mercury-state/id566034562 Twitter - http://www.twitter.com/daniel_pearson Facebook - http://www.facebook.com/danie...
+
+ SoulBounce ‏@SoulBounce 3h
+New @SoulBounce.com: The Foreign Exchange Bring It On 'Home' http://dlvr.it/3sdcZS  #soulbounce #music
+genre
+ VISIT Milwaukee ‏@visitmilwaukee 3h
+RT @theplanetd: Summerfest, The World's Largest Festival You've Never Heard of http://theplanetd.com/summerfest-music-festival/ … @VisitMilwaukee #music #travel
+genre
+ FredPerrySubculture ‏@FredPerry_Sub 3h
+Alternative singer-songwriter King Krule releases debut album and announces UK/EU tour dates http://bit.ly/12HMUtn  #music
+genre
+ rayna gellert ‏@raynagellert 3h
+A book for you music-geeks: "Hidden in the Mix: The African American Presence in Country Music" - http://www.amazon.com/Hidden-Mix-African-American-Presence/dp/0822351633 … #music
+ View summary
+ iTweetFacts™ ‏@iTweetFacts 4h
+If you play the chorus of "My Name Is" by Eminem backwards he says "It's Eminem." #Music
+genre
+ David Gutowski ‏@largeheartedboy 4h
+Are music blogs dying? http://bit.ly/12HH3nU  #music #blogs via @BMWavesBlog
+genre
+ MyLyricalMind ‏@MyLyricalMind 4h
+My new single PROMISES is now available to Pre order ! http://tinyurl.com/k5ekqzy 
+ An advanced preview is available on itunes =) #music
+genre
+ Speak For Animals ‏@Speak_4_Animals 4h
+Tell the world about the #badgercull through #music! Spare just £0.79 to download Badger Boys today & take a stand: https://itunes.apple.com/gb/album/badger-boys-single/id648033746 …
+ View album
+ Terranomaly ‏@Terranomaly 5h
+Judas Priest To Front First Las Vegas Metal  'N' Roll Fantasy Camp
+http://skygrid.me/18hWF0l  #music
+genre
+ Terranomaly ‏@Terranomaly 5h
+John Legend - Love In The Future: Exclusive album stream
+http://skygrid.me/17h2zlh  #music
+ View summary
+ Melodishop Music ‏@melodishop_com 5h
+#mp3 #music $0.72 Strawberries Oceans Ships Fore - Paul McCartney (1994) http://goo.gl/em7BQ 
+genre
+ Melodishop Music ‏@melodishop_com 5h
+#mp3 #music $0.24 Addiction (single) - Skinny Puppy (1987) http://goo.gl/j0dXF 
+genre
+ David Gutowski ‏@largeheartedboy 5h
+Daily Downloads (Howe Gelb, Ben Sollee Covers Daft Punk, and more) http://bit.ly/17jpyKA  #music @bensollee @TheRealDaftPunk @HoweGelb_
+genre
+ Jodene Shaer ‏@Jodenecoza 5h
+And then I find AWESOME #SATalent ... got to hear this one!! RT @JackStoneSays: Posted a new song: "Tonight" http://www.reverbnation.com/c./poni/224020911 … #music
+genre
+ Big Music Catalog ‏@bigmusiccatalog 5h
+#mp3 #music $12.96 A State Of Trance Year Mix 2012 - Various Artists, Armin Van Buuren (2012) http://goo.gl/LRPGR 
+genre
+ John Terauds ‏@JohnTerauds 5h
+Banff Day 2: Collective wisdom says pretty #music is not the sound of our times and psyches @thebanffcentre #BISQC http://www.musicaltoronto.org/2013/08/27/banff-day-2-collective-wisdom-says-pretty-music-is-not-the-sound-of-our-times-and-psyches/ …
+genre
+ Big Music Catalog ‏@bigmusiccatalog 5h
+#mp3 #music $0.96 The Beatdown - Beatdown (2010) http://goo.gl/MZ3gQn 
+genre
+ JC ‏@JCMUNDO 5h
+Posted a new song: "Summer Time - JC Feat FlowTrackerz" http://www.reverbnation.com/c./poni/224018880 … #music
+genre
+ Melodishop Music ‏@melodishop_com 5h
+#mp3 #music $0.1 The Real Slim Shady (Flipmode RMX) (single) - Eminem (2000) http://goo.gl/vP0sVB 
+genre
+ Katie ‏@katieh101 6h
+my video of Sam Bradley @samueltwitt1 - Lights - at @halfmoonputney London - 26th August 2013 http://www.youtube.com/watch?v=2HHPtSW6nIM …  #music
+ genre
+
+Sam Bradley - Lights - at The Half Moon , Putney, London - 26th...
+http://twitter.com/samueltwitt1 http://sambradley.com http://twitter.com/halfmoonputney http://halfmoon.co.uk
+
+ Big Music Catalog ‏@bigmusiccatalog 6h
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+genre
+ Katie ‏@katieh101 6h
+my video of Sam Bradley @samueltwitt1 - She Moves Me - at @halfmoonputney London - 26th August 2013 http://www.youtube.com/watch?v=otKVIDqMq3c …  #music
+ View media
+ The Best of Zambia ‏@thebestofzambia 6h
+Introducing @Wezi_heartsound A fresh breath of Zambian afro-soul #music http://thebestofzambia.com/?p=25161  Please RT #Zambia
+genre
+ UK music news ‏@uk_music_news 6h
+Haim announce headline UK and European winter tour - tickets: Sisters to follow release of Da... http://tinyurl.com/mjretk5  #festival #music
+genre
+ semp3.com ‏@tviterast 7h
+#mp3 #music $0.16 Psychological Operations (Split With Unearthly Trance) (single) - Suma, Unearthly Trance (2009) http://goo.gl/Cx27uK 
+genre
+ Olga Kay ‏@OlgaKay 8h
+I finally found a very real, emotional, heartbreaking and on repeat for DAYS album... Thank you @thenbhd keep going B&W #music
+genre
+ Cułłi™ ‏@JCULLI 8h
+If your awake Buy @EMINEM new single Berzerk [Prod. By Rick Ruben] Off Marshall Mathers LP 2 dropping 11-5-13 #music https://itun.es/us/A81rP 
+ View album
+ Justin Bieber ‏@justinbieber 12h
+About to hit one more session. #music #art #focused
+genre
+ semp3.com ‏@tviterast 12h
+#mp3 #music $0.16 Air & Lack Thereof (EP) (cat #: Hemlock Recordings – HEK004) - James Blake (2009) http://goo.gl/R3pwx 
+genre
+ semp3.com ‏@tviterast 12h
+#mp3 #music $1.28 Fall For You (JP Retail) - Secondhand Serenade (2009) http://goo.gl/qwhNnC 
+genre
+ Melodishop Music ‏@melodishop_com 13h
+#mp3 #music $0.4 La Passion (Single) - Gigi D'Agostino (1999) http://goo.gl/mqXO9 
+genre
+ Alexandre Korm ‏@AKtheRapper 13h
+Freestyling to beautiful instruments on my balcony #music
+genre
+ Melodishop Music ‏@melodishop_com 13h
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+genre
+ Lou Brutus ‏@LouBrutus 14h
+While I may be the only guy Taylor Swift hasn't written a nasty song about, I have drank Jäger w Slayer, so I got that goin' for me. #Music
+genre
+ Big Music Catalog ‏@bigmusiccatalog 14h
+#mp3 #music $0.24 Addiction (single) - Skinny Puppy (1987) http://goo.gl/j0dXF 
+genre
+ Melodishop Music ‏@melodishop_com 14h
+#mp3 #music $0.96 Raingods With Zippos - Fish (1999) http://goo.gl/x9MTz4 
+genre
+ Kory Brown ‏@kory_brown 14h
+Where I like to sit and wind down.  Getting in a little practice for this weekends show.  #music… http://instagram.com/p/dgH8M2CEed/ 
+genre
+ A Passion for Jazz!® ‏@APassion4Jazz 14h
+"Once you have been bitten by the #Jazz bug, it is not a choice anymore." Terri Lyne Carrington #music
+genre
+ Craig Campbell ‏@craigcampbelltv 15h
+Nice shot!! RT @kswartzlander: Craig Campbell live #music http://instagram.com/p/dgCAf_SNnb/ 
+genre
+ Big Music Catalog ‏@bigmusiccatalog 15h
+#mp3 #music $1.2 The Beginners Guide to the Galaxy of Psi-Trance (2CD) - Various Artists (1996) http://goo.gl/Nd7WMV 
+genre
+ Salvador Santana ‏@salvadorsantana 16h
+Performing for students! Love what I do #music #riseup http://instagram.com/p/df9RHQO18j/ 
+genre
+ Merola Opera Program ‏@merolaopera 17h
+News: 5 operas about politics. Or..It's not over until Richard Nixon sings http://dld.bz/cN3SJ  #opera #music
+genre
+ A Passion for Jazz!® ‏@APassion4Jazz 17h
+#jazz Download & print free #music manuscript staff paper. http://bit.ly/13G8mg9 
+genre
+ DOLLAR BOYZ ® ‏@DOLLARBOYZ 17h
+Posted a new song: "YOUNGKINGS REMIX SONG" http://www.reverbnation.com/c./poni/223921692 … #music
+genre
+ Johnny (G) Scott ™ ‏@CorOfTheSUN 17h
+Nile Rodgers Talks Working With David Guetta, Avicii, Adam Lambert & Daft Punk on MTV VMAs Red Carpe http://youtu.be/iVFWJ20l8ng  #Music
+ genre
+
+Nile Rodgers Talks Working With David Guetta, Avicii, Adam Lambert &...
+Nile Rodgers Talks Working With Adam Lambert, Avicii, David Guetta & Daft Punk on the red carpet at the 2013 MTV Video Music Awards on August 25, 2013 at Bar...
+
+ RayBeckerman ‏@RayBeckerman 18h
+"Midnight hour" BB King, Stevie Ray Vaughan, & Etta James & friends http://goo.gl/acC7H   #music #
+genre
+ Katie ‏@katieh101 18h
+my video of Sam Bradley @samueltwitt1 - You Dont Mean Nothing - at @halfmoonputney London - 26th August 2013 http://www.youtube.com/watch?v=RW56A9SQhv8 … #music
+ View media
+ JLC® ‏@JLCova 18h
+Insuperable esta obra maestra #music #jazz ♫ "To the End of the World" by Pat Metheny Group http://sdtk.fm/15d5Vb8 
+ View media
+ CD Baby ‏@cdbaby 20h
+8 Ways to Promote Your #Music with #VINE : http://bit.ly/X2AXLU 
+ genre
+ 
+8 Ways to Promote Your Music with Vine
+If you're a DIY musician, you should promote your music on Vine, Twitter's new micro-video app for iPhone. It's a great way to share short content with fans
+ Melodishop Music ‏@melodishop_com 20h
+#mp3 #music $0.16 Desectation Smile (single) - Red Hot Chili Peppers (2007) http://goo.gl/kHTY7p 
+genre
+ East Coast Music ‏@EastCoastMusic 21h
+Love this! @XtinaMartin is stunning in her new video "Sleeping With A Stranger." http://ow.ly/ogLfA  #music #video
+ View media
+ CD Baby ‏@cdbaby 21h
+How to Deal with Negative #Reviews of Your #Music : http://bit.ly/11CknBw 
+ View summary
+ A Passion for Jazz!® ‏@APassion4Jazz 21h
+"#Music is everybody's possession. It's only publishers who think that people own it." John Lennon #jazz
+genre
+ Carol's Daughter ‏@carolsdaughter 21h
+Jamming to Daft Punk f/ Pharrell - 'Lose Yourself to Dance'! Heard it? LISTEN: http://buff.ly/1cacASz  (via @soulculture) #music #nowplaying
+genre
+ Big Music Catalog ‏@bigmusiccatalog 22h
+#mp3 #music $1.28 The Best of Bar-Kays volume 2 - Bar-Kays (1996) http://goo.gl/eM1Ux 
+genre
+ Play For Keeps ‏@PlayForKeeps 22h
+Check out some of our original #music! Here is one of our songs called "Come Around". Let us know what you think: http://bit.ly/PFKCome 
+ View media
+ Sabrina Signs ‏@BSigns 22h
+Hello!  ***looks out into the Twittersphere*****  I make #music!!!! :D RT #Share https://soundcloud.com/sabrinasigns 
+19 cover songs performed by Ween at @largeheartedboy http://bit.ly/13QhuUu  #music #covers
+#mp3 #music $0.96 Caressing And Lying - Ivri Lider (1997) http://goo.gl/o6fj1R 
+#mp3 #music $3.12 Delta Time - Ry Cooder, Hans Theessink, Terry Evans (2012) http://goo.gl/jpMoz 
+Listen: @3dnatee - Control Yourself (Prod. Sunny Dukes) | New Music http://stupidDOPE.com/?p=230272  #stupidDOPE #Music
+Why Did Humans Invent Music? http://ow.ly/oeXxj  #music
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+#mp3 #music $0.24 Addiction (single) - Skinny Puppy (1987) http://goo.gl/j0dXF 
+#Music - Call these boys. Itunes. Worldwide. Happy Monday! http://instagram.com/p/dfG0_VLXhu/ 
+Less than 24hrs left until @DannyFernandes drops his new record #BreatheAgain! Have you pre-ordered it yet? http://bit.ly/14LipDB  #Music
+RT Here's a clip of my performance at the Virgin Mobile Mod Club #Music #Toronto  http://po.st/JvXPG1  via @imgflip
+Focus on Miley's newest hit single Wrecking Ball. It's a killer track #music #miley http://www.youtube.com/watch?v=mRFHAvdwXXs&feature=youtu.be …
+We speak to @The1975 frontman Matt Healy about playing Glastonbury and supporting @rollingstones : http://uk.bazaar.com/174k4CU  #music
+The 1975 on supporting the Rolling Stones
+#mp3 #music $0.24 We Takin' Over (single) - Akon, T.I., Dj Khaled, Rick Ro (2007) http://goo.gl/hrs3Rv 
+#music #HelloEverywhere Meet Shai http://shailittlejohn.com  contemporary country songwriters and recording artist straight from Nashville!
+This just made my day! Thank you @getaclewis for taking me along on your ride. #honored #music… http://instagram.com/p/dezarRlLMj/ 
+This is a real nice song!: The OFFICIAL Red Jumpsuit Apparatus Video - Remember Me #music http://bit.ly/18fsNBA  - sp
+#mp3 #music $0.24 Addiction (single) - Skinny Puppy (1987) http://goo.gl/j0dXF 
+My new office. Dreams do come true! Miss. Lauren's Music Studio - redesign in progress. #music #lovelife pic.twitter.com/Hkrnp14aEl
+#music and #fashion .. http://instagram.com/p/denzVeKpI7/ 
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+Guys please share my music around as much as you can  it helps so much  https://www.youtube.com/watch?v=CKy0gC5AI_E … #music
+It's HERE the debut album from @NaughtyBoyMusic http://po.st/HotelCabanaiT  don't sleep on this...Cos nobody sleeps there! #HotelCabana #Music
+Daily Downloads (Kid Icarus, Ski Lodge, and more) http://bit.ly/142Tbh1  #music @skiilodge
+#mp3 #music $2.56 Kinetik Festival Volume Two (2CD) - Various Artists (2009) http://goo.gl/YQFD3J 
+#mp3 #music $0.96 Punk University - Various Artists (1994) http://goo.gl/nfxKvD 
+The past several years have been dark for America's orchestras, which seem in the grip of a strange mania. http://on.tnr.com/16KEAKm  #music
+A song about mountain climbing Close To The Clouds by Under A Banner live at Pagan Pride Festival 2013: http://youtu.be/_SuufmcebRA  #music
+what better way to start the day listening to some #music! http://bit.ly/121DiJE 
+#leedsfestival #music
+#mp3 #music $0.56 Plays Ballads - Ben Webster (1967) http://goo.gl/zBapW 
+Detroit contributor Kelly Frazier (@rensoul) caught up with LA-based dubstep artist  @12thplanet ---> http://www.onesmallseed.com/2013/08/the-virtuosity-of-140-bpm-an-interview-with-12th-planet/ …  #music
+#mp3 #music $0.88 Hong Kong, Baby - Pintandwefall (2009) http://goo.gl/o94GEQ 
+#mp3 #music $1.04 Still Fighting The War - Slaid Cleaves (2013) http://goo.gl/qQXEbA 
+#mp3 #music $2 Need For Speed Underground - Various Artists (2003) http://goo.gl/Bh3t87 
+#mp3 #music $8 Best Of 538 Dance Smash (5CD) - Various Artists (2009) http://goo.gl/77ymRY 
+#mp3 #music $2.88 Black Hawk Down [Complete Score] - Hans Zimmer (2002) http://goo.gl/byiqe 
+Why Did Humans Invent #Music? http://ow.ly/og7vo  @NatGeo via @m_m_campbell #psychology ...a social glue
+#mp3 #music $0.56 Trio  Live - Pat Metheny Trio (2000) http://goo.gl/6cGJUl 
+#mp3 #music $0.88 Coming Around Again - Carly Simon (1987) http://goo.gl/LkQMux 
+If you talk to the Bassist during a break, you will not be able to tell whether or not he's listening. #jazz #music http://bit.ly/16icGw 
+"They're singing you praises while stealing your phrases." Charles Mingus #jazz #music
+Watch: @Macklemore & @RyanLewis - 2013 @MTV VMA Performance | Video Stream http://stupidDOPE.com/?p=229836  #stupidDOPE #Music
+"Ballad of Harry Moore" Sweet Honey in the  with Bernice Johnson Reagon http://goo.gl/70YuV   #music #freedom
+Second concert in two nights. A little tired but ready for @bushwalla to entertain me. #music #concert… http://instagram.com/p/ddb-M9igDT/ 
+#mp3 #music $4.48 Assassin's Creed Revelations - Jesper Kyd, Lorne Balfe (2011) http://goo.gl/0K06K 
+Justin just showed everyone how it's not about how crazy your costume is, or twerking. He brought back what the VMAs are really about #music
+"Diz is it... whenever I want to learn something I go & listen to Diz." Miles Davis #jazz #music
+Soul Sides: Under Further Consideration #1: Reachin’ (a new refutation of time and space) #music  
+Tip:  Burning Man Festival Nevada: not only #innovation in #music, but recharging economy http://live.huffingtonpost.com/r/segment/burners-take-economic-innovation-beyond-burning-man/5212a660fe34442034000807 … @HuffPostArts
+Great shoot with good people. Thanks @nickbrazinsky & @RealYoungNero! "Break it down" #music #video… http://instagram.com/p/ddIGRqlZDY/ 
+genre
+In the studio finishing up my EP! Loving every minute... hour... day... and year. Be prepared for something different. #music #comingsoon
+Today's free & legal music downloads at @largeheartedboy include 19 cover songs performed by Ween
+Making my way downtown 😊 #jamming #music 
+Video Music Awards 2013: All Access Live on MTV: 2013 Video Music Awards: All Access Live
+For free #Music and Downloads click here 
+#mp3 #music $1.52 Penthouse Presents: Special Request Vol. 3 - Various Artists, Busy Signal
+Turns out that even being a Beatle doesn't make you a perfect human being.
+#mp3 #music $1.12 We're Not Happy 'Til You're Not Happy - Reel Big Fish (2005)
+Happy B-day Wayne Shorter, Pat Martino, Bob Crosby & Leonard Bernstein born 8/25. #jazz #music
+#mp3 #music $0.8 Katarsis - Methedras (2009)
+#mp3 #music $4.48 Assassin's Creed Revelations - Jesper Kyd, Lorne Balfe (2011)
+We speak to country  chick @lissiemusic about her style and inspirations:
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001)
+Danielle Bradbery: A Country Singer Headed to the Top By Lexie Houghtaling/Fox News #music
+#mp3 #music $0.1 Teutonic Beats Vol.1 - Westbam (1989) http://goo.gl/CCm1ad 
+Get a FREE song just for clicking and sharing. Please help me prepare for the launch of my album.
+Why Did Humans Invent #Music? @NatGeo #vma
+"I'm always looking for ways to develop as a #Jazz artist, to find different ways of using my voice." Cassandra Wilson #music
+I don't think I have ever met a single person who isnt moved by #music of some kind. ~Lesley Garrett #Quote
+"The point of opera is that people are moved by the emotions and music." Alexander McCall Smith #opera #music
+The Icelandic Symphony Orchestra are playing at the BBC Proms next summer! 
+The 60s biggest music stars turned the “Things Go Better With Coke” jingle into radio hits 
+Awww I was so young shout out to @therealfrankiej for that track  #music #tb#Music and weed just go together.
+PEAKNOTS: A Sunday color edition as Snoopy goes w @Slipknot's "Psychosocial"  #Slipknot #Music 
+#mp3 #music $1.6 The Complete Greatest Hits - Gordon Lightfoot (2002)
+#mp3 #music $1.6 The Symphonic Jean-Michel Jarre - James Fitzpatrick, Nic Raine, Gareth Williams (2006) 
+#mp3 #music $1.6 The Complete Greatest Hits - Gordon Lightfoot (2002)
+Shorties (Live Replacements Shows, @MargaretAtwood's Biologist Fans, and more) #books #music
+new mix... enjoy and pass along:soundcloud.com
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001)
+Stream a 1985 Minneapolis show by the Replacement
+Danity Kane Officially Reunites, Will Make Big Announcement At The MTV VMAs http://pitnb.com/159cyUZ  #Music #Reunions
+genre
+#mp3 #music $0.56 Beyond The North Wind (Vinyl) - Shemale (2007)
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+#music is my thinggg http://instagram.com/p/dbufmciCIa/ 
+#mp3 #music $0.56 Living Like a Cry - Frank Duval (1984) designboom ‏@designboom 25 Aug
+boxes & balls make #music in untitled by zimoun & scheidler, on for one more week @TETEMkunst http://www.designboom.com/art/untitled-sound-architecture-by-zimoun-and-scheidler/ … pic.twitter.com/3mRfldw2al
+ genre
+
+ Big Music Catalog ‏@bigmusiccatalog 25 Aug
+#mp3 #music $0.24 Addiction (single) - Skinny Puppy (1987)
+Softly As the Morning Sunrise - Wynton Kelly, Sonny Stitt with Miles Davis, John Coltrane jazz #music
+Latest African #music #Azonto aand something else.
+#mp3 #music $4.48 Assassin's Creed Revelations - Jesper Kyd, Lorne Balfe (2011)
+"Instead of thinking outside the box... get rid of the box." Deepak Chopra #jazz #music
+#mp3 #music $1.6 Now That's What I Call Music! 37 (US Series) - Various Artists
+SWITCHFOOT Video Interview: Switchfoot Talk With Kerrang! At Download Fest (2010) (Kerrang!) #
+"Everybody wants to play #Jazz after school & out of hundreds of thousands, only a few people emerge." Bill Evans #music
+This is so true. #music #memories 
+#mp3 #music $3.2 Top 40 Ultimate Asian Classic Bar Grooves (2 CD) - Various Artists (2009) 
+My review of @thecandlesmusic new release is up on  's website! #music http://musicunderfire.com/2013/08/summers-here-take-a-slow-ride-with-mellow-ers-the-candles.html
+#mp3 #music $0.88 Limbho - Various Artists, Fabry Quagliarella, Kaimi (2010)
+Just Made it To 4,000 on tha Mixtape!!! #GlockasAndThots
+#mp3 #music $1.84 A Hundred and Sixty Acres - The Andrew's Sisters, Bing Crosby, His Orchestra, Vic Schoen (2011)
+#NowPlaying ~ Marvin Gaye "Got to Give it Up" 
+#mp3 #music $0.48 Time To Pretend - MGMT (2005) http://goo.gl/0ArSS 
+#mp3 #music $0.1 The Pan Electric Variations - Green Nuns On Ice (2010) http://goo.gl/mTeqg3 
+mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+The power of visual information evaluating classical music.  
+The look of music
+A new study by Chia-Jung Tsay, a musician and Harvard Ph.D., examines the power of visual information in evaluating classical music.
+ Big Music Catalog ‏@bigmusiccatalog 24 Aug
+#mp3 #music $1.6 Boys Hits, Vol. 3 (Karaoke Planet) - Karaoke Planet (2010)
+#mp3 #music $0.88 21st Century Freaks - Fatal Smile (2012)
+What's wrong with me
+Why not understand and see
+I never saw
+What you saw in me
+#love #music
+@msmrsounds pic.twitter.com/sr4IpY8nzd
+ Michael Erhart ‏@Michael_Erhart 24 Aug
+Artwork by @erhartmikale for my new song! Listen to it on SoundCloud. #music #galaxies 
+Cultural appreciation, appropriation or both? @gonzomike on 'blue eyed soul'
+This time is different! @djcorrupt 's House - Vol. 5 just released! Nonstop dancing!
+#mp3 #music $1.52 Penthouse Presents: Special Request Vol. 3 - Various Artists, Busy Signal (2010) 
+Dido joins Eminem to perform No.1 hit 'Stan' at Reading Festival: Duo reunite to perform 2000
+#mp3 #music $1.12 The Secret Project - The Secret Project (2010)
+"Stevie Wonder... makes you feel what he feels. And he clearly feels a lot."
+Great memories, #Front242 - Headhunter (live in Budapest)  #music
+Here's some more original #music from us ;) This song is called "The Way I Feel". Do you guys dig it? http://bit.ly/PFKFeel 
+Listening to #music. @Lyinheart #NowPlaying -Vacation on Spotify http://open.spotify.com/artist/05WYvTMnGpbBS2DJFTArgr …
+At The Children's Trust #Music therapy is a key part of a child's rehabilitation.   http://www.thechildrenstrust.org.uk/page.asp?section=1800&sectionTitle=Music+therapy+film …
+Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything. #music #life
+ semp3.com ‏@tviterast 24 Aug
+#mp3 #music $0.24 Addiction (single) - Skinny Puppy (1987) http://goo.gl/j0dXF 
+#mp3 #music $0.1 Jumper (cat #: Revealed Recordings – REVR069B) - Hardwell, W&W (2013) http://goo.gl/3FWvgj 
+Playing with this http://www.zendesk.com/wall/  ! Love it! #music #zendesk
+Seeing #instagram video like this that reminds me why I care about #music so much: http://instagram.com/p/cxdVnWKFkp/ 
+#mp3 #music $0.8 Money (The Maxi-Singles Collection) (Remastered, 2007) - Mozzart (1987) http://goo.gl/sz4Vp7 
+ Melodishop Music ‏@melodishop_com 24 Aug
+#mp3 #music $1.44 Summer Hits Megamix (Mixed By: D.J. Hot J) - Various Artists (2008)
+Posted a new song: "Planet Of The Apes"Listen: @FatJoe feat. @ActionBronson 'Your Honor' produced by @RealDJPremier
+#mp3 #music $0.1 If It's Alive - Kill It - Skinny Puppy (2001) http://goo.gl/eWyHMc 
+#mp3 #music $0.24 Addiction (single) - Skinny Puppy (1987) http://goo.gl/j0dXF 
+Posted a new song: "Innie Minnie Minny Mo- $trech x J-Money Jackpot The $waggGawd" http://www.reverbnation.com/c./poni/223401472 … #music
+"If I had a hammer" The Weavers http://goo.gl/Ko71SA   #music #freedom
+Comment and vote, folks! Lyrics: If I had a hammer I'd hammer in the morning I'd hammer in the evening All over this land I'd hammer out danger I'd hammer
+Watching @cellsworth54 sing at the farmers market #utah #music @ Salt Lake City Downtown Farmers Market
+New #Music: @WizKhalifa 'Look What I Got On' Everyday is one day closer
+#sun #dedicated #music #loveYA 
+#mp3 #music $0.8 Dawn of Inhumanity - Abscess (2010)
+#mp3 #music $3.04 Deutsche Disco Box Vol.27 (bootleg) (2CD) - Various ArtistsPosted a new song: "Out Town"
+Shorties (The Best Nonfiction Baseball Books, Neil Young's Albums Ranked from Worst to Best, and more)#mp3 #music $1.28 Leveler (Deluxe Edition) - August Burns Red (2011) http://goo.gl/Uynuz 
+#music Voice Of An Angel, strangled http://abolishconfusion.blogspot.com/2013/06/music-voice-of-angel-strangled.html … " MUST CHECK OUT THESE 2 AWESOME SONGS " MY FAVORITE FROM CHARLOTTE " EP # 2  USA
+#mp3 #music $4.8 Let It All End (Limited Edition) - Freakangel (2012) http://goo.gl/VwQnYh 
+“Without music, life would be a mistake.” 
+“One good thing about music, when it hits you, you feel no pain.” 
+“Those who dance are considered insane by those who cannot hear the music.” 
+“Music expresses that which cannot be put into words and that which cannot remain silent” 
+“This above all: to thine own self be true, 
+And it must follow, as the night the day, 
+Thou canst not then be false to any man.” 
+“And, in the end
+The love you take
+is equal to the love you make.” 
+― Paul McCartney, The Beatles Illustrated Lyrics
+“People haven't always been there for me but music always has.” 
+“None but ourselves can free our minds.” 
+“And those who were seen dancing were thought to be insane by those who could not hear the music.” 
+“If music be the food of love, play on,
+Give me excess of it; that surfeiting,
+The appetite may sicken, and so die.” 
+“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.” 
+“Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness.” 
+“Life, he realize, was much like a song. In the beginning there is mystery, in the end there is confirmation, but it's in the middle where all the emotion resides to make the whole thing worthwhile.” 
+“Without deviation from the norm, progress is not possible.” 
+“Life is for the living.
+Death is for the dead.
+Let life be like music. 
+And death a note unsaid.” 
+“After silence, that which comes nearest to expressing the inexpressible is music.” 
+“Music expresses that which cannot be said and on which it is impossible to be silent.” 
+“If I should ever die, God forbid, let this be my epitaph:
+THE ONLY PROOF HE NEEDED
+FOR THE EXISTENCE OF GOD
+WAS MUSIC” 
+“People worry about kids playing with guns, and teenagers watching violent videos; we are scared that some sort of culture of violence will take them over. Nobody worries about kids listening to thousands - literally thousands - of songs about broken hearts and rejection and pain and misery and loss.” 
+“We are the music makers, and we are the dreamers of dreams.” 
+“Music gives a soul to the universe, wings to the mind, flight to the imagination
+and life to everything.” 
+“We should consider every day lost on which we have not danced at least once.” 
+― Friedrich Nietzsche
+“It's no good pretending that any relationship has a future if your record collections disagree violently or if your favorite films wouldn't even speak to each other if they met at a party.” 
+― Nick Hornby
+“The only escape from the miseries of life are music and cats...” 
+― Albert Schweitzer
+“Play it fuckin' loud!” 
+― Bob Dylan
+“Music is ... A higher revelation than all Wisdom & Philosophy” 
+― Ludwig van Beethoven
+tags: music, philosophy, revelation, wisdom 1,614 people liked it like
+“Music is to the soul what words are to the mind.” 
+― Modest Mouse, Modest Mouse - Good News for People Who Love Bad News
+“Everybody has that point in their life where you hit a crossroads and you've had a bunch of bad days and there's different ways you can deal with it and the way I dealt with it was I just turned completely to music.” 
+― Taylor Swift
+“Somebody just gave me a shower radio. Thanks a lot. Do you really want music in the shower? I guess there's no better place to dance than a slick surface next to a glass door.” 
+― Jerry Seinfeld
+“To stop the flow of music would be like the stopping of time itself, incredible and inconceivable.” 
+“Some people have lives; some people have music.” 
+― John Green, Will Grayson, Will Grayson
+“And I thought about how many people have loved those songs. And how many people got through a lot of bad times because of those songs. And how many people enjoyed good times with those songs. And how much those songs really mean. I think it would be great to have written one of those songs. I bet if I wrote one of them, I would be very proud. I hope the people who wrote those songs are happy. I hope they feel it's enough. I really do because they've made me happy. And I'm only one person.” 
+― Stephen Chbosky, The Perks of Being a Wallflower
+“The only truth is music.” 
+― Jack Kerouac
+“Why do beautiful songs make you sad?' 'Because they aren't true.' 'Never?' 'Nothing is beautiful and true.” 
+― Jonathan Safran Foer, Extremely Loud and Incredibly Close
+“A man should hear a little music, read a little poetry, and see a fine picture every day of his life, in order that worldly cares may not obliterate the sense of the beautiful which God has implanted in the human soul.” 
+― Johann Wolfgang von Goethe
+“Ah, music," he said, wiping his eyes. "A magic beyond all we do here!” 
+“Everything in the universe has a rhythm, everything dances. ” 
+― Maya Angelou
+“If you're going to kick authority in the teeth, you might as well use two feet.” 
+― Keith Richards, Keith Richards: In His Own Words
+“I had a boyfriend who told me I’d never succeed, never be nominated for a Grammy, never have a hit song, and that he hoped I’d fail. I said to him, ‘Someday, when we’re not together, you won’t be able to order a cup of coffee at the fucking deli without hearing or seeing me.” 
+― Lady Gaga
+“Because when he sings...even the birds stop to listen.” 
+― Suzanne Collins, The Hunger Games
+“I don't stand for black man's side, I don't stand for white man's side, I stand for God's side.” 
+― Bob Marley
+“Music . . . can name the unnameable and communicate the unknowable.”
+― Leonard Bernstein
+“If you look in the mirror and don't like what you see, you can find out first hand what it's like to be me.” 
+― Gerard Way
+“I accept chaos, I'm not sure whether it accepts me.” 
+― Bob Dylan
+“Songs are as sad as the listener.” 
+― Jonathan Safran Foer, Extremely Loud and Incredibly Close
+“A painter paints pictures on canvas. But musicians paint their pictures on silence.” 
+― Leopold Stokowski
+“You're like a song that I heard when I was a little kid but forgot I knew until I heard it again.” 
+― Maggie Stiefvater, Lament: The Faerie Queen's Deception
+“Who hears music, feels his solitude
+Peopled at once.” 
+― Robert Browning, The complete poetical works of Browning
+“I just can't listen to any more Wagner, you know...I'm starting to get the urge to conquer Poland.” 
+― Woody Allen
+“If I can't dance to it, it's not my revolution.” 
+― Emma Goldman
+“I Wanna Hold Your Hand.’ First single. Fucking brilliant. Perhaps the most fucking brilliant song ever written. Because they nailed it. That’s what everyone wants. Not 24-7 hot wet sex. Not a marriage that lasts a hundred years. Not a Porsche or a blow job or a million-dollar crib. No. They wanna hold your hand. They have a feeling that they can’t hide.” 
+― Rachel Cohn, Nick & Norah's Infinite Playlist
+“I used to think anyone doing anything weird was weird. Now I know that it is the people that call others weird that are weird.” 
+― Paul McCartney
+tags: beatles, humor, music, nonjudgemental 767 people liked it like
+“the past is only the future with the lights on.” 
+― Blink-182, Blink 182
+“For those of you in the cheap seats I'd like ya to clap your hands to this one; the rest of you can just rattle your jewelry!” 
+― John Lennon
+“When you make music or write or create, it's really your job to have mind-blowing, irresponsible, condomless sex with whatever idea it is you're writing about at the time. ” 
+“Jazz isn't dead. It just smells funny.” 
+“Information is not knowledge.
+Knowledge is not wisdom.
+Wisdom is not truth.
+Truth is not beauty.
+Beauty is not love.
+Love is not music.
+Music is THE BEST.” 
+“And I'll stand on the ocean until I start sinking.” 
+“Music makes one feel so romantic - at least it always gets on one's nerves - which is the same thing nowadays.” 
+“I used to date the lead singer of The Cranberries, but she cheated on me. Turns out she had some turkey on the side.” 
+“If I had my life to live over again, I would have made a rule to read some poetry and listen to some music at least once every week.” 
+“Music touches us emotionally, where words alone can't.” 
+― Johnny Depp
+tags: music, power-of-music 972 people liked it like
+“Music is the universal language of mankind.” 
+― Henry Wadsworth Longfellow
+“My kids are starting to notice I'm a little different from the other dads. "Why don't you have a straight job like everyone else?" they asked me the other day. 
+I told them this story: 
+In the forest, there was a crooked tree and a straight tree. Every day, the straight tree would say to the crooked tree, "Look at me...I'm tall, and I'm straight, and I'm handsome. Look at you...you're all crooked and bent over. No one wants to look at you." And they grew up in that forest together. And then one day the loggers came, and they saw the crooked tree and the straight tree, and they said, "Just cut the straight trees and leave the rest." So the loggers turned all the straight trees into lumber and toothpicks and paper. And the crooked tree is still there, growing stronger and stranger every day.” 
+― Tom Waits
+“My personal hobbies are reading, listening to music, and silence.” 
+― Edith Sitwell
+“If being an egomaniac means I believe in what I do and in my art or music, then in that respect you can call me that... I believe in what I do, and I'll say it.” 
+― John Lennon
+“A quiet secluded life in the country, with the possibility of being useful to people to whom it is easy to do good, and who are not accustomed to have it done to them; then work which one hopes may be of some use; then rest, nature, books, music, love for one's neighbor — such is my idea of happiness.” 
+― Leo Tolstoy, Family Happiness
+“I've always thought people would find a lot more pleasure in their routines if they burst into song at significant moments.” 
+― John Barrowman
+“I like beautiful melodies telling me terrible things.” 
+― Tom Waits
+“The only one who's got enough of me to break my heart.” 
+― Taylor Swift, Taylor Swift: Piano Play-Along Volume 95
+“I'm not saying I'm gonna change the world, but I guarantee that I will spark the brain that will change the world.” 
+― Tupac Shakur
+“Music is the great uniter. An incredible force. Something that people who differ on everything and anything else can have in common.” 
+― Sarah Dessen, Just Listen
+“Without music to decorate it, time is just a bunch of boring production deadlines or dates by which bills must be paid.” 
+― Frank Zappa, Real Frank Zappa Book
+“Have you ever heard somebody sing some lyrics that you've never sung before, and you realize you've never sung the right words in that song? You hear them and all of a sudden you say to yourself, 'Life in the Fast Lane?' That's what they're saying right there? You think, 'why have I been singing 'wipe in the vaseline?' how many people have heard me sing 'wipe in the vaseline?' I am an idiot.” 
+― Ellen DeGeneres, My Point...And I Do Have One
+“Definition of  journalism: People who can't write, doing interviews with people who can't think, in order to prepare articles for people who can't read.” 
+― Frank Zappa, The Real Frank Zappa Book
+“I only sing in the shower. I would join a choir, but I don’t think my bathtub can hold that many people. ― Jarod Kintz, Who Moved My Choose?: An Amazing Way to Deal With Change by Deciding to Let Indecision Into Your Life
+“Pop music often tells you everything is OK, while  music tells you that it's not OK, but you can change it.” 
+― Bono, On the Move
+“Music is the wine that fills the cup of silence.” 
+― Robert Fripp
+“When we die, we will turn into songs, and we will hear each other and remember each other.” 
+― Rob Sheffield, Love is a Mix Tape
+“I love the relationship that anyone has with music ... because there's something in us that is beyond the reach of words, something that eludes and defies our best attempts to spit it out. ... It's the best part of us probably ...” 
+― Nick Hornby
+“Music is my higher power” 
+― Oliver James
+“I'm already crazy. I'm a fearless person. I think it creeps up on you. I don't think it can be stopped. If my destiny is to lose my mind because of fame, then that's my destiny. But my passion still means more than anything.” 
+― Lady Gaga
+“Beethoven tells you what it's like to be Beethoven and Mozart tells you what it's like to be human. Bach tells you what it's like to be the universe.”
+― Douglas Adams
+“Take my love, take my land
+Take me where I cannot stand
+I don’t care, I’m still free
+You can’t take the sky from me
+Take me out to the black
+Tell them I ain’t comin’ back
+Burn the land and boil the sea
+You can’t take the sky from me
+There’s no place I can be
+Since I found Serenity
+But you can’t take the sky from me…” 
+― Joss Whedon
+“Heard melodies are sweet, but those unheard are sweeter: therefore, ye soft pipes, play on.” 
+― John Keats
+S“Where words fail, music speaks.” 
+― Hans Christian Andersen
+“So don't you worry your pretty little mind because people throw  at things that shine. [Ours]” 
+― Taylor Swift
+“Magic exists. Who can doubt it, when there are rainbows and wildflowers, the music of the wind and the silence of the stars? Anyone who has loved has been touched by magic. It is such a simple and such an extraordinary part of the lives we live.” 
+― Nora Roberts
+“The music is not in the notes,
+but in the silence between.” 
+― Wolfgang Amadeus Mozart
+“Close your eyes and I'll kiss you, Tomorrow I'll miss you.” 
+― Paul McCartney
+“The first step - especially for young people with energy and drive and talent, but not money - the first step to controlling your world is to control your culture. To model and demonstrate the kind of world you demand to live in. To write the books. Make the music. Shoot the films. Paint the art.” 
+― Chuck Palahniuk
+“Who are you to judge the life i live
+i know i'm not perfect and i don't live to be.
+but before you start pointing fingers
+make sure your hands are clean.” 
+tags: music 399 people liked it like
+“We are the music-makers,
+And we are the dreamers of dreams,
+Wandering by lone sea-breakers,
+And sitting by desolate streams.
+World-losers and world-forsakers,
+Upon whom the pale moon gleams;
+Yet we are the movers and shakers,
+Of the world forever, it seems.” 
+― Arthur O'Shaughnessy, Poems of Arthur O'Shaughnessy
+“Music acts like a magic key, to which the most tightly closed heart opens.” 
+― Maria von Trapp
+“Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife.” 
+― Kahlil Gibran
+“Where words leave off, music begins.” 
+― Heinrich Heine
+“What came first – the music or the misery? Did I listen to the music because I was miserable? Or was I miserable because I listened to the music? Do all those records turn you into a melancholy person?” 
+― Nick Hornby, High Fidelity
+“Making a record is a lot like surgery without an anesthetic. You first have to cut yourself up the middle. Then you have to rip out every single organ, every single part and lay them on a table. You then need to examine the parts, and the reality of the situation hits you. You find yourself saying things like "I didn't know that part was so ugly." Or "I better get a professional opinion about that." You go to bed hollow and then back into the operating room the next day. . .facing every fear, every disgusting thing you hate about yourself. Then you pop it all back in, sew yourself shut and perform. . . you perform like your life depended on it----and in those perfect moments you find beauty you never knew existed. You find yourself and you friends all over again, you find something to fight for, something to love. Something to show the world.” 
+― Gerard Way
+“Well my music was different in high school; I was singing about love—you know, things I don't care about anymore.” 
+― Lady Gaga
+“Music is everybody's business. It's only the publishers who think people own it” 
+― John Lennon
+“You have to, take a deep breath. and allow the music to flow through you. Revel in it, allow yourself to awe. When you play allow the music to break your heart with its beauty.” 
+― Kelly White
+“I'm telling you a lie in a vicious effort that you will repeat my lie over and over until it becomes true” 
+― Lady Gaga
+“He not busy being born is busy dying.” 
+― Bob Dylan
+“Some guy said to me: Don't you think you're too old to sing  n' roll?
+I said: You'd better check with Mick Jagger.” 
+“Music is an outburst of the soul.” 
+“Men profess to be lovers of music, but for the most part they give no evidence in their opinions and lives that they have heard it.” 
+― Henry David Thoreau
+“The pause makes you think the song will end. And then the song isn't really over, so you're relieved. But then the song does actually end, because every song ends, obviously, and THAT. TIME. THE. END. IS. FOR. REAL.” 
+― Jennifer Egan, A Visit from the Goon Squad
+“If it weren't for music, I would think that love is mortal.” 
+― Mark Helprin, A Soldier of the Great War
+“Music could ache and hurt, that beautiful music was a place a suffering man could hide.” 
+“Music is an agreeable harmony for the honor of God and the permissible delights of the soul.” 
+“Joy, sorrow, tears, lamentation, laughter -- to all these music gives voice, but in such a way that we are transported from the world of unrest to a world of peace, and see reality in a new way, as if we were sitting by a mountain lake and contemplating hills and woods and clouds in the tranquil and fathomless water.” 
+“Perfume was first created to mask the stench of foul and offensive odors...
+Spices and bold flavorings were created to mask the taste of putrid and rotting meat...
+What then was music created for?
+Was it to drown out the voices of others, or the voices within ourselves?
+I think I know.” 
+“I’ve come to the conclusion that people who wear headphones while they walk, are much happier, more confident, and more beautiful individuals than someone making the solitary drudge to work without acknowledging their own interests and power.” 
+“Music is the strongest form of magic.” 
+“Patrick actually used to be popular before Sam bought him some good music.” 
+― Stephen Chbosky, The Perks of Being a Wallflower
+“If you cannot teach me to fly, teach me to sing.” 
+“I never liked jazz music because jazz music doesn't resolve. But I was outside the Bagdad Theater in Portland one night when I saw a man playing the saxophone. I stood there for fifteen minutes, and he never opened his eyes.
+After that I liked jazz music.
+“And I'll dance with you in Vienna,
+I'll be wearing a river's disguise.
+The hyacinth wild on my shoulder
+my mouth on the dew of your thighs.
+And I'll bury my soul in a scrapbook,
+with the photographs there and the moss.
+And I'll yield to the flood of your beauty,
+my cheap violin and my cross.” 
+“It is always fatal to have music or poetry interrupted.” 
+“My heart, which is so full to overflowing, has often been solaced and refreshed by music when sick and weary.” 
+“Music with dinner is an insult both to the cook and the violinist.” 
+ “Next to music beer was best.” 
+― Carson McCullers, The Heart is a Lonely Hunter
+“The tune was sad, as the best of Ireland was, melancholy and lovely as a lover's tears.” 
+“Music is crucial. Beyond no way can I overstress this fact. Let's say you're southbound on the interstate, cruising alone in the middle lane, listening to AM radio. Up alongside comes a tractor trailer of logs or concrete pipe, a tie-down strap breaks, and the load dumps on top of your little sheetmetal ride. Crushed under a world of concrete, you're sandwiched like so much meat salad between layers of steel and glass. In that last, fast flutter of your eyelids, you looking down that long tunnel toward the bright God Light and your dead grandma walking up to hug you--do you want to be hearing another radio commercial for a mega, clearance, closeout, blow-out liquidation car-stereo sale?” 
+tags: death, humor, music, truth 185 people liked it like
+“Am I the reason you breathe
+Or am I the reason you cry?” 
+“If we communicated with something like music, we would never be misunderstood, because there is nothing in music to understand...... But until we find this new way of speaking, until we can find a nonapproximate vocabulary, nonsense words are the best thing we've got. Ifactifice is one such word.” 
+Linkin Park is an American rock band from Agoura Hills, California. Formed in 1996, the band rose to international fame with their debut album Hybrid Theory, which was certified Diamond by the RIAA in 2005 and multi-platinum in several other countries.[1] Their following studio album Meteora, continued the band's success, topping the Billboard 200 album chart in 2003, and was followed by extensive touring and charity work around the world.[2] In 2003, MTV2 named Linkin Park the sixth-greatest band of the music video era and the third-best of the new millennium.[3] Billboard ranked Linkin Park No. 19 on the Best Artists of the Decade chart.[4] The band was recently voted as the greatest artist of '00s in a Bracket Madness poll on VH1.[5]
+Having adapted nu metal and rap metal to a radio-friendly yet densely layered style in Hybrid Theory and Meteora,[6][7][8] the band explored other genres in their next studio album, Minutes to Midnight (2007).[9][10] The album topped the Billboard charts and had the third-best debut week of any album that year.[11][12] The band continued to explore a wider variation of musical types in their fourth album, A Thousand Suns (2010), layering their music with more electronic sounds and beats. Their most recent work, Living Things (2012), combines musical elements from all of their previous records. The band has collaborated with several other artists, most notably with rapper Jay-Z in their mashup EP Collision Course, and many others on Reanimation.[7] Linkin Park has sold over 60 million albums worldwide and has won two Grammy Awards.[13]
