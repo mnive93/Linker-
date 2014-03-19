@@ -1,0 +1,369 @@
+A gadget is a small tool such as a machine that has a particular function, but is often thought of as a novelty. Gadgets are sometimes referred to as gizmos.
+
+== History ==
+The origins of the word "GOOD JET" trace back to the 19th century. According to the Oxford English Dictionary, there is anecdotal evidence for the use of "gadget" as a placeholder name for a technical item whose precise name one can't remember since the 1850s; with Robert Brown's 1886 book Spunyarn and Spindrift, A sailor boy’s log of a voyage out and home in a China tea-clipper containing the earliest known usage in print. The etymology of the word is disputed.
+A widely circulated story holds that the word gadget was "invented" when Gaget, Gauthier & Cie, the company behind the repoussé construction of the Statue of Liberty (1886), made a small-scale version of the monument and named it after their firm; however this contradicts the evidence that the word was already used before in nautical circles, and the fact that it did not become popular, at least in the USA, until after World War I. Other sources cite a derivation from the French gâchette which has been applied to various pieces of a firing mechanism, or the French gagée, a small tool or accessory.
+The October 1918 issue of Notes and Queries contains a multi-article entry on the word "gadget" (12 S. iv. 187). H. Tapley-Soper of The City Library, Exeter, writes:
+
+A discussion arose at the Plymouth meeting of the Devonshire Association in 1916 when it was suggested that this word should be recorded in the list of local verbal provincialisms. Several members dissented from its inclusion on the ground that it is in common use throughout the country; and a naval officer who was present said that it has for years been a popular expression in the service for a tool or implement, the exact name of which is unknown or has for the moment been forgotten. I have also frequently heard it applied by motor-cycle friends to the collection of fitments to be seen on motor cycles. 'His handle-bars are smothered in gadgets' refers to such things as speedometers, mirrors, levers, badges, mascots, &c., attached to the steering handles. The 'jigger' or short-rest used in billiards is also often called a 'gadget'; and the name has been applied by local platelayers to the 'gauge' used to test the accuracy of their work. In fact, to borrow from present-day Army slang, 'gadget' is applied to 'any old thing.'
+
+The usage of the term in military parlance extended beyond the navy. In the book "Above the Battle" by Vivian Drake, published in 1918 by D. Appleton & Co., of New York and London, being the memoirs of a pilot in the British Royal Flying Corps, there is the following passage: "Our ennui was occasionally relieved by new gadgets -- "gadget" is the Flying Corps slang for invention! Some gadgets were good, some comic and some extraordinary."
+By the second half of the twentieth century, the term "gadget" had taken on the connotations of compactness and mobility. In the 1965 essay "The Great Gizmo" (a term used interchangeably with "gadget" throughout the essay), the architectural and design critic Reyner Banham defines the item as:
+
+A characteristic class of US products––perhaps the most characteristic––is a small self-contained unit of high performance in relation to its size and cost, whose function is to transform some undifferentiated set of circumstances to a condition nearer human desires. The minimum of skills is required in its installation and use, and it is independent of any physical or social infrastructure beyond that by which it may be ordered from catalogue and delivered to its prospective user. A class of servants to human needs, these clip-on devices, these portable gadgets, have coloured American thought and action far more deeply––I suspect––than is commonly understood.
+
+
+== Other uses ==
+The first atomic bomb was nicknamed the gadget by the scientists of the Manhattan Project, tested at the Trinity site.
+
+
+== Application gadgets ==
+In the software industry, "Gadget" refers to computer programs that provide services without needing an independent application to be launched for each one, but instead run in an environment that manages multiple gadgets. There are several implementations based on existing software development techniques, like JavaScript, form input, and various image formats.
+
+The earliest[citation needed] documented use of the term gadget in context of software engineering was in 1985 by the developers of AmigaOS, the operating system of the Amiga computers (intuition.library and also later gadtools.library). It denotes what other technological traditions call GUI widget—a control element in graphical user interface. This naming convention remains in continuing use (as of 2008) since then.
+The X11 windows system 'Intrinsics' also defines gadgets and their relationship to widgets (buttons, labels etc.). The gadget was a windowless widget which was supposed to improve the performance of the application by reducing the memory load on the X server. A gadget would use the Window id of its parent widget and had no children of its own
+It is not known whether other software companies are explicitly drawing on that inspiration when featuring the word in names of their technologies or simply referring to the generic meaning. The word widget is older in this context. In the movie "Back to School" from 1986 by Alan Metter, there is a scene where an economics professor Dr. Barbay, wants to start for educational purposes a fictional company that produces "widgets: It's a fictional product."
+
+
+== See also ==
+Domestic technology
+Electronics
+Gizmo
+Inspector Gadget
+Multi-tool
+Widget
+
+
+== Notes ==Electronics deals with electrical circuits that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies. The nonlinear behaviour of active components and their ability to control electron flows makes amplification of weak signals possible and electronics is widely used in information processing, telecommunication, and signal processing. The ability of electronic devices to act as switches makes digital information processing possible. Interconnection technologies such as circuit boards, electronics packaging technology, and other varied forms of communication infrastructure complete circuit functionality and transform the mixed components into a regular working system.
+Electronics is distinct from electrical and electro-mechanical science and technology, which deal with the generation, distribution, switching, storage, and conversion of electrical energy to and from other energy forms using wires, motors, generators, batteries, switches, relays, transformers, resistors, and other passive components. This distinction started around 1906 with the invention by Lee De Forest of the triode, which made electrical amplification of weak radio signals and audio signals possible with a non-mechanical device. Until 1950 this field was called "radio technology" because its principal application was the design and theory of radio transmitters, receivers, and vacuum tubes.
+Today, most electronic devices use semiconductor components to perform electron control. The study of semiconductor devices and related technology is considered a branch of solid-state physics, whereas the design and construction of electronic circuits to solve practical problems come under electronics engineering. This article focuses on engineering aspects of electronics.
+
+
+== Electronic devices and components ==
+
+An electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system. Components are generally intended to be connected together, usually by being soldered to a printed circuit board (PCB), to create an electronic circuit with a particular function (for example an amplifier, radio receiver, or oscillator). Components may be packaged singly, or in more complex groups as integrated circuits. Some common electronic components are capacitors, inductors, resistors, diodes, transistors, etc. Components are often categorized as active (e.g. transistors and thyristors) or passive (e.g. resistors and capacitors).
+
+
+== Early electronic components ==
+
+Vacuum tubes (Thermionic valves) were one of the earliest electronic components. They dominated electronics until the middle of the 1980s. Since that time, solid state devices have all but completely taken over. Vacuum tubes are still used in some specialist applications such as high power RF amplifiers, cathode ray tubes, specialist audio equipment, guitar amplifiers and some microwave devices.
+
+
+== Types of circuits ==
+Circuits and components can be divided into two groups: analog and digital. A particular device may consist of circuitry that has one or the other or a mix of the two types.
+
+
+=== Analog circuits ===
+
+Most analog electronic appliances, such as radio receivers, are constructed from combinations of a few types of basic circuits. Analog circuits use a continuous range of voltage as opposed to discrete levels as in digital circuits.
+The number of different analog circuits so far devised is huge, especially because a 'circuit' can be defined as anything from a single component, to systems containing thousands of components.
+Analog circuits are sometimes called linear circuits although many non-linear effects are used in analog circuits such as mixers, modulators, etc. Good examples of analog circuits include vacuum tube and transistor amplifiers, operational amplifiers and oscillators.
+One rarely finds modern circuits that are entirely analog. These days analog circuitry may use digital or even microprocessor techniques to improve performance. This type of circuit is usually called "mixed signal" rather than analog or digital.
+Sometimes it may be difficult to differentiate between analog and digital circuits as they have elements of both linear and non-linear operation. An example is the comparator which takes in a continuous range of voltage but only outputs one of two levels as in a digital circuit. Similarly, an overdriven transistor amplifier can take on the characteristics of a controlled switch having essentially two levels of output.
+
+
+=== Digital circuits ===
+
+Digital circuits are electric circuits based on a number of discrete voltage levels. Digital circuits are the most common physical representation of Boolean algebra, and are the basis of all digital computers. To most engineers, the terms "digital circuit", "digital system" and "logic" are interchangeable in the context of digital circuits. Most digital circuits use a binary system with two voltage levels labeled "0" and "1". Often logic "0" will be a lower voltage and referred to as "Low" while logic "1" is referred to as "High". However, some systems use the reverse definition ("0" is "High") or are current based. Ternary (with three states) logic has been studied, and some prototype computers made. Computers, electronic clocks, and programmable logic controllers (used to control industrial processes) are constructed of digital circuits. Digital signal processors are another example.
+Building blocks:
+Logic gates
+Adders
+Flip-flops
+Counters
+Registers
+Multiplexers
+Schmitt triggers
+Highly integrated devices:
+Microprocessors
+Microcontrollers
+Application-specific integrated circuit (ASIC)
+Digital signal processor (DSP)
+Field-programmable gate array (FPGA)
+
+
+== Heat dissipation and thermal management ==
+
+Heat generated by electronic circuitry must be dissipated to prevent immediate failure and improve long term reliability. Techniques for heat dissipation can include heat sinks and fans for air cooling, and other forms of computer cooling such as water cooling. These techniques use convection, conduction, & radiation of heat energy.
+
+
+== Noise ==
+
+Electronic noise is defined as unwanted disturbances superposed on a useful signal that tend to obscure its information content. Noise is not the same as signal distortion caused by a circuit. Noise is associated with all electronic circuits. Noise may be electromagnetically or thermally generated, which can be decreased by lowering the operating temperature of the circuit. Other types of noise, such as shot noise cannot be removed as they are due to limitations in physical properties.
+
+
+== Electronics theory ==
+
+Mathematical methods are integral to the study of electronics. To become proficient in electronics it is also necessary to become proficient in the mathematics of circuit analysis.
+Circuit analysis is the study of methods of solving generally linear systems for unknown variables such as the voltage at a certain node or the current through a certain branch of a network. A common analytical tool for this is the SPICE circuit simulator.
+Also important to electronics is the study and understanding of electromagnetic field theory.
+
+
+== Electronics lab ==
+
+Due to the empirical nature of electronics theory, laboratory experimentation is an important part of the study of electronics. These experiments are used to prove, verify, and reinforce laws and theorems such as Ohm's law, Kirchhoff's laws, etc. Historically, electronics labs have consisted of electronics devices and equipment located in a physical space, although in more recent years the trend has been towards electronics lab simulation software, such as CircuitLogix, Multisim, and PSpice.
+
+
+== Computer aided design (CAD) ==
+
+Today's electronics engineers have the ability to design circuits using premanufactured building blocks such as power supplies, semiconductors (such as transistors), and integrated circuits. Electronic design automation software programs include schematic capture programs and printed circuit board design programs. Popular names in the EDA software world are NI Multisim, Cadence (ORCAD), EAGLE PCB and Schematic, Mentor (PADS PCB and LOGIC Schematic), Altium (Protel), LabCentre Electronics (Proteus), gEDA, KiCad and many others.
+
+
+
+
+
+Air conditioning
+Central heating
+Cleaning
+Clothes dryer
+Broom
+Dishwasher
+Mop
+Sink
+Shower
+Bath
+Vacuum cleaner
+Washing machine
+Computer
+Food preparation
+Barbecue
+Breadmaker
+Blender
+Faucet
+Food processor
+Microwave oven
+Mixer
+Oven
+Food storage
+Can
+Canning
+Refrigerator
+Home maintenance
+Groundskeeping equipment
+Garden tools
+Paint sprayer
+Knitting machine
+Plumbing
+Power generation
+Solar cell
+Windmill
+Telephone
+Window
+
+
+A mobile phone (also known as a cellular phone, cell phone, and a hand phone) is a device that can make and receive telephone calls over a radio link while moving around a wide geographic area. It does so by connecting to a cellular network provided by a mobile phone operator, allowing access to the public telephone network. By contrast, a cordless telephone is used only within the short range of a single, private base station.
+In addition to telephony, modern mobile phones also support a wide variety of other services such as text messaging, MMS, email, Internet access, short-range wireless communications (infrared, Bluetooth), business applications, gaming and photography. Mobile phones that offer these and more general computing capabilities are referred to as smartphones.
+The first hand-held cell phone was demonstrated by John F. Mitchell and Dr Martin Cooper of Motorola in 1973, using a handset weighing around 2.2 pounds (1 kg). In 1983, the DynaTAC 8000x was the first to be commercially available. From 1990 to 2011, worldwide mobile phone subscriptions grew from 12.4 million to over 6 billion, penetrating about 87% of the global population and reaching the bottom of the economic pyramid.
+
+
+== History ==
+
+Early predecessors of cellular phones included analog radio communications from ships and trains. The race to create truly portable telephone devices began after World War II, with developments taking place in many countries. The advances in mobile telephony have been traced in successive generations from the early "0G" (zeroth generation) services like the Bell System's Mobile Telephone Service and its successor, Improved Mobile Telephone Service. These "0G" systems were not cellular, supported few simultaneous calls, and were very expensive.
+The first handheld mobile cell phone was demonstrated by Motorola in 1973. The first commercial automated cellular network was launched in Japan by NTT in 1979. In 1981, this was followed by the simultaneous launch of the Nordic Mobile Telephone (NMT) system in Denmark, Finland, Norway and Sweden. Several other countries then followed in the early to mid-1980s. These first generatiion ("1G") systems could support far more simultaneous calls, but still used analog technology.
+In 1991, the second generation (2G) digital cellular technology was launched in Finland by Radiolinja on the GSM standard, which sparked competition in the sector, as the new operators challenged the incumbent 1G network operators.
+Ten years later, in 2001, the third generation (3G) was launched in Japan by NTT DoCoMo on the WCDMA standard. This was followed by 3.5G, 3G+ or turbo 3G enhancements based on the high-speed packet access (HSPA) family, allowing UMTS networks to have higher data transfer speeds and capacity.
+By 2009, it had become clear that, at some point, 3G networks would be overwhelmed by the growth of bandwidth-intensive applications like streaming media. Consequently, the industry began looking to data-optimized 4th-generation technologies, with the promise of speed improvements up to 10-fold over existing 3G technologies. The first two commercially available technologies billed as 4G were the WiMAX standard (offered in the U.S. by Sprint) and the LTE standard, first offered in Scandinavia by TeliaSonera.
+
+
+== Features ==
+
+All mobile phones have a number of features in common, but manufacturers also try to differentiate their own products by implementing additional functions to make them more attractive to consumers. This has led to great innovation in mobile phone development over the past 20 years.
+The common components found on all phones are:
+A battery, providing the power source for the phone functions.
+An input mechanism to allow the user to interact with the phone. The most common input mechanism is a keypad, but touch screens are also found in some high-end smartphones.
+A screen which echoes the user's typing, displays text messages, contacts and more.
+Basic mobile phone services to allow users to make calls and send text messages.
+All GSM phones use a SIM card to allow an account to be swapped among devices. Some CDMA devices also have a similar card called a R-UIM.
+Individual GSM, WCDMA, iDEN and some satellite phone devices are uniquely identified by an International Mobile Equipment Identity (IMEI) number.
+Low-end mobile phones are often referred to as feature phones, and offer basic telephony. Handsets with more advanced computing ability through the use of native software applications became known as smartphones.
+Several phone series have been introduced to address a given market segment, such as the RIM BlackBerry focusing on enterprise/corporate customer email needs; the Sony-Ericsson 'Walkman' series of music/phones and 'Cybershot' series of camera/phones; the Nokia Nseries of multimedia phones, the Palm Pre the HTC Dream and the Apple iPhone.
+
+
+=== Text messaging ===
+
+The most commonly used data application on mobile phones is SMS text messaging. The first SMS text message was sent from a computer to a mobile phone in 1992 in the UK, while the first person-to-person SMS from phone to phone was sent in Finland in 1993.
+The first mobile news service, delivered via SMS, was launched in Finland in 2000, and subsequently many organizations provided "on-demand" and "instant" news services by SMS.
+
+
+=== SIM card ===
+
+GSM feature phones require a small microchip called a Subscriber Identity Module or SIM Card, to function. The SIM card is approximately the size of a small postage stamp and is usually placed underneath the battery in the rear of the unit. The SIM securely stores the service-subscriber key (IMSI) and the Ki used to identify and authenticate the user of the mobile phone. The SIM card allows users to change phones by simply removing the SIM card from one mobile phone and inserting it into another mobile phone or broadband telephony device.
+The first SIM card was made in 1991 by Munich smart card maker Giesecke & Devrient for the Finnish wireless network operator Radiolinja.[citation needed]
+
+
+=== Multi-card hybrid phones ===
+A hybrid mobile phone can hold up to four SIM cards. SIM and RUIM cards may be mixed together to allow both GSM and CDMA networks to be accessed.
+From 2010 onwards they became popular in India and Indonesia and other emerging markets, attributed to the desire to obtain the lowest on-net calling rate. In Q3 2011, Nokia shipped 18 million of its low cost dual SIM phone range in an attempt to make up lost ground in the higher end smartphone market.
+
+
+
+
+== Mobile phone operators ==
+
+The world's largest individual mobile operator by subscribers is China Mobile with over 500 million mobile phone subscribers. Over 50 mobile operators have over 10 million subscribers each, and over 150 mobile operators had at least one million subscribers by the end of 2009. In February 2010, there were 6 billion mobile phone subscribers, a number that is expected to grow.
+
+
+== Manufacturers ==
+
+Prior to 2010, Nokia was the market leader. However, since then competition emerged in the Asia Pacific region with brands such as Micromax, Nexian, and i-Mobile and chipped away at Nokia's market share. Android powered smartphones also gained momentum across the region at the expense of Nokia. In India, their market share also dropped significantly to around 31 percent from 56 percent in the same period. Their share was displaced by Chinese and Indian vendors of low-end mobile phones.
+In Q1 2012, based on Strategy Analytics, Samsung surpassed Nokia, selling 93.5 million units and 82.7 million units, respectively. Standard & Poor's has also downgraded Nokia to 'junk' status at BB+/B with negative outlook due to high loss and still declined with growth of Lumia smartphones was not sufficient to offset a rapid decline in revenue from Symbian-based smartphones over the next few quarters.
+Note: Vendor shipments are branded shipments and exclude OEM sales for all vendors
+Other manufacturers outside the top five include TCL Communication, Lenovo, Sony Mobile Communications, Motorola. Smaller current and past players include Karbonn Mobile, Audiovox (now UTStarcom), BenQ-Siemens, BlackBerry, Casio, CECT, Coolpad, Fujitsu, HTC, Just5, Kyocera, Lumigon, Micromax Mobile, Mitsubishi Electric, Modu, NEC, Neonode, Openmoko, Panasonic, Palm, Pantech Wireless Inc., Philips, Qualcomm Inc., Sagem, Sanyo, Sharp, Sierra Wireless, SK Teletech, Soutec, Trium, Toshiba, and Vidalco.
+
+
+== Use of mobile phones ==
+
+
+=== In general ===
+
+Mobile phones are used for a variety of purposes, including keeping in touch with family members, conducting business, and having access to a telephone in the event of an emergency. Some people carry more than one cell phone for different purposes, such as for business and personal use. Multiple SIM cards may also be used to take advantage of the benefits of different calling plans—a particular plan might provide cheaper local calls, long-distance calls, international calls, or roaming. The mobile phone has also been used in a variety of diverse contexts in society, for example:
+A study by Motorola found that one in ten cell phone subscribers have a second phone that often is kept secret from other family members. These phones may be used to engage in activities including extramarital affairs or clandestine business dealings.
+Some organizations assist victims of domestic violence by providing mobile phones for use in emergencies. They are often refurbished phones.
+The advent of widespread text messaging has resulted in the cell phone novel; the first literary genre to emerge from the cellular age via text messaging to a website that collects the novels as a whole.
+Mobile telephony also facilitates activism and public journalism being explored by Reuters and Yahoo! and small independent news companies such as Jasmine New in Sri Lanka.
+The United Nations reported that mobile phones have spread faster than any other technology and can improve the livelihood of the poorest people in developing countries by providing access to information in places where landlines or the Internet are not available, especially in the least developed countries. Use of mobile phones also spawns a wealth of micro-enterprises, by providing work, such as selling airtime on the streets and repairing or refurbishing handsets.
+In Mali and other African countries, people used to travel from village to village to let friends and relatives know about weddings, births and other events, which are now avoided within mobile phone coverage areas, which is usually greater than land line penetration.
+The TV industry has recently started using mobile phones to drive live TV viewing through mobile apps, advertising, social tv, and mobile TV. 86% of Americans use their mobile phone while watching TV.
+In parts of the world, mobile phone sharing is common. It is prevalent in urban India, as families and groups of friends often share one or more mobiles among their members. There are obvious economic benefits, but often familial customs and traditional gender roles play a part. It is common for a village to have access to only one mobile phone, perhaps owned by a teacher or missionary, but available to all members of the village for necessary calls.
+
+
+=== For distributing content ===
+In 1998, one of the first examples of distributing and selling media content through the mobile phone was the sale of ringtones by Radiolinja in Finland. Soon afterwards, other media content appeared such as news, video games, jokes, horoscopes, TV content and advertising. Most early content for mobile tended to be copies of legacy media, such as the banner advertisement or the TV news highlight video clip. Recently, unique content for mobile has been emerging, from the ringing tones and ringback tones in music to "mobisodes", video content that has been produced exclusively for mobile phones.
+In 2006, the total value of mobile-phone-paid media content exceeded Internet-paid media content and was worth 31 billion dollars. The value of music on phones was worth 9.3 billion dollars in 2007 and gaming was worth over 5 billion dollars in 2007.
+
+=== While driving ===
+
+Mobile phone use while driving is common but controversial. Being distracted while operating a motor vehicle has been shown to increase the risk of accidents. Because of this, many jurisdictions prohibit the use of mobile phones while driving. Egypt, Israel, Japan, Portugal and Singapore ban both handheld and hands-free use of a mobile phone; others —including the UK, France, and many U.S. states—ban handheld phone use only, allowing hands-free use.
+Due to the increasing complexity of mobile phones, they are often more like mobile computers in their available uses. This has introduced additional difficulties for law enforcement officials in distinguishing one usage from another as drivers use their devices. This is more apparent in those countries which ban both handheld and hands-free usage, rather than those who have banned handheld use only, as officials cannot easily tell which function of the mobile phone is being used simply by looking at the driver. This can lead to drivers being stopped for using their device illegally on a phone call when, in fact, they were using the device for a legal purpose such as the phone's incorporated controls for car stereo or satnav.
+A recently published study has reviewed the incidence of mobile phone use while cycling and its effects on behaviour and safety.
+
+
+
+
+
+=== Tracking and privacy ===
+
+Mobile phones are also commonly used to collect location data. While the phone is turned on, the geographical location of a mobile phone can be determined easily (whether it is being used or not), using a technique known as multilateration to calculate the differences in time for a signal to travel from the cell phone to each of several cell towers near the owner of the phone.
+The movements of a mobile phone user can be tracked by their service provider and, if desired, by law enforcement agencies and their government. Both the SIM card and the handset can be tracked.
+China has proposed using this technology to track commuting patterns of Beijing city residents. In the UK and US, law enforcement and intelligence services use mobiles to perform surveillance. They possess technology to activate the microphones in cell phones remotely in order to listen to conversations that take place near the phone.
+
+
+
+== Future evolution ==
+
+5G is a technology used in research papers and projects to denote the next major phase of mobile telecommunication standards beyond the 4G/IMT-Advanced standards. 5G is not officially used for any specification or official document yet made public by telecommunication companies or standardization bodies s
+
+A smartphone, or smart phone, is a mobile phone with more advanced computing capability and connectivity than basic feature phones.
+Early smartphones typically combined the features of a mobile phone with those of another popular consumer device, such as a personal digital assistant (PDA), a media player, a digital camera, and/or a GPS navigation unit. Modern smartphones include all of those features plus the features of a laptop, including web browsing, Wi-Fi, and 3rd-party apps and accessories.
+The most popular smartphones today are powered by Google's Android and Apple's iOS mobile operating systems.
+
+
+== History ==
+
+
+=== Early years ===
+Devices that combined telephony and computing were first conceptualized in 1973, and were offered for sale beginning in 1993. The term "smartphone" first appeared in 1997, when Ericsson described its GS 88 "Penelope" concept as a Smart Phone.
+
+
+=== Forerunners ===
+
+The first mobile phone to incorporate PDA features was an IBM prototype developed in 1992 and demonstrated that year at the COMDEX computer industry trade show. A refined version of the product was marketed to consumers in 1994 by BellSouth under the name Simon Personal Communicator. The Simon was the first device that can be properly referred to as a "smartphone", even though that term was not yet coined. In addition to its ability to make and receive cellular phone calls, Simon was also able to send and receive faxes and e-mails through its touch screen display.
+
+
+=== PDAs ===
+In the late 1990s, many mobile phone users carried a separate dedicated PDA device, running early versions of operating systems such as Palm OS, BlackBerry OS or Windows CE/Pocket PC. These operating systems would later evolve into mobile operating systems.
+In 1996, Nokia released the Nokia 9000 which became their best-selling phone of that time. It was a palmtop computer-style phone combined with a PDA from HP. In early prototypes, the two devices were fixed together via a hinge in what became known as a clamshell design. When opened, the display was on the inside top surface and with a physical QWERTY keyboard on the bottom. Email and text-based web browsing was provided by the GEOS V3.0 operating system.
+In early 2000, the Ericsson R380 was released by Ericsson Mobile Communications, and was the first device marketed as a "smartphone". It combined the functions of a mobile phone and a personal digital assistant (PDA), supported limited web browsing with a resistive touchscreen utilizing a stylus.
+In early 2001, Palm, Inc. introduced the Kyocera 6035, which combined a PDA with a mobile phone and operated on Verizon. It also supported limited web browsing.
+Smartphones before Android, iOS, and Blackberry, typically ran on Symbian, which was originally developed by Psion. It was the world's most widely used smartphone operating system until Q4 2010.
+
+
+=== Mass adoption ===
+In 1999, the Japanese firm NTT Docomo released the first smartphones to achieve mass adoption within a country. These phones ran on i-mode, which provided data transmission speeds up to 9.6 kbit/s. Outside of Japan, the next smartphone to achieve mass adoption was the BlackBerry, which in 2006 popularized the term CrackBerry due to its addictive nature.
+
+
+=== iOS and Android ===
+In 2007, Apple Inc. introduced the iPhone, one of the first mobile phones to use a multi-touch interface. The iPhone was notable for its use of a large touchscreen for direct finger input as its main means of interaction, instead of a stylus, keyboard, and/or keypad typical for smartphones at the time. 2008 saw the release of the first phone to use Android called the HTC Dream. Android is an open-source platform founded by Andy Rubin and backed by Google The most popular smartphones today are now powered by these two mobile operating systems.
+
+
+=== The future ===
+In 2013, the Fairphone company launched its first "socially ethical" smartphone at the London Design Festival to address concerns regarding the sourcing of materials in the manufacturing. In late 2013, QSAlpha commenced production of a smartphone designed entirely around security, encryption and identity protection. In December 2013, the world's first curved-OLED technology smartphones were introduced to the retail market with the sale of the Samsung Galaxy Round and LG G Flex models.
+Foldable OLED smartphones could be as much as a decade away because of the cost of producing them. There is a relatively high failure rate when producing these screens. As little as a speck of dust can ruin a screen during production. Creating a battery that can be folded is another hurdle. Samsung fully foldable phones are expected to debut in the 2016-2017 timeframe.
+A clear thin layer of crystal glass can be added to small screens like watches and smartphones that make them solar powered. Smartphones could gain 15% more battery life during a typical day. This first smartphones using this technology should arrive in 2015. This screen can also work to receive Li-Fi signals and so can the smartphone camera. The cost of these screens per smartphone is between $2 and $3, much cheaper than most new technology.
+The next breakthrough smartphone, or maybe the one after that, might not have a traditional battery as its sole source of power. Instead, it could pull energy from the air or power itself through television, cellular or Wi-Fi signals.
+
+
+== Modern operating systems ==
+
+
+=== Android ===
+
+Android is an open-source platform founded in October 2003 by Andy Rubin and backed by Google, along with major hardware and software developers (such as Intel, HTC, ARM, Motorola and Samsung) that form the Open Handset Alliance. In October 2008, HTC released the HTC Dream, the first phone to use Android. The software suite included on the phone consists of integration with Google's proprietary applications, such as Maps, Calendar, and Gmail, and a full HTML web browser. Android supports the execution of native applications and third-party apps which are available via Google Play, which launched in October 2008 as Android Market. By Q4 2010, Android became the best-selling smartphone platform.
+
+
+=== Bada ===
+
+The Bada operating system for smartphones was announced by Samsung in November 2009. The first Bada-based phone was the Samsung Wave S8500, released in June 2010. Samsung shipped 4.5 million phones running Bada in Q2 of 2011. In 2013, Bada merged with a similar platform called Tizen.
+
+
+=== BlackBerry ===
+
+In 1999, RIM released its first BlackBerry devices, providing secure real-time push-email communications on wireless devices. Services such as BlackBerry Messenger provide the integration of all communications into a single inbox. There are 80 million active BlackBerry service subscribers and the 200 millionth BlackBerry smartphone was shipped in September 2012. Most recently, RIM has undergone a platform transition, changing its name to BlackBerry and making new devices on a new platform named "BlackBerry 10."
+
+
+=== iOS ===
+
+In 2007, Apple Inc. introduced the iPhone, one of the first mobile phones to use a multi-touch interface. The iPhone was notable for its use of a large touchscreen for direct finger input as its main means of interaction, instead of a stylus, keyboard, and/or keypad as typical for smartphones at the time. In July 2008, Apple introduced its second generation iPhone with a much lower list price and 3G support. Simultaneously, they introduced the App Store, which allowed any iPhone to install third-party native applications. Featuring over 500 applications at launch, the App Store eventually achieved 1 billion downloads in the first year, and 15 billion by 2011.
+
+
+=== Sailfish OS ===
+
+The Sailfish OS is based on the Linux kernel and Mer. Additionally Sailfish OS includes a partially or completely proprietary multi-tasking user interface programmed by Jolla. This user interface differentiate Jolla smartphones from others. Sailfish OS is intended to be a system made by many of the MeeGo team, which left Nokia to form Jolla, utilizing funding from Nokia's "Bridge" program which helps establish and support start-up companies formed by ex-Nokia employees.
+
+
+=== Windows Phone ===
+
+In February 2010, Microsoft unveiled Windows Phone 7 with a User Interface inspired by Microsoft's "Metro Design Language". Windows Phone 7 integrates with Microsoft services such as Microsoft SkyDrive, Office, Xbox and Bing, as well as non-Microsoft services such as Facebook, Twitter and Google accounts. This software platform runs on most Nokia smartphones, it has received some positive reception from the technology press and been praised for its uniqueness.
+
+
+=== Firefox OS ===
+
+Firefox OS (originally called the boot to gecko project) was demonstrated by Mozilla in February 2012. It was designed to have a complete community based alternative system for mobile devices, using open standards and HTML5 applications. The first commercially available Firefox OS phones were ZTE Open and Alcatel One Touch Fire. As of 2014 more companies have partnered with Mozilla including Panasonic (which is making a smart TV with Firefox OS) and Sony.
+
+
+== Application stores ==
+
+The introduction of Apple's App Store for the iPhone and iPod Touch in July 2008 popularized manufacturer-hosted online distribution for third-party applications (software, computer programs) focused on a single platform. Up until that point, smartphone application distribution depended on third-party sources providing applications for multiple platforms, such as GetJar, Handango, Handmark, and PocketGear.
+Following the success of the App Store, other smartphone manufacturers launched application stores, such as Google's Android Market in October 2008 and RIM's BlackBerry App World in April 2009.
+
+
+== Market share ==
+
+
+=== Smartphone usage ===
+In the third quarter of 2012, one billion smartphones were in use worldwide. Global smartphone sales surpassed the sales figures for features phones in early 2013. As of 2013, 65 percent U.S. mobile consumers own smartphones. The European mobile device market as of 2013 is 860 million. In China, smartphones represented more than half of all handset shipments in the second quarter of 2012.
+As of November 2011, 27% of all photographs were taken with camera-equipped smartphones. A study conducted in September 2012 concluded that 4 out of 5 smartphone owners use the device to shop.
+Worldwide shipments of smartphones topped 1 billion units in 2013 (up 38% from 2012's 725 million) while compromising a 55% share of the mobile phone market in 2013 (up from 42% in 2012).
+
+
+=== By manufacturer ===
+In 2013, Samsung set at 31.3 percent Shipment Market Share, a slight increase from 30.3 percent in 2012, while Apple set at 15.3 percent in 2013 and decrease from 18.7 percent in 2012. Huawei, LG and Lenovo set at about 5 percent each and significant better than 2012 figures, while Others set at about 40 percent or same with last year figure. Only Apple loss its market share, although the shipment volume in one year still increase by (small) 12.9 percent, but the rest increase significant in shipment volume by 36 to 92 percent.
+
+
+=== By operating system ===
+
+As of the end of Q3 2013, Android was the most popular operating system, with a 81.9% market share, followed by iOS with 12.1%, Windows Phone with 3.6% and BlackBerry with 1.8%.
+
+
+==== Historical sales figures (in millions of units) ====
+
+
+== Issues ==
+
+
+=== Environmental ===
+Obtaining the resources required to create smartphones involves the mining of minerals such as coltan, which are toxic to humans and wildlife. Other raw materials, such as oils, copper, plastics, and solvents, have the potential to contaminate both the soil and groundwater. Smartphones also contain toxic chemicals such as lead, bromine, chlorine, mercury, and cadmium.
+The improper recycling of used smartphones damages the environment. Mobile phones can contain dangerous chemicals such as antimony, cadmium, copper, lead, arsenic, nickel and zinc, which can run off into surrounding water bodies or seep into soil contaminating wildlife and drinking water.
+
+
+=== Worker conditions ===
+The capacitors in electronics use minerals mined in pre-industrial societies, which causes concern in Western cultures. e.g., Mines in Afr

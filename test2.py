@@ -1,4 +1,3 @@
-
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.tokenize import WordPunctTokenizer
@@ -16,7 +15,6 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_selection import SelectKBest, chi2
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import LogisticRegression
-from sklearn.pipeline import Pipeline
 import sys
 import urllib2
 from nltk.corpus import brown
@@ -26,6 +24,7 @@ from sklearn.multiclass import OneVsRestClassifier
 #from sklearn.feature_extraction.text import CountVectorizer
 import cPickle
 from goose import Goose
+
 def extract_words(text):
 
     '''
@@ -34,7 +33,6 @@ def extract_words(text):
    '''
 
     stemmer = PorterStemmer()
-
     tokenizer = WordPunctTokenizer()
     tokens = tokenizer.tokenize(text)
     bigram_finder = BigramCollocationFinder.from_words(tokens)
@@ -45,7 +43,7 @@ def extract_words(text):
         tokens.append(x)
 
     result =  [stemmer.stem(x.lower()) for x in tokens if x not in stopwords.words('english') and len(x) > 1]
-#    print result
+   # print result
     return result
 
 def get_feature(word):
@@ -65,46 +63,71 @@ def create_training_dict(text, sense):
 
 
 def parse_url(url):
-
- g = Goose({'target_language':'en'})
+ print url
+ g = Goose()
  article = g.extract(url=url)
+ print article.title
+ print article.cleaned_text
  if article.title:
-     print article.title
-     if(len(article.cleaned_text)>200):
-        print article.cleaned_text
+    if(len(article.cleaned_text)>200):
         return article.cleaned_text
-     else:
-         return "The site has no content it is invalid"
+
 
 
 
 def training_set():
    # create our dict of training data
-    texts = {}
-    texts['Music'] = 'music.txt'
-    texts['Programming']='coding.txt'
-    texts['Politics']='politics.txt'
-    texts['Startups']='startups.txt'
-    texts['Miscellaneous']='misc.txt'
-    texts['Food']='food.txt'
-    texts['Business']='business.txt'
-    texts['Books']='books.txt'
+    topics = {}
+    topics['Finance'] = 'finance.txt'
+    topics['Food'] = 'food.txt'
+    topics['Literature'] = 'literature.txt'
+    topics['Education'] = 'education.txt'
+    topics['Family and Relationships'] = 'family.txt'
+    topics['Computer Science'] = 'computerscience.txt'
+    topics['Philosophy and Religion'] = 'philosophy.txt'
+    topics['Health and Nutrition'] = 'health.txt'
+    topics['Medicine'] = 'medicine.txt'
+    topics['Science'] = 'science.txt'
+    topics['Sports and Games'] = 'sports.txt'
+    topics['Fashion'] = 'fashion.txt'
+    topics['Movies'] = 'movies.txt'
+    topics['Music'] = 'music.txt'
+    topics['Startups'] = 'startups.txt'
+    topics['Nature'] = 'nature.txt'
+    topics['Technology and Innovations'] = 'technology.txt'
+    topics['Politics'] = 'politics.txt'
+    topics['Travel and Tourism'] ='travel.txt'
+    topics['Art'] = 'art.txt'
+    topics['Photography'] = 'photography.txt'
+    topics['Law and Order'] = 'law.txt'
+    topics['Gadgets and Electronics'] = 'gadget.txt'
+    topics['Beauty'] = 'beauty.txt'
+    topics['Dance'] = 'dance.txt'
+    topics['Economics'] = 'economic.txt'
+    topics['Social Networking'] = 'social network.txt'
+    topics['Pets and Animals'] ='pets.txt'
+    topics['Automobiles'] = 'cars&bikes.txt'
+
+
+
+
+
      #holds a dict of features for training our classifier
     train_set = []
    #train_test2 = []
   # loop through each item, grab the text, tokenize it and create a training feature with it
-    for sense, file in texts.iteritems():
+    for sense, file in topics.iteritems():
        print "training %s " % sense
        f=open(file, 'r')
        text = f.read()
        # print text
        features = extract_words(text)
        train_set = train_set + [(get_feature(word), sense) for word in features]
-    classifier = NaiveBayesClassifier.train(train_set)
+#    classifier = NaiveBayesClassifier.train(train_set)
    # pipeline = Pipeline([('tfidf', TfidfTransformer()),
      #                  ('chi2', SelectKBest(chi2, k=1000)),
     #                     ('nb', LogisticRegression())])
-    #classifier=SklearnClassifier(OneVsRestClassifier(LogisticRegression())).train(train_set)
+    classifier=SklearnClassifier(OneVsRestClassifier(LogisticRegression())).train(train_set)
 
     with open('my_dataset.pkl','wb') as fid:
        cPickle.dump(classifier,fid)
@@ -118,36 +141,49 @@ def training_set():
 
 
 #training_set()
-print "Performance of Naive Bayes Classifier"
-url = raw_input("Enter the url to be parsed")
+url = raw_input("Enter the URL to be parsed")
 line = parse_url(url)
-tokens = bag_of_words(extract_words(line))
-f1= open('my_dataset.pkl')
-classifier=cPickle.load(f1)
-f1.close()
-#print tokens
-decision = classifier.classify(tokens)
-labels  = classifier.prob_classify(tokens)
+if(line):
+ tokens = bag_of_words(extract_words(line))
+ f1= open('my_dataset.pkl')
+ classifier=cPickle.load(f1)
+ f1.close()
+ #print tokens
+ decision = classifier.classify(tokens)
+ labels  = classifier.prob_classify(tokens)
   #batch = classifier.batch_classify(tokens)
   #for b in batch:
    # print b
-print labels.samples()
-print "music    : %s" %labels.prob('Music')
-print "coding   : %s" %labels.prob('Programming')
-print "politics  :%s " %labels.prob('Politics')
-print "startups    :%s " %labels.prob('Startups')
-print "misc        : %s"%labels.prob('Miscellaneous')
-print "food         :%s" %labels.prob('Food')
-print "business     :%s"%labels.prob('Business')
-print "books        :%s"%labels.prob('Books')
+ #print labels.samples()
+ '''
+ print "Economics    : %s" %labels.prob('Economics')
+ print "Finance %s" %labels.prob("Finance")
+ print "Family and Relationships   : %s" %labels.prob('Family and Relationships')
+ print "Food :%s " %labels.prob('Food')
+ print "Literature    :%s " %labels.prob('Literature')
+ print "Science       : %s"%labels.prob('Science')
+ print "Computer Science        :%s" %labels.prob('Computer Science')
+ print "Education      :%s"%labels.prob('Education')
+ print "Health and Nutrition   :%s"%labels.prob('Health and Nutrition')
+ print "Movies       :%s"%labels.prob('Movies')
+ print "Medicine       :%s"%labels.prob('Medicine')
+ print "Music       :%s"%labels.prob('Music')
+ print "Art      :%s"%labels.prob('Art')
+ print "Photography       :%s"%labels.prob('Photography')
+ print "Politics         :%s"%labels.prob('Politics')
+ print "Startups    :%s"%labels.prob('Startups')
+ print "Nature     :%s" %labels.prob('Nature')
+ print "Travel and Tourism %s" %labels.prob("Travel and Tourism")
+ print "Technology and Innovations %s" %labels.prob("Technology and Innovations")
+ print "Law and Order %s" %labels.prob("Law and Order")
+ print "Sports and Games %s" %labels.prob("Sports and Games")
+ print "Gadgets and Electronics %s" %labels.prob("Gadgets and Electronics")
+ print "Fashion %s" %labels.prob("Fashion")
+ print "Dance %s" %labels.prob("Dance")
+ '''
+ print "******* CATEGORY OF THE WEB DOCUMENT *******"
+ print decision
+ print"*********************************************"
+else:
+    print "The site has no content or article to classify"
 
-print decision
-#label_names = ['food', 'books','technology','music','travel','sports','company','coding','hobbies','careers','religion','education']
-#predictions = [label_names[pred] for pred in classifier.predict(new_samples)]
-result = "%s - %s" % (decision,line)
-choice = raw_input("is the decision correct?")
-if choice == "no":
- filename = raw_input("enter the name of the file to which u want to enter")
- f = open(filename,"a")
- f.write("\n %s" %str(line))
- training_set()
