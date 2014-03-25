@@ -52,28 +52,6 @@ University education includes teaching, research, and social services activities
 A liberal arts institution can be defined as a "college or university curriculum aimed at imparting broad general knowledge and developing general intellectual capacities, in contrast to a professional, vocational, or technical curriculum." Although what is known today as the liberal arts college began in Europe, the term is more commonly associated with universities in the United States.[citation needed]
 
 
-=== Vocational ===
-
-Vocational education is a form of education focused on direct and practical training for a specific trade or craft. Vocational education may come in the form of an apprenticeship or internship as well as institutions teaching courses such as carpentry, agriculture, engineering, medicine, architecture and the arts.
-
-
-=== Special ===
-
-In the past, those who were disabled were often not eligible for public education. Children with disabilities were often educated by physicians or special tutors. These early physicians (people like Itard, Seguin, Howe, Gallaudet) set the foundation for special education today. They focused on individualized instruction and functional skills. Special education was only provided to people with severe disabilities in its early years, but more recently it has been opened to anyone who has experienced difficulty learning.
-
-
-== Other educational forms ==
-
-
-=== Alternative ===
-
-While considered "alternative" today, most alternative systems have existed since ancient times. After the public school system was widely developed beginning in the 19th century, some parents found reasons to be discontented with the new system. Alternative education developed in part as a reaction to perceived limitations and failings of traditional education. A broad range of educational approaches emerged, including alternative schools, self learning, homeschooling and unschooling. Example alternative schools include Montessori schools, Waldorf schools (or Steiner schools), Friends schools, Sands School, Summerhill School, The Peepal Grove School, Sudbury Valley School, Krishnamurti schools, and open classroom schools.
-To a greater or lesser degree, ideas from these experiments and challenges to the system may in time be adopted by the mainstream, as to a large degree has happened with kindergarten, an experimental approach to early childhood education developed by Friedrich Fröbel in 19th century Germany. Other influential writers and thinkers have included the Swiss humanitarian Johann Heinrich Pestalozzi; the American transcendentalists Amos Bronson Alcott, Ralph Waldo Emerson, and Henry David Thoreau; the founders of progressive education, John Dewey and Francis Parker; and educational pioneers such as Maria Montessori and Rudolf Steiner, and more recently John Caldwell Holt, Paul Goodman, Frederick Mayer, George Dennison and Ivan Illich.
-
-
-=== Indigenous ===
-
-Indigenous education refers to the inclusion of indigenous knowledge, models, methods and content within formal and non-formal educational systems. Often in a post-colonial context, the growing recognition and use of indigenous education methods can be a response to the erosion and loss of indigenous knowledge and language through the processes of colonialism. Furthermore, it can enable indigenous communities to "reclaim and revalue their languages and cultures, and in so doing, improve the educational success of indigenous students."
 
 
 === Informal learning ===
@@ -95,28 +73,6 @@ There has been a culture forming around distance learning for people who are loo
 
 
 == Development goals ==
-
-Since 1909, the ratio of children in the developing world going to school has increased. Before then, a small minority of boys attended school. By the start of the 21st century, the majority of all children in most regions of the world attended school. There are 73 million children,[clarification needed] mostly female children in poor families, who did not start elementary school. There are more than 200 million children, mostly females from poor families, who did not go to secondary school. Universal Primary Education is one of the eight international Millennium Development Goals, towards which progress has been made in the past decade, though barriers still remain. Securing charitable funding from prospective donors is one particularly persistent problem. Researchers at the Overseas Development Institute have indicated that the main obstacles to receiving more funding for education include conflicting donor priorities, an immature aid architecture, and a lack of evidence and advocacy for the issue. Additionally, Transparency International has identified corruption in the education sector as a major stumbling block to achieving Universal Primary Education in Africa. Furthermore, demand in the developing world for improved educational access is not as high as foreigners have expected. Indigenous governments are reluctant to take on the recurrent costs involved. There is economic pressure from those parents who prefer their children to earn money in the short term rather than work towards the long-term benefits of education.[citation needed]
-A study conducted by the UNESCO International Institute for Educational Planning indicates that stronger capacities in educational planning and management may have an important spill-over effect on the system as a whole. Sustainable capacity development requires complex interventions at the institutional, organizational and individual levels that could be based on some foundational principles:
-national leadership and ownership should be the touchstone of any intervention;
-strategies must be context relevant and context specific;[clarification needed]
-they should embrace an integrated set of complementary interventions, though implementation may need to proceed in steps;[clarification needed]
-partners should commit to a long-term investment in capacity development, while working towards some short-term achievements;
-outside intervention should be conditional on an impact assessment of national capacities at various levels;
-a certain percentage of students should be removed for improvisation of academics (usually practiced in schools, after 10th grade).
-
-
-=== Internationalization ===
-Nearly every country now has Universal Primary Education.
-Similarities — in systems or even in ideas — that schools share internationally have led to an increase in international student exchanges. The European Socrates-Erasmus Program facilitates exchanges across European universities. The Soros Foundation provides many opportunities for students from central Asia and eastern Europe. Programs such as the International Baccalaureate have contributed to the internationalization of education. The global campus online, led by American universities, allows free access to class materials and lecture files recorded during the actual classes.
-
-
-=== Education and technology in developing countries ===
-
-Technology plays an increasingly significant role in improving access to education for people living in impoverished areas and developing countries. There are charities dedicated to providing infrastructures through which the disadvantaged may access educational materials, for example, the One Laptop per Child project.
-The OLPC foundation, a group out of MIT Media Lab and supported by several major corporations, has a stated mission to develop a $100 laptop for delivering educational software. The laptops were widely available as of 2008. They are sold at cost or given away based on donations.
-In Africa, the New Partnership for Africa's Development (NEPAD) has launched an "e-school program" to provide all 600,000 primary and high schools with computer equipment, learning materials and internet access within 10 years. An International Development Agency project called nabuur.com, started with the support of former American President Bill Clinton, uses the Internet to allow co-operation by individuals on issues of social development.
-India is developing technologies that will bypass land-based telephone and Internet infrastructure to deliver distance learning directly to its students. In 2004, the Indian Space Research Organization launched EDUSAT, a communications satellite providing access to educational materials that can reach more of the country's population at a greatly reduced cost.
 
 
 === Private v public funding in developing countries ===
@@ -154,9 +110,6 @@ Dunn and Dunn focused on identifying relevant stimuli that may influence learnin
 Some theories propose that all individuals benefit from a variety of learning modalities, while others suggest that individuals may have preferred learning styles, learning more easily through visual or kinesthetic experiences. A consequence of the latter theory is that effective teaching should present a variety of teaching methods which cover all three learning modalities so that different students have equal opportunities to learn in a way that is effective for them. Guy Claxton has questioned the extent that learning styles such as VAK are helpful, particularly as they can have a tendency to label children and therefore restrict learning. Recent research has argued "there is no adequate evidence base to justify incorporating learning styles assessments into general educational practice."
 
 
-=== Philosophy ===
-
-As an academic field, philosophy of education is "the philosophical study of education and its problems (...) its central subject matter is education, and its methods are those of philosophy". "The philosophy of education may be either the philosophy of the process of education or the philosophy of the discipline of education. That is, it may be part of the discipline in the sense of being concerned with the aims, forms, methods, or results of the process of educating or being educated; or it may be metadisciplinary in the sense of being concerned with the concepts, aims, and methods of the discipline." As such, it is both part of the field of education and a field of applied philosophy, drawing from fields of metaphysics, epistemology, axiology and the philosophical approaches (speculative, prescriptive, and/or analytic) to address questions in and about pedagogy, education policy, and curriculum, as well as the process of learning, to name a few. For example, it might study what constitutes upbringing and education, the values and norms revealed through upbringing and educational practices, the limits and legitimization of education as an academic discipline, and the relation between education theory and practice.
 
 
 === Curriculum ===
@@ -170,57 +123,6 @@ Educational institutions may incorporate fine arts as part of K-12 grade curricu
 Instruction is the facilitation of another's learning. Instructors in primary and secondary institutions are often called teachers, and they direct the education of students and might draw on many subjects like reading, writing, mathematics, science and history. Instructors in post-secondary institutions might be called teachers, instructors, or professors, depending on the type of institution; and they primarily teach only their specific discipline. Studies from the United States suggest that the quality of teachers is the single most important factor affecting student performance, and that countries which score highly on international tests have multiple policies in place to ensure that the teachers they employ are as effective as possible. With the passing of NCLB in the United States (No Child Left Behind), teachers must be highly qualified. A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias.
 
 
-== Economics ==
-
-It has been argued that high rates of education are essential for countries to be able to achieve high levels of economic growth. Empirical analyses tend to support the theoretical prediction that poor countries should grow faster than rich countries because they can adopt cutting edge technologies already tried and tested by rich countries. However, technology transfer requires knowledgeable managers and engineers who are able to operate new machines or production practices borrowed from the leader in order to close the gap through imitation. Therefore, a country's ability to learn from the leader is a function of its stock of "human capital". Recent study of the determinants of aggregate economic growth have stressed the importance of fundamental economic institutions and the role of cognitive skills.
-At the level of the individual, there is a large literature, generally related to the work of Jacob Mincer, on how earnings are related to the schooling and other human capital. This work has motivated a large number of studies, but is also controversial. The chief controversies revolve around how to interpret the impact of schooling. Some students who have indicated a high potential for learning, by testing with a high intelligence quotient, may not achieve their full academic potential, due to financial difficulties.[citation needed]
-Economists Samuel Bowles and Herbert Gintis argued in 1976 that there was a fundamental conflict in American schooling between the egalitarian goal of democratic participation and the inequalities implied by the continued profitability of capitalist production on the other.
-
-
-== See also ==
-
-Education for Sustainable Development
-Education theory
-Educational technology
-Glossary of education terms
-Human rights education
-Index of education articles
-Mind uploading
-Outline of education
-Progressive education
-Sociology of education
-Unschooling
-
-
-== References ==
-
-
-== External links ==
-Education on the Open Directory Project
-Educational Resources from UCB Libraries GovPubs
-UNESCO Institute for Statistics: International comparable statistics on education systems
-OECD education statistics
-Child and Teacher Educational from Kireet Joshi
-Planipolis: a portal on education plans and policies
-IIEP Publications on Education Systems
-The Meaning of Educational Quality video
-A college (Latin: collegium) is an educational institution or a constituent part of one. Usage of the word college varies in English-speaking nations. A college may be a degree-awarding tertiary educational institution, a part of a collegiate university, or an institution offering vocational education.
-In the United States, "college" formally refers to a constituent part of a university. In the US, "college" and "university" are interchangeable, whereas in Ireland, the UK, New Zealand, Australia, Canada and other former and present Commonwealth nations, "college" may refer to a secondary or high school, a college of further education, a training institution that awards trade qualifications, or a constituent part of a university. (See this comparison of British and American English educational terminology for further information.)
-
-
-== Etymology ==
-In ancient Rome a collegium was a club or society, a group of persons living together, under a common set of rules (con- = "together" + leg- = "law" or lego = "I choose").
-
-
-== Usage ==
-See also this comparison of British and American English educational terminology for further information.
-
-
-=== Higher education ===
-Within higher education, the term can be used to refer to:
-a constituent part of a collegiate university, for example King's College, Cambridge, Cambridge
-a college of further education, for example Belfast Metropolitan College
-
 
 === Secondary education ===
 
@@ -229,15 +131,6 @@ In Australia the term "college" is applied to any private or independent (non-go
 There has also been a recent trend to rename or create government secondary schools as "colleges". In the state of Victoria, some state high schools are referred to as secondary colleges. Interestingly, the pre-eminent government secondary school for boys in Melbourne is still named Melbourne High School. In Western Australia, South Australia and the Northern Territory, "college" is used in the name of all state high schools built since the late 1990s, and also some older ones. In New South Wales, some high schools, especially multi-campus schools resulting from mergers, are known as "secondary colleges". In Queensland some newer schools which accept primary and high school students are styled state college, but state schools offering only secondary education are called "State High School". In Tasmania and the Australian Capital Territory, "college" refers to the final two years of high school (years 11 and 12), and the institutions which provide this. In this context, "college" is a system independent of the other years of high school. Here, the expression is a shorter version of matriculation college.
 In a number of Canadian cities, many government-run secondary schools are called "collegiates" or "collegiate institutes" (C.I.), a complicated form of the word "college" which avoids the usual "post-secondary" connotation. This is because these secondary schools have traditionally focused on academic, rather than vocational, subjects and ability levels (for example, collegiates offered Latin while vocational schools offered technical courses). Some private secondary schools (such as Upper Canada College, Vancouver College) choose to use the word "college" in their names nevertheless. Some secondary schools elsewhere in the country, particularly ones within the separate school system, may also use the word "college" or "collegiate" in their names.
 In New Zealand the word "college" normally refers to a secondary school for ages 13 to 17 and "college" appears as part of the name especially of private or integrated schools. "Colleges" most frequently appear in the North Island, whereas "high schools" are more common in the South Island.
-
-In South Africa, some secondary schools, especially private schools on the English public school model, have "college" in their title. Thus no less than six of South Africa's Elite Seven high schools call themselves "college" and fit this description. A typical example of this category would be St John's College.
-Private schools that specialize in improving children's marks through intensive focus on examination needs are informally called "cram-colleges".
-In Sri Lanka the word "college" (known as Vidyalaya in Sinhala) normally refers to a secondary school, which usually signifies above the 5th standard. During the British colonial period a limited number of exclusive secondary schools were established based on English public school model (Royal College Colombo, S. Thomas' College, Mount Lavinia, Trinity College, Kandy) these along with several Catholic schools (St. Joseph's College, Colombo, St Anthony's College, Kandy) traditionally carry their name as colleges. Following the start of free education in 1931 large group of central colleges were established to educate the rural masses. Since Sri Lanka gained Independence in 1948, many schools that have been established have been named as "college".
-
-
-=== Other ===
-
-As well as an educational institution, the term can also refer, following its etymology, to any formal group of colleagues set up under statute or regulation; often under a Royal Charter. Examples are an electoral college, the College of Arms, a college of canons, and the College of Cardinals. Other collegiate bodies include professional associations, particularly in medicine and allied professions. In the UK these include the Royal College of Nursing and the Royal College of Physicians. Examples in the United States include the American College of Physicians, the American College of Surgeons, and the American College of Dentists. An example in Australia is the Royal Australian College of General Practitioners.
 
 
 == Country by country ==
@@ -396,34 +289,415 @@ In Switzerland, the old Licence or Diplom (4 to 5 years in duration) or a postgr
 In Slovenia, all Academic degrees awarded after a minimum of four years of university studies and a successful defence of a written thesis are considered equivalent to the master's degree.
 In Baltic countries there is a two-year education program that offers a chance to gain a master's degree in interdisciplinary issues. The system offers an education in different areas, such as humanities, environmental and social issues, whilst paying specific consideration to the Baltic Sea area. It is a joint-degree program, which is part of a team effort with four universities. There is the University of Tartu in Estonia, the University of Turku in Finland, Vytautas Magnus University in Lithuania and the University of Latvia. The educational programs are very good; allowing students to be mobile within the system, for example one semester may be taken in a confederate school without paying additional membership or tuition fees. Subsequently after passing the qualifications provided, people may procure teaching qualifications and continue their scholastic research around doctoral studies, or carry on studying within their career in the private or public sector. Graduates of the program, within the Baltic Sea area are also given the chance to continue onwards with their studies within the postgraduate system if they have studied the social sciences or humanities field.
 In Greece, the metaptychiako which means post-graduate (degree) and is normally two-year after a four-year undergraduate ptychio which means degree.
+Academic Performance Index (API)
+A statewide ranking of schools based on student test scores from the CAT/6, CST, and high school exit exam; it ranges from 200 to 1000. Most schools have an API, a state ranking (by elementary, middle, or high school), a ranking in comparison to 100 similar schools, and growth targets for the following year. (Ed-data)
 
+accommodations
+Changes in the way tests are designed or administered to respond to the special needs of students with disabilities and English learners (EL).  (Ed Source)
 
-== See also ==
-Associate's degree
-Bachelor's degree
-British degree abbreviations
-Degrees of the University of Oxford
-Diploma mill
-Doctorate
-Educational specialist
-Engineer's degree
-Euromaster
-Graduate school
-Licentiate
-List of master's degrees
-Magister (degree)
-Master of Advanced Studies
-Master of Arts (Oxbridge and Dublin)
-Master of Arts (Scotland)
-Master's degree in Europe
-Master's degree non-Euroamerican
-Master's degree in North America
-Master of Laws
-Master of Engineering
-Master of Science
-Professional degree
-Professional Science Master's degree
-Terminal degree
+accountability
+The notion that people (e.g., students or teachers) or an organization (e.g., a school, school district, or state department of education) should be held responsible for improving student achievement and should be rewarded or sanctioned for their success or lack of success in doing so.  (Ed Source)
 
+achievement test
+A test to measure a student's knowledge and skills.  (Ed Source)
 
-== References ==
+ACT
+A set of college admissions tests. Most colleges now accept either the SAT or the ACT for admissions purposes.  (Ed Source)
+
+Adequate Yearly Progress (AYP)
+An individual state's measure of yearly progress toward achieving state academic standards. Adequate yearly progress is the minimum level of improvement that states, school districts, and schools must achieve each year, according to federal No Child Left Behind (NCLB) legislation. This progress is determined by a collection of performance measures that a state, its school districts, and subpopulations of students within its schools are supposed to meet if the state receives Title I federal funding.  In California, the measures include (1) specified percentages of students scoring "proficient" or "advanced" on California Standards Tests in English/language arts and math; (2) participation of a least 95 percent of students on those tests; (3) specified API scores or gains; and (4) for high schools, a specified graduation rate or improvement in the rate. (Ed Source)
+
+adoption
+Refers to the chosen curriculum of a particular school.
+
+advanced  (see proficiency)
+
+Advanced Placement (AP) 
+A series of voluntary exams based on college-level courses taken in high school. High school students who do well on one or more of these exams have the opportunity to earn credit, advanced placement, or both for college. (Ed Source)
+
+Advancement Via Individual Determination (AVID)
+A four-year elective college preparatory class designed to motivate students to attend college.
+
+alignment
+The degree to which assessments, curriculum, instruction, textbooks and other instructional materials, teacher preparation and professional development, and systems of accountability all reflect and reinforce the educational program's objectives and standards. (Ed Source)
+
+alternative assessments
+Ways other than standardized tests to get information about what students know and where they need help, such as oral reports, projects, performances, experiments, and class participation. (Ed Source)
+
+Alternative Schools Accountability Model (ASAM)
+An alternative way of measuring student performance in schools with mostly high-risk students—such as continuation schools or some county office of education schools—and schools with fewer than 11 valid test scores. (Ed Source)
+
+Annual Measurable Objective (AMO)
+The annual target for the percentage of students whose test scores must be proficient or above in English/language arts and mathematics. Meeting the AMO is the first step toward demonstrating adequate yearly progress under the federal law No Child Left Behind (NCLB). (Ed-data)
+
+assessment
+Teacher-made tests, standardized tests, or tests from textbook companies that are used to evaluate student performance.
+
+at-risk student
+Students may be labeled at risk if they are not succeeding in school based on information gathered from test scores, attendance, or discipline problems.
+
+average class size
+The number of students in classes divided by the number of classes. Because some teachers, such as reading specialists, have assignments outside the regular classroom, the average class size is usually larger than the pupil-teacher ratio. (Ed Source)
+
+average daily attendance (ADA)
+The total number of days of student attendance divided by the total number of days in the regular school year. A student attending every school day would equal one ADA. Generally, ADA is lower than enrollment due to such factors as transiency, dropouts, and illness. A school district's revenue limit income is based on its ADA. (Ed-data)
+
+basic (see also proficiency)
+
+basic aid
+The minimum general-purpose aid that is guaranteed by the state's Constitution for each school district in California. A basic aid district is one in which local property taxes equal or exceed the district's revenue limit. These districts may keep the money from local property taxes and still receive constitutionally guaranteed state funding. (Ed Source)
+
+benchmarks
+A detailed description of a specific level of student achievement expected of students at particular ages, grades, or developmental levels; academic goals set for each grade level. (Ed Source)
+
+bilingual education
+An in-school program for students whose first language is not English or who have limited English skills. Bilingual education provides English language development plus subject area instruction in the student's native language. The goal is for the child to gain knowledge and be literate in two languages. (Ed Source)
+
+block scheduling
+Instead of traditional 40- to 50-minute periods, block scheduling allows for periods of an hour or more so that teachers can accomplish more during a class session. It also allows for teamwork across subject areas in some schools. For example, a math and science teacher may teach a physics lesson that includes both math and physics concepts.
+
+bond measure
+A method of borrowing used by school districts to pay for construction or renovation projects. A bond measure requires a 55 percent majority to pass. The principal and interest are repaid by local property owners through an increase in property taxes. (See also parcel tax.) (Ed Source)
+California Achievement Test (CAT/6)
+A standardized, nationally normed test of basic skills that replaced the SAT-9 in 2003 as a state-required test for grades two through 11. Results are used to compare the scores of individual students and schools with others in the area, across the state, and throughout the United States. The API is calculated using this exam instead of the SAT-9. (See nationally normed assessment.) (Ed-data)
+
+California Alternate Performance Assessment (CAPA)
+This is an alternative assessment for children with disabilities who cannot take part in general statewide assessment programs; it is part of California's Standardized Testing and Reporting (STAR) Program.
+
+California Basic Educational Data System (CBEDS)
+Statistical information about schools, teachers, and students that is collected from each public school in the fall. (Ed-data)
+
+California Basic Education Skills Test (CBEST)
+This test measures basic educational skills and must be passed before a person can become a teacher or administrator in California. (Ed Source)
+
+California Content Standards
+The official definitions from the state Board of Education of what children need to know and learn at a particular grade level.
+
+California Education Code (Ed Code)
+A collection of all the laws directly related to California K-12 public schools. Ed Code sections are created or changed by the governor and legislature when they make laws. (Ed Source)
+
+California English Language Development Test (CELDT)
+A test for students whose primary language is not English (as reported by their parents). The test is administered 30 days after initial enrollment and then annually until it is determined that the student has mastered English. At that point the student is classified as Fluent English Proficient (FEP).
+
+California High School Exit Exam (CAHSEE)
+A state exam that California public high school students, beginning with the class of 2006, must pass in order to graduate. Its purpose is to test whether students have mastered the academic skills necessary to succeed in the adult world. It is a pass-fail exam divided into two sections: English/language arts (reading and writing) and mathematics. Sophomores, juniors, and seniors can take the test. Once students pass a section of the test, they do not have to take that section again. (Ed Source)
+
+California Standards Tests (CST)
+Tests in English/language arts, mathematics, science, history/social science, and other topics comprising items that were developed specifically to assess students' performance on California's content standards. The CST is part of the STAR testing program. Students at different grade levels take different tests, depending on the courses they are taking.
+
+California State University (CSU) system
+A four-year state university system. California operates three separate public systems for postsecondary education: two-year community colleges, the four-year CSU system, and the more selective University of California (UC) system. (Ed Source)
+
+categorical aid
+Funds from the state or federal government granted to qualifying schools or districts for specific children with special needs, certain programs such as class size reduction, or special purposes such as transportation. In general, schools or districts must spend the money for the specific purpose. All districts receive categorical aid in varying amounts. This aid is in addition to the funding schools received for their general education program. (Ed Source)
+
+certificated/credentialed employees
+School employees who are required by the state to hold teaching credentials, including full-time, part-time, substitute, or temporary teachers and most administrators. A teacher who has not yet acquired a credential but has an emergency permit or a waiver to teach in the classroom is included in the count. The requirements for a fully credentialed teacher include having a bachelor's degree, completing additional required coursework, and passing the CBEST. (Ed-data and Ed Source)
+
+certificate/credential
+A state-issued license certifying that the teacher has completed the necessary basic training courses and passed the teacher exam.
+
+charter schools
+Publicly funded schools that are exempt from many state laws and regulations for school districts. They are run by groups of teachers, parents, and/or foundations. (Ed-data and SARC glossary)
+
+class size reduction
+A state-funded program for kindergarten through third grade classes to ensure that there are no more than 20 students per teacher. A separate program supports some smaller classes for core subjects in ninth grade. (Ed-data)
+
+classified employees
+School employees who are not required to hold teaching credentials, such as bus drivers, secretaries, custodians, instructional aides, and some management personnel. (Ed-data, Ed Source)
+
+closed campus
+This usually indicates that the school has one point of entry and a sign-in procedure as safety measures. It also refers to a high school that does not allow students to leave the campus for lunch or does not allow students to come and go without permission during the school day.
+
+cluster
+To place small groups of students together for instruction, especially GATE student.
+
+community college
+A two-year college, also referred to as a junior college. Anyone who is 18 years old or holds a high school diploma (or equivalent) is eligible to attend a community college. Students can transfer from community colleges to either the CSU or UC systems. (Ed Source)
+
+community-based learning
+Students, faculty, administrators, and community members working together to create new learning opportunities within local communities but generally outside traditional learning institutions.
+
+comparable growth
+Subgroups of students in a school must improve their scores on standardized tests. They are expected to achieve 80 percent of the predominant student group's target, which is known as comparable growth.
+
+conflict management
+A strategy that schools use to prevent and address behavior problems by using peer counselors, mediators, or a school curriculum or program. It usually includes a set of expectations for behavior.
+
+Consolidated Application (Con App)
+The application districts can use to apply for more than 20 state and federal categorical programs, including the federal Title I program and the state School Improvement Program (SIP). Most if not all districts use the Con App to secure funding from at least some of the programs on the application. (Ed Source)
+
+content standards
+Standards that describe what students should know and be able to do in core academic subjects at each grade level. (Ed Source)
+
+cooperative learning
+A teaching method in which students of differing abilities work together on an assignment. Each student has a specific responsibility within the group. Students complete assignments together and receive a common grade.
+
+core academics
+The required subjects in middle and high schools—usually English (literature), history (social studies), math, and science.
+
+criterion-referenced test
+A test that measures how well a student has learned a specific body of knowledge and skills. The goal is typically to have every student attain a passing mark, not to compare students to each other. (See norm-referenced assessment). (Ed Source)
+
+Cross-cultural Language and Development (CLAD)
+A test that teachers must pass to gain credentials that qualify them to teach English to English learners. The BCLAD is a CLAD for bilingual teachers.
+
+curriculum
+The courses of study offered by a school or district. California has developed a set of standards that are intended to guide curriculum and instruction. The final decisions about school curriculum are the responsibility of the local school board. (Ed Source)
+differentiated instruction
+This is also referred to as "individualized" or "customized" instruction. The curriculum offers several different learning experiences within one lesson to meet students' varied needs or learning styles. For example, different teaching methods for students with learning disabilities.
+
+disaggregated data
+The presentation of data broken into segments of the student population instead of the entire enrollment. Typical segments include students who are economically disadvantaged, from racial or ethnic minority groups, have disabilities, or have limited English fluency. Disaggregated data allows parents and teachers to see how each student group is performing in a school. (Ed Source)
+
+dropout
+A grade seven through twelve student who left school prior to completing the school year and had not returned by Information Day (a day in October when students throughout the state and are counted and enrollment is determined). This does not include students who receive a General Education Development (GED) or California High School Proficiency Examination (CHSPE) certificate, transfer to another high school or to a college, move out of the United States, are suspended or sick that day, or enrolled late. (Ed Source)
+
+emergency permit
+In California, a one-year permit issued to people entering the teaching profession who have not completed some of the legal requirements for a credential. Generally the intent is that the person will enroll in and complete an approved teacher preparation program. (Ed Source)
+
+English as a Second Language
+Classes or support programs for students whose native language is not English.
+
+English Language Advisory Committee (ELAC)
+Variations include "English Language Advisory Council," and "English Language Learner Advisory Committee/Council." The group consists of parents and school staff who work together to address the academic needs of students still learning English.
+
+English learner
+A student who is not proficient enough in the English language to succeed in the school's regular instructional programs and who qualifies for extra help. (Formerly referred to as Limited English Proficient/LEP.) (Ed Source/Ed-data)
+
+enrichment
+Additional courses outside those required for graduation.
+
+family math
+A University of California at Berkeley program that teaches families how to enjoy doing math together. Parents and children attend workshops or use the Family Math book to learn how to use everyday materials to do fun math activities.
+
+Fluent English Proficient (FEP)
+A designation that means that a student is no longer considered as part of the school's English learner population. It refers to students who have learned English. (Ed Source)
+
+Formative assessment
+Any form of assessment used by an educator to evaluate students' knowledge and understanding of particular content and then to adjust instructional practices accordingly toward improving student achievement in that area. (Ed Source)
+
+Free/reduced-price meals
+A federal program that provides food for students from low-income families. (Ed-data)
+
+general fund
+Accounting term used by the state and school districts to differentiate general revenues and expenditures from funds for specific uses, such as a Cafeteria Fund. (Ed-data)
+
+Gifted and Talented Education (GATE) 
+A program that offers supplemental, differentiated, challenging curriculum and instruction for students identified as being intellectually gifted or talented. (Ed Source)
+
+Governor's Performance Awards
+A competitive program that grants awards to public schools in California that meet or exceed their Academic Performance Index performance growth target each year. The financial awards were discontinued in 2002–2003 due to lack of state funding. (Ed Source)
+
+highly qualified teacher
+According to NCLB, a teacher who has obtained full state teacher certification or has passed the state teacher licensing examination and holds a license to teach in the state; holds a minimum of a bachelor’s degree; and has demonstrated subject area competence in each of the academic subjects in which the teacher teaches. (Ed Source)
+
+High Priority Schools Grant Program (HPSGP) 
+A program created to provide funds for schools in the lower half of the state rankings (Deciles 1-5) based on the API. It focuses on schools with APIs that fall in the bottom ten percent of all schools and replaces the II/USP.  Schools volunteer to be in this program. (Ed Source)
+
+II/USP (Immediate Intervention/Underperforming Schools Program)
+The Immediate Intervention/Underperforming Schools Program was designed to encourage a schoolwide improvement program in schools with very low test scores and to provide assistance and intervention. Schools in the lowest five deciles of API scores were eligible if they did not meet their API targets. It was replaced in 2002 with HPSGP, a similar program. (Ed-data)
+
+immersion education
+A program that teaches children to speak, read, and write in a second language by surrounding them with conversation and instruction in that language. Note that English immersion may differ from other immersion programs.
+
+inclusion
+The practice of placing students with disabilities in regular classrooms. Also known as mainstreaming. (Ed Source)
+
+independent study
+Specially designed instruction in courses taught through a variety of delivery methods that complement traditional high school curricula and provide an accredited diploma.
+
+Individual Education Program (IEP)
+A written plan created for a student with learning disabilities by the student's teachers, parents or guardians, the school administrator, and other interested parties. The plan is tailored to the student's specific needs and abilities, and outlines goals for the student to reach. The IEP should be reviewed at least once a year.
+
+instructional minutes
+Refers to the amount of time the state requires teachers to spend providing instruction in each subject area.
+
+integrated curriculum
+Refers to the practice of using a single theme to teach a variety of subjects. It also refers to a interdisciplinary curriculum, which combines several school subjects into one project.
+
+International Baccalaureate (IB)
+A rigorous college preparation course of study that leads to examinations for highly motivated high school students. Students can earn college credit from many universities if their exam scores are high enough. (Ed Source)
+
+intervention
+The term refers to funds that schools get for students who are not learning at grade level. They can be used to fund before-school or afterschool programs or to pay for materials and instructors.
+
+job shadowing
+A program that takes students into the workplace to learn about careers through one-day orientations or more extensive internships to see how the skills learned in school relate to the workplace.
+
+joint school districts
+School districts with boundaries that cross county lines. 
+language arts
+Another term for English curriculum. The focus is on reading, speaking, listening, and writing skills.
+
+magnet school
+A school that focuses on a particular discipline, such as science, mathematics, arts, or computer science. It is designed to recruit students from other parts of the school district.
+
+mainstreaming
+The practice of placing students with disabilities in regular classrooms; also known as inclusion. (Ed Source)
+
+manipulatives
+Three-dimensional teaching aids and visuals that teachers use to help students with math concepts. Typical tools include counting beads or bars, base ten blocks, shapes, fraction parts, and rulers.
+
+minimum day
+A shortened school day that allows teachers to meet and work together.
+
+modernization
+The installation of new plumbing, air conditioning, floors, cabinets, carpeting, etc. on school grounds.
+
+multiple-subject credential
+A credential required to teach in elementary and middle-school classrooms. It qualifies a teacher to teach multiple subjects in a self-contained class.
+
+National Blue Ribbon Award
+This award honors public and private K–12 schools that are academically superior or that demonstrate dramatic gains in student achievement.
+
+NCLB (No Child Left Behind)
+Signed into law by President Bush in 2002, No Child Left Behind sets performance guidelines for all schools and also stipulates what must be included in accountability reports to parents. It mandates annual student testing, includes guidelines for underperforming schools, and requires states to train all teachers and assistants to be "highly qualified".
+
+norm-referenced assessment
+An assessment in which an individual or group's performance is compared with a larger group. Usually the larger group is representative of a cross-section of all US students. (Ed Source)
+
+Open Court Reading Series
+A program that provides systematic, explicit instruction to help students learn the structure of words and how to sound them out. Fluent reading and comprehension by the end of first grade is a program goal.
+
+parcel tax
+In California, an assessment on each parcel of property that must be approved by two-thirds of the votes in a school district. The proceeds are generally used for educational programs, not for construction or renovation, which is normally financed through a general obligation bond measure. (Ed Source)
+
+Parent Teacher Association (PTA)
+A national organization of parents, teachers, and other interested persons that has chapters in schools. They rely entirely on voluntary participation and offer assistance to schools in many different areas.
+
+Peer Assistance and Review Program (PAR)
+A program that encourages designated consulting teachers to assist other teachers who need help in developing their subject matter knowledge, teaching strategies, or both. They also help teachers to meet the standards for proficient teaching.
+
+peer resource program
+A program that trains students to provide their peers with counseling, education, and support on issues such as prejudice, drugs, violence, child abuse, dropping out, AIDS, and peer pressure. Students are also trained to provide tutoring and conflict mediation.
+
+percentile ranks
+One way to compare a given child, class, school, or district to a national norm. (Ed Source)
+
+phonics
+An instructional strategy used to teach reading. It helps beginning readers by teaching them letter-sound relationships and having them sound out words.
+
+physical education (PE)
+Activities focused on developing physical and motor fitness; fundamental motor skills and patterns; and skills in aquatics, dance, individual and group games, and sports (including intramural and lifetime sports). The term includes special PE, adaptive PE, movement education, and motor development.
+
+portable
+A term commonly used to describe single-unit, relocatable buildings. A portable building can be moved from one site when it is no longer needed and used again in another location.
+
+portfolio
+A collection of various samples of a student’s work throughout the school year that can include writing samples, examples of math problems, and results of science experiments. (Ed Source)
+
+primary language
+A student's first language or the language spoken at home.
+
+professional development
+Programs that allow teachers or administrators to acquire the knowledge and skills they need to perform their jobs successfully. (Ed Source)
+
+proficiency
+Mastery or ability to do something at grade level. California students receive scores on the California Standards Tests (CST) that range from "far below basic" to  "advanced."  The state goal is for all students to score at "proficient" or "advanced." (Ed Source)
+
+Program Improvement (PI) 
+A multistep plan to improve the performance of students in schools that did not make adequate yearly progress under No Child Left Behind for two years in a row. Only schools that receive federal Title I funds may be entered in Program Improvement. The steps in PI can include a revised school plan, professional development, tutoring for some students, transfer to another school with free transportation, and, at the end of five years, significant restructuring. (Ed-data)
+
+pull-out programs
+Students receive instruction in small groups outside of the classroom.
+
+pupil-teacher ratio
+The total student enrollment divided by the number of full-time equivalent teachers. The pupil-teacher ratio is the most common statistic for comparing data across states; it is usually smaller than average class size because some teachers work outside the classroom. (Ed-data)
+
+Regional Occupational Programs (ROP)
+State funded programs for job training, jobs-related counseling, and skills upgrades for students ages 16 to 18. Students often take ROP classes in high school to start learning a trade.
+
+resource specialists
+Specially credentialed teachers who work with special education students by assisting them in regular classes or pulling them out of class for extra help.
+
+resource teacher
+A teacher who instructs children with various learning differences. Most often these teachers use small group and individual instruction. Children are assigned to resource teachers after undergoing testing and receiving an IEP. 
+
+rubric
+Refers to a grading or scoring system. A rubric is a scoring tool that lists the criteria to be met in a piece of work. A rubric also describes levels of quality for each of the criteria. These levels of performance may be written as different ratings (e.g., Excellent, Good, Needs Improvement) or as numerical scores (e.g., 4, 3, 2, 1).
+Safe harbor
+An alternate method for a school to meet AMO if it shows progress in moving students from scoring at the "below proficient" level to the "proficient" level or above on STAR, CAHSEE, and/or CAPA. The state, school districts, and schools may still make AYP if each subgroup that fails to reach its proficiency performance targets reduces its percentage of students not meeting standards by 10 percent of the previous year's percentage, plus the subgroup must meet the attendance rate or graduation rate targets. (Dataquest)
+
+SAT (Standardized Achievement Test)
+Also known as the SAT Reasoning Test (formerly called Scholastic Aptitude Test), this test is widely used as a college entrance examination. Scores can be compared to state and national averages of seniors graduating from any public or private school. (Ed-data)
+
+SAT II
+This was formerly know as the Achievement Tests and was renamed the SAT II: Subject Tests. They are administered by the College Board and widely used as a college entrance exam. Students may take the test more than once, but only the highest score is reported at the year of graduation.
+
+School Accountability Report Card (SARC)
+An annual disclosure report for parents and the public produced by a school that presents student achievement, test scores, teacher credentials, dropout rates, class sizes, resources, and more. The SARC is required by state and federal law.
+
+School Improvement Program (SIP)
+A state-funded program for elementary, intermediate, and secondary schools to improve instruction, services, school environment and organization at school sites according to plans developed by School Site Councils (see School Site Council).
+
+School Site Council (SSC) 
+A group of teachers, parents, administrators, and interested community members who work together to develop and monitor a school's improvement plan. It is a legally required decision-making body for any school receiving federal funds (see School Improvement Plan).
+
+scientifically based research
+Research that involves the application of rigorous, systemic, and objective procedures to obtain reliable and valid knowledge relevant to educational activities and programs. (Ed Source)
+
+sheltered English
+An instructional approach in which classes are composed entirely of students learning English. Students are taught using methods that make academic instruction in English understandable. In some schools, students may be clustered in a mainstream classroom.
+
+single-subject credential
+A credential required to teach middle or high school in California. It authorizes a teacher to teach in a single subject area such as English or a foreign language.
+
+socioeconomically disadvantaged
+Students whose parents do not have a high school diploma or who participate in the federally funded free/reduced price meal program because of low family income. (Ed Source)
+
+Spanish Assessment of Basic Education, Second Ed. (SABE/2)
+A norm-referenced assessment required for all Spanish-speaking students in grades two through eleven who have been enrolled in California schools for less than one year. SABE/2 is part of the STAR program and the results are part of the school's API. It covers Spanish/language arts and mathematics. (Ed Source)
+
+special day classes
+Full-day classes for students with learning disabilities, speech and/or language impairments, serious emotional disturbances, cognitive delays, and a range of other impairments. Classes are taught by certified special education teachers. A student may be placed in a regular classroom as appropriate according to the student's IEP.
+
+special education
+Special instruction provided for students with educational or physical disabilities, tailored to each student's needs and learning style.
+
+staff development days
+Days set aside in the school calendar for teacher training. School is not generally held on these days.
+
+standardized test
+A test that is in the same format for all who take it. It often relies on multiple-choice questions and the testing conditions—including instructions, time limits, and scoring rubrics—are the same for all students, though sometimes accommodations on time limits and instructions are made for disabled students. (Ed Source)
+
+Standardized Testing and Reporting (STAR) Program
+The three tests that are required for grades two through 11.
+
+California Standards Tests (CSTs) based on California academic content standards in English/language arts and mathematics in all grades; science in grades five and nine through eleven; and history/social science in grades eight, ten, and eleven.
+The CAT/6, a standardized national test.
+SABE/2, a test for Spanish-speaking students who have been in a California school for a year or less. (Ed-data)
+standards-referenced tests
+Also known as standards-based assessments.
+
+Student Study Team (also referred to as Student Success Team)
+A team of educators that comes together at the request of a classroom teacher, parent, or counselor to design in-class intervention techniques to meet the needs of a particular student.
+
+student teacher
+A teacher in training who is in the last semester of a teacher education program. Student teachers work with a regular teacher who supervises their practice teaching.
+Team teaching
+A teaching method in which two or more teachers teach the same subjects or theme. The teachers may alternate teaching the entire group or divide the group into sections or classes that rotate between the teachers.
+
+tenure
+A system of due process and employment guarantee for teachers. After serving a two-year probationary period, teachers are assured continued employment in the school district unless carefully defined procedures for dismissal or layoff are successfully followed. (Ed Source)
+
+thematic units
+A unit of study that has lessons focused on a specific theme, sometimes covering all core subject areas. It is often used as an alternative approach to teaching history or social studies chronologically.
+
+Title 1
+A federal program that provides funds to improve the academic achievement for educationally disadvantaged students who score below the 50th percentile on standardized tests, including the children of migrant workers. (Ed Source)
+
+tracking
+A common instructional practice of organizing student in groups based on their academic skills. Tracking allows a teacher to provide the same level of instruction to the entire group.
+
+traditional calendar
+School starts in September and ends in June for a total of 180 days of instruction.
+
+whole language
+A teaching method that focuses on reading for meaning in context.
+
+Williams v. California
+A lawsuit filed in 2000 that argued that the state has a constitutional duty to ensure basic educational equality and contended that California has failed in that duty by not providing thousands of students in public schools with "bare minimum necessities," defined as textbooks, trained teachers, and safe, clean, uncrowded facilities. The lawsuit further argued that low-income students and students of color are the most likely to bear the burden of inadequate resources. (Ed Source)
+
+year-round education
+A modified school calendar that gives students short breaks throughout the year, instead of a traditional three-month summer break. Year-round calendars vary, sometimes within the same school district. Some schools use the staggered schedule to relieve overcrowding, while others believe the three-month break allows students to forget much of the material covered in the previous year.

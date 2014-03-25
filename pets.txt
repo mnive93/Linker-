@@ -5,7 +5,7 @@ Some scholars and animal rights organizations have raised concern over pet-keepi
 States, cities, and towns in Western nations commonly enact local ordinances to limit the number or kind of pets a person may keep personally or for business purposes. Prohibited pets may be specific to certain breeds (such as pit bulls or Rottweilers), they may apply to general categories of animals (such as livestock, exotic animals, wild animals, and canid or felid hybrids), or they may simply be based on the animal's size. Additional or different maintenance rules and regulations may also apply. Condominium associations and owners of rental properties also commonly limit or forbid tenants' keeping of pets.
 The keeping of animals as pets can cause concerns with regard to animal rights and welfare.[1][2][3] Pets have commonly been considered private property, owned by individual persons. However, many legal protections have existed (historically and today) with the intention of safeguarding pets' (and other animals') well-being.[4][5][6][7] Since the year 2000, a small but increasing number of jurisdictions in North America have enacted laws redefining pet's owners as guardians. Intentions have been characterized as simply changing attitudes and perceptions (but not legal consequences) to working toward legal personhood for pets themselves. Some veterinarians and breeders have opposed these moves. The question of pets' legal status can arise with concern to purchase or adoption, custody, divorce, estate and inheritance, injury, damage, and veterinary malpractice.[8][9][10][11]
 
-There are approximately 78.2 million pet dogs in the United States, approximately 86.4 million pet cats in the United States,[12] and 5.3 million house rabbits.[13] The two most popular pets in most Western countries have been cats and dogs. In the United States, a 2007�2008 survey showed that dog-owning households outnumbered those owning cats, but that the total number of pet cats was higher than that of dogs. The same was true for 2009�2010.[14] In 2013, pets outnumber children four to one in the United States.
+There are approximately 78.2 million pet dogs in the United States, approximately 86.4 million pet cats in the United States,[12] and 5.3 million house rabbits.[13] The two most popular pets in most Western countries have been cats and dogs. In the United States, a 20072008 survey showed that dog-owning households outnumbered those owning cats, but that the total number of pet cats was higher than that of dogs. The same was true for 20092010.[14] In 2013, pets outnumber children four to one in the United States.
 For a small to medium-size dog, the total cost over a dog's lifetime is about $7,240 to $12,700.[18] For an indoor cat, the total cost over a cat's lifetime is about $8,620 to $11,275.[19] People most commonly get pets for companionship, to protect a home or property, or because of the beauty or attractiveness of the animals.[20] The most common reasons for not owning a pet are lack of time, lack of suitable housing, and lack of ability to care for the pet when traveling
 
 The latest survey done by Colin Siren of Ipsos Reid estimates that there are 7.9 million cats and 5.9 million dogs in Canada. The survey also shows that 35% of Canadian households have a dog, while 38% have a cat, which is consistent with other surveys conducted around the world.
@@ -20,7 +20,7 @@ Housepets, particularly dogs and cats in industrialized societies, are also high
 Lack of exercise and high-caloric diets are considered to be the primary contributors to pet obesity.
 
 Health benefits
-Pets might have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past.[35][36][37] Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.[38][39][40][41][42][43] There is evidence that having a pet can help a person lead a longer, healthier life. In a 1986 study of 92 people hospitalized for coronary ailments, within a year 11 of the 29 patients without pets had died, compared to only 3 of the 52 patients who had pets.[37] Having pet(s) was shown to significantly reduce triglycerides, and thus heart disease risk, in the elderly.[44] A study by the National Institute of Health found that people who owned dogs were less likely to die as a result of a heart attack than those who didn�t own one.[45] Other studies have shown that for the elderly, good health may be a requirement for having a pet, and not a result. Dogs trained to be guide dogs can help people with vision impairment. Dogs trained in the field of Animal-Assisted Therapy (AAT) can also benefit people with other disabilities.[35][47]
+Pets might have the ability to stimulate their caregivers, in particular the elderly, giving people someone to take care of, someone to exercise with, and someone to help them heal from a physically or psychologically troubled past.[35][36][37] Having a pet may help people achieve health goals, such as lowered blood pressure, or mental goals, such as decreased stress.[38][39][40][41][42][43] There is evidence that having a pet can help a person lead a longer, healthier life. In a 1986 study of 92 people hospitalized for coronary ailments, within a year 11 of the 29 patients without pets had died, compared to only 3 of the 52 patients who had pets.[37] Having pet(s) was shown to significantly reduce triglycerides, and thus heart disease risk, in the elderly.[44] A study by the National Institute of Health found that people who owned dogs were less likely to die as a result of a heart attack than those who didnt own one.[45] Other studies have shown that for the elderly, good health may be a requirement for having a pet, and not a result. Dogs trained to be guide dogs can help people with vision impairment. Dogs trained in the field of Animal-Assisted Therapy (AAT) can also benefit people with other disabilities.[35][47]
 Pets in long-term care institutions[edit]
 People residing in a long-term care facility, such as a hospice or nursing home, experience health benefits from pets. Pets help them to cope with the emotional issues related to their illness. They also offer physical contact with another living creature, something that is often missing in an elder's life.[48] Pets for nursing homes are chosen based on the size of the pet, the amount of care that the breed needs, and the population and size of the care institution.[37] Appropriate pets go through a screening process and, if it is a dog, additional training programs to become a therapy dog.[49] There are three types of therapy dogs: facility therapy dogs, animal-assisted therapy dogs, and therapeutic visitation dogs. The most common therapy dogs are therapeutic visitation dogs. These dogs are household pets whose handlers take time to visit hospitals, nursing homes, detention facilities, and rehabilitation facilities.[36] Different pets require varying amounts of attention and care; for example, cats may have lower maintenance requirements than dogs.
 Health risks
@@ -138,3 +138,878 @@ Stick Insects
 Sea-Monkeys
 Triops
 Tarantulas and other spiders
+The dog (Canis lupus familiaris) is a domesticated subspecies of the wolf, a mammal of the Canidae family of the order Carnivora. The term encompasses both feral and pet varieties and is also sometimes used to describe wild canids of other subspecies or species. The domestic dog has been one of the most widely kept working and companion animals in human history, as well as being a food source in some cultures. There are estimated to be 400 million dogs in the world.
+
+The dog has developed into hundreds of varied breeds. Height measured to the withers ranges from a few inches in the Chihuahua to a few feet in the Irish Wolfhound; color varies from white through grays (usually called blue) to black, and browns from light (tan) to dark ("red" or "chocolate") in a wide variation of patterns; and, coats can be very short to many centimeters long, from coarse hair to something akin to wool, straight or curly, or smooth.
+
+The English word dog can be traced back to the Old English docga, a "powerful breed of canine". It is only attested since the early 16th century, and of uncertain further origin. The most probable source is Germanic *dukk?n, represented in Old English finger-docce 'finger-muscle', and some German and Old Norse words with meanings 'doll, small block, strong, round', which may have been applied to pups of a strong breed of dogs.
+
+The English word hound is a cognate of German Hund, Dutch hond, common Scandinavian hund, Icelandic hundur which, though referring to a specific breed group in English, means "dog" in general in the other Germanic languages. Hound itself is derived from the Proto-Indo-European *kwon-, which is the direct root of the Greek ???? (ku?n) and the indirect root of the Latin canis through the variant form *kani-.
+
+In breeding circles, a male canine is referred to as a dog, while a female canine is called a bitch. The father of a litter is called the sire, and the mother of a litter is called the dam. Offspring are generally called pups or puppies until they are about a year old. A group of offspring is a litter. The process of birth is whelping. Many terms are used for dogs that are not purebred.
+
+The English word dog, in common usage, refers to the domestic pet dog, Canis lupus familiaris. The species was originally classified as Canis familiaris and "Canis familiarus domesticus" by Linnaeus in 1758 . In 1993, dogs were reclassified as a subspecies of the gray wolf, Canis lupus, by the Smithsonian Institution and the American Society of Mammalogists. "Dog" is sometimes used to refer collectively to any mammal belonging to the family Canidae (as in "the dog family"), such as wolves, foxes, and coyotes. Some members of the family have "dog" in their common names, such as the Raccoon Dog and the African Wild Dog. A few animals have "dog" in their common names but are not canids, such as the prairie dog.
+
+Based on DNA evidence, the wolf ancestors of modern dogs diverged from other wolves about 100,000 years ago, and dogs were domesticated from those wolf ancestors about 15,000 years ago. This date would make dogs the first species to be domesticated by humans.
+
+Evidence suggests that dogs were first domesticated in East Asia, possibly China, and some of the peoples who entered North America took dogs with them from Asia.
+
+As humans migrated around the planet, a variety of dog forms migrated with them. The agricultural revolution and subsequent urban revolution led to an increase in the dog population and a demand for specialization. These circumstances would provide the opportunity for selective breeding to create specialized working dogs and pets.
+
+Molecular systematics indicate that the domestic dog (Canis lupus familiaris) descends from one or more populations of wild wolves (Canis lupus). As reflected in the nomenclature, dogs are descended from the wolf and are able to interbreed with wolves.
+
+The relationship between human and canine has deep roots. Converging archaeological and genetic evidence indicate a time of domestication in the late Upper Paleolithic close to the Pleistocene/Holocene boundary, between 17,000 and 14,000 years ago. Fossil bone morphologies and genetic analysis of current and ancient dog and wolf populations have not yet been able to conclusively determine whether all dogs descend from a single domestication event, or whether dogs were domesticated independently in more than one location. Domesticated dogs may have interbred with local populations of wild wolves on several occasions (a process known in genetics as introgression).
+
+The earliest dog fossils, two crania from Russia and a mandible from Germany, date from 13,000 to 17,000 years ago. Their likely ancestor is the large northern Holarctic wolf, Canis lupus lupus. Remains of smaller dogs from Mesolithic (Natufian) cave deposits in the Middle East, dated to around 12,000 years ago, have been interpreted as descendants of a lighter Southwest Asian wolf, Canis lupus Arabs. Rock art and skeletal remains indicate that by 14,000 years ago, dogs were present from North Africa across Eurasia to North America. Dog burials at the Mesolithic cemetery of Svaerdborg in Denmark suggest that in ancient Europe dogs were valued companions.
+
+Genetic analyses have so far yielded divergent results. Vil�, Savolainen, and colleagues (1997) concluded that the ancestors of dogs split off from other wolves between 75,000 and 135,000 years ago, while a subsequent analysis by Savolainen et al. (2002) indicated a "common origin from a single gene pool for all dog populations" between 40,000 and 15,000 years ago in East Asia. Verginelli et al. (2005), however, suggest both sets of dates must be reevaluated in light of recent findings showing that poorly calibrated molecular clocks have systematically overestimated the age of geologically recent events. On balance, and in agreement with the archaeological evidence, 15,000 years ago is the most likely time for the wolf-dog divergence.
+
+The Soviets have attempted to domesticate the fox, mentioned in the article Tame Silver Fox, and were able to do so in just nine generations, or less than a human lifetime. This also resulted in other changes, including color, which became black, white, or black and white. They also developed year-round breeding ability, curled-up tails, and droopy ears.
+
+The rapidity of this change has suggested to researchers a scenario of the origin of the domestic dog. Primitive people lived on the edge of survival which involved occasional food shortages, and would not have taken wolf pups and made pets of them. However, wolves would raid garbage dumps near human habitations. Wolves have a flight distance which they keep between themselves and a threatening creature. When a dump was approached by humans, some wolves would run a greater distance from the dump than others. Those that ran the shortest distance would return first, and obtain the greatest amount of food.
+
+This set up a selective breeding situation that resulted in a strain of wolves having shorter and shorter flight distances, until they were eventually comfortable near humans, having domesticated themselves, so to speak. At that point, they were tolerated by humans, so long as they were also useful, in such ways as catching rats or driving away other predators. In time, other uses, such as hunting, were found for them. The Farm Fox Experiment Evolution of Dogs
+
+There are numerous dog breeds, with over 800 being recognized by various kennel clubs worldwide. Many dogs, especially outside the United States of America and Western Europe, belong to no recognized breed. A few basic breed types have evolved gradually during the domesticated dog's relationship with humans over the last 10,000 or more years, but all modern breeds are of relatively recent derivation. Many of these are the product of a deliberate process of artificial selection. Because of this, some breeds are highly specialized, and there is extraordinary morphological diversity across different breeds. Despite these differences, dogs are able to distinguish dogs from other kinds of animal.
+
+The definition of a dog breed is a matter of some controversy. Depending on the size of the original founding population, closed gene pool breeds can have problems with inbreeding, specifically due to the founder effect. Dog breeders are increasingly aware of the importance of population genetics and of maintaining diverse gene pools. Health testing and new DNA tests can help avoid problems, by providing a replacement for natural selection. Without selection, inbreeding and closed gene pools can increase the risk of severe health or behavioral problems. Some organizations define a breed more loosely, such that an individual may be considered of one breed as long as 75% of its parentage is of that breed. These considerations affect both pets and the show dogs entered in dog shows. Even prize-winning purebred dogs sometimes possess crippling genetic defects due to founder effect or inbreeding. These problems are not limited to purebred dogs and can affect cross-breed populations. The behavior and appearance of a dog of a particular breed can be predicted to a degree, while mixed-breed dogs show a broader range of innovative appearance and behavior.
+
+Mixed-breed dogs or Mongrels (also called "mutts") are dogs that do not belong to specific breeds, being mixtures more than two in variant percentages. Mixed breed dogs and purebred dogs are both suitable as companions, pets, working dogs, or competitors in dog sports. Sometimes different breed dogs are deliberately bred, to create cross-breeds such as the Cockapoo, a mixture of Cocker Spaniel and Miniature Poodle. Such deliberate crosses may display some degree of hybrid vigor and other desirable traits, but may or may not inherit any of the desired traits of their parents, such as temperament or a particular color or coat. Without genetic testing of the parents, the crosses can end up inheriting genetic defects that occur in both parental breeds.
+
+A breed is a group of animals that possesses a set of inherited characteristics that distinguishes it from other animals within the same species. Deliberately crossing two or more breeds is also a manner of establishing new breeds, but it is only a breed when offspring will reliably demonstrate that particular set of characteristics and qualities.
+
+Breed popularity varies widely over time and in different parts of the world and different segments of the population. Counting by American Kennel Club (AKC) registration (not by licensing registration or by United Kennel Club (UKC) registration, which could present different statistics), the Labrador Retriever has been the United States's most commonly registered breed of dog since 1991. However, even within parts of the United States, popularity varies; for example, in 2005 the most-registered breed in New York City was the Poodle while the Yorkshire Terrier was the second-most-registered breed in Houston. However, animal shelters in many parts of the United States report that the most-commonly available dog for adoption is the American Pit Bull Terrier or pit bull-type mixes, making up as much as 20% of dogs available for adoption, none of which would be registered with the AKC. Two decades ago, in 1983, the AKC's top two registered breeds were the American Cocker Spaniel and the Poodle.
+
+In the United Kingdom, The Kennel Club reports that the most-registered breed from at least 1999 to 2005 was the Labrador Retriever. It rounds out the top three for 1999 to 2005 with the German Shepherd Dog, also popular in the US, and the English Cocker Spaniel , which is no longer in the top ten in the US. In the UK, a national dog adoption and rescue service indicates that the most common breed appearing in shelters is the Greyhound followed by the Staffordshire Bull Terrier.
+
+Modern dog breeds show more variation in size, appearance, and behavior than any other domestic animal. Within the range of extremes, dogs generally share attributes with their wild ancestors, the wolves. Dogs are predators and scavengers, possessing sharp teeth and strong jaws for attacking, holding, and tearing their food. Although selective breeding has changed the appearance of many breeds, all dogs retain basic traits from their distant ancestors. Like many other predatory mammals, the dog has powerful muscles, fused wristbones, a cardiovascular system that supports both sprinting and endurance, and teeth for catching and tearing. Unlike humans which are plantigrade, dogs are digitigrade.
+
+Compared to equally sized wolves, dogs tend to have 20% smaller skulls and 10% smaller brains, as well as proportionately smaller teeth than other canid species. Dogs require fewer calories to function than wolves. Their diet of human refuse in antiquity made the large brains and jaw muscles needed for hunting unnecessary. It is thought by certain experts that the dog's limp ears are a result of atrophy of the jaw muscles. The skin of domestic dogs tends to be thicker than that of wolves, with some Inuit tribes favouring the former for use as clothing due to its greater resistance to wear and tear in harsh weather. Unlike wolves, but like coyotes, domestic dogs have sweat glands on their paw pads. The paws of a dog are half the size of those of a wolf, and their tails tend to curl upwards, another trait not found in wolves.
+The domestic cat[1][2] (Felis catus[2] or Felis silvestris catus[4]) is a small, usually furry, domesticated, and carnivorous mammal. It is often called the housecat when kept as an indoor pet,[6] or simply the cat when there is no need to distinguish it from other felids and felines. Cats are often valued by humans for companionship and their ability to hunt vermin and household pests.
+Cats are similar in anatomy to the other felids, with strong, flexible bodies, quick reflexes, sharp retractable claws, and teeth adapted to killing small prey. Cat senses fit a crepuscular and predatory ecological niche. Cats can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small animals. They can see in near darkness. Like most other mammals, cats have poorer color vision and a better sense of smell than humans.
+Despite being solitary hunters, cats are a social species, and cat communication includes the use of a variety of vocalizations (mewing, purring, trilling, hissing, growling and grunting) as well as cat pheromones and types of cat-specific body language.[7]
+Cats have a rapid breeding rate. Under controlled breeding, they can be bred and shown as registered pedigree pets, a hobby known as cat fancy. Failure to control the breeding of pet cats by neutering, and the abandonment of former household pets, has resulted in large numbers of feral cats worldwide, requiring population control.[8]
+Since cats were cult animals in ancient Egypt, they were commonly believed to have been domesticated there,[9] but there may have been instances of domestication as early as the Neolithic from around 9500 years ago (7500 BC).[10]
+No. 1 (tie): Great Dane
+The breed that tied the Newfoundland for the quietest is also one of the biggest: the Great Dane. He's a gentle giant with a calm nature, and while he doesn't bark often, when he does, his voice will be louder and deeper than just about any other breed.
+No. 1 (tie): Newfoundland
+The docile Newfoundland takes the top spot on this list of quiet breeds. He's a courageous and intelligent dog, known for his love of children, his loyalty and his desire to be a lap dog despite his enormous size.
+No. 3: Great Pyrenees
+Like the first two breeds on this list, the Great Pyrenees is a large dog with an equally big heart. When properly trained, he's calm, gentle and protective, but you'll have to do your homework in order to get this strong-willed dog to that point. 
+
+Italian Greyhound
+Italian Greyhound
+No. 4: Italian Greyhound (photo credit: Anna Pozzi, Animal Photography/vetstreet.com)
+Tiny, intelligent and a bit fragile, the Italian Greyhound can be rather defiant, but barking is rarely an issue. Housetraining, however, may be another story. 
+
+No. 5: Whippet
+This keen sighthound is sleek and athletic. The Whippet can be found chasing cats and swiping food from the kitchen counter, but he's also a calm and quiet companion who loves to snuggle on the sofa.
+No. 6: Mastiff
+The Mastiff is known to be very loving but somewhat stubborn. He's protective of his family, but his size (often over 200 pounds!) is generally all that's needed to deter would-be troublemakers, so he rarely sees a need to raise his voice. 
+
+See Also: 7 Most Affectionate Lap Dog Breeds 
+
+Bernese Mountain Dog
+Bernese Mountain Dog
+No. 7: Bernese Mountain Dog (photo credit: Sally Anne Thompson, Animal Photography/vetstreet.com)
+The Bernese Mountain Dog is a handsome Swiss dog bred to pull carts, drive livestock to fields or market, and work as a watchdog. These days, though, he's better known for his tranquil temperament, although as a puppy he can be active and mouthy, nipping and chasing in play.
+
+No. 8: Bullmastiff
+Strong-willed and incredibly loyal, the Bullmastiff isn't a big barker, but he is not always good with other dogs (especially those of the same sex) or cats (due to a high prey drive). 
+
+No. 9 (tie): Cavalier King Charles Spaniel
+The increasingly popular Cavalier King Charles Spaniel is a small, playful dog who loves his people and hates to be alone. His temperament can range from sweet and placid to straight-up stubborn, but with consistent, positive training, you should be able to housetrain him as well as any other breed.
+
+No. 9 (tie): Saint Bernard
+The Saint Bernard is a member of the Mastiff family. He can be sweet, shy and stubborn, but with proper training and socialization, this quiet breed can be fantastic for families or for use as a therapy dog. 
+
+No. 11: Golden Retriever
+The Golden Retriever is a real people-pleaser who's always ready to make a friend or chase a tennis ball. While he's not known to be a barker, he is an active breed who will be at his best (and his least destructive) when his energy is channeled through walking, swimming, playing fetch and brain games.
+
+Rhodesian Ridgeback
+Rhodesian Ridgeback
+No. 12 (tie): Rhodesian Ridgeback (photo credit: Nick Ridley, Animal Photography/vetstreet.com)
+The Rhodesian Ridgeback is a large, impressive dog with expressive eyes and a sensitive spirit. He's quite protective but will put his body between his family and a perceived danger before barking, snarling or attacking. 
+
+No. 12 (tie): Chinese Shar-Pei
+Confident and quiet are words often used to describe the Chinese Shar-Pei. He's intelligent and devoted to his family, but he is also known to be stubborn. He's a great watchdog who generally only barks when worried or playing.
+f you’re planning to add a new pet to the family, it’s very important to give careful consideration to the subject ahead of time.
+
+You want a pet that will fit in with your lifestyle. For example:
+
+Apartment living makes some pets more attractive than others.
+If you can’t or don’t want to take a pet outdoors for walks and playtime, a dog may not be the best idea.
+If you’ve decided a dog, cat or other fur-covered creature isn’t right for you, you might be intrigued by the idea of an exotic bird as a companion animal.
+
+There are lots of reasons to recommend birds as pets, but it’s important to learn all you can about owning one before you take the plunge.
+
+Dr. Becker's Comments:
+
+Deciding what type of pet to add to your family is actually a bit more complicated than choosing one you think will fit into your lifestyle.
+
+It's a two-way street.
+
+You should make sure your lifestyle – especially the time and energy you're willing and able to devote to a pet – is sufficient for the animal's needs as well.
+
+Many people mistakenly believe pets kept in cage habitats require little more than food, water, and clean surroundings. The fact is no animal is designed by nature to be confined to a cage, and certainly not 23 or 24 hours every day.
+
+Even pocket pets like hamsters and rats need lots of time outside their habitats to be balanced, healthy animals.
+
+This is also the case with birds. And exotics in particular, like parrots, cockatoos, and macaws, require a great deal of daily attention and interaction with their owners.
+
+Let's take a closer look at About.com's Top 10 Reasons Why a Bird Could Be the Best Choice for Your Family, and I'll offer some additional food for thought to help you make the right decision.
+
+10 Reasons Why a Bird Might (or Might Not) Be a Good Choice for a Pet
+
+Birds are extremely intelligent. They have a remarkable capacity to learn new things, and in fact, we've only just scratched the surface in understanding all the ways they use their brains. As such, they make delightful, fascinating pets for owners dedicated to constantly enriching their bird's environment. How much fun would it be to have a pet actually talk to you!
+But keep in mind … Exotics that aren't given the opportunity to interact for several hours each day with their human family, and that don't receive frequent, consistent mental stimulation and environmental enrichment, are sure to develop emotional problems and self-destructive behaviors.
+
+Birds are easier to care for than other pets. Unlike the family dog or cat that has the run of the house, a bird can be popped into its cage while you're away during the day or busy around the house. Birds also don't need walks outside, and housebreaking isn't an issue. Cleaning a cage each day is more appealing to many people than scooping litter or taking Fido outdoors constantly to potty.
+But keep in mind … While it's true a bird is more easily confined in the house than other types of pets, this doesn't necessarily mean he will be any less demanding. Many birds are extremely vocal and noisy, so even if yours is hanging out in his cage on the other side of the house, chances are he'll be hard to ignore.
+
+In addition, as I've pointed out, birds aren't cage ornaments. So while the cage is convenient confinement when necessary, it's not healthy for your bird to spend hour upon hour in a cage unattended. Many bird owners, me included, only confine their pets to their cages at night.
+
+Also, a bird's mess is rarely confined to the cage even when he's in it. The area under the cage will get its share of discarded bits of food, water and bird droppings as well. As far as your bird can toss things from his cage will be the floor area under it that will require daily clean-up. In my house, the birds are the messiest family members I commune with.
+
+Birds are easy to train. Birds love to learn and love attention from their humans, so training them is often a breeze and just plain fun. And let's face it – a bird is a whole lot easier to manage for training purposes than a large dog.
+But keep in mind … Depending on the bird, she is apt to learn things you didn't plan for her to. Certain types of birds, parrots for example, pick up words, phrases and sounds they hear around the house. You might be surprised one day, while entertaining guests, to have your pet start loudly swearing a blue streak from the next room. Or your mother might be over for dinner one evening, and your bird suddenly gives forth with a loud noise that sounds remarkably like a belch.
+
+It's important to keep in mind that interacting with your inquisitive exotic bird, which is essentially how you train her, is not an activity you need only do once in awhile when the mood strikes. It's true many birds are easy to train, but in fact, if they are not given regular opportunities to interact with you and learn new things they will develop emotional problems and harmful behaviors. It’s also important to understand that some birds may never learn to speak, no matter how much human time and attention they receive.
+
+Birds don't require much grooming. Birds are naturally clean creatures and when they are healthy and happy, they do a good job of keeping their feather coats shiny through preening. All you'll need to add on a regular basis is a mist spray, a shower or a bath for your pet in plain, tepid, clean, filtered water. You'll also need to trim your bird's beak and nails routinely, or arrange to have it professionally done.
+But keep in mind … Many birds not only preen themselves, but also their owners. And not always gently!
+
+Birds are very social. Many birds have the capacity to bond just as closely with their humans as dogs and cats. And in fact, birds are much more socially inclined than kitties.
+But keep in mind … Again, this can be a bit of a double-edged sword if you're not prepared to spend significant time interacting with, training and socializing your bird. Many exotics do best treated as members of the family in the fullest sense – allowed outside their cages for several hours each day, and included in most at-home family activities. Many birds also bond with one member of the family, not equally with everyone. Some birds can become aggressive to certain family members.
+
+On the flip side, if you prefer to keep your pet in his cage most of the time, his need to be social and stimulated by family activities will not be met. This can result in a very unhappy bird that becomes self-destructive.
+
+Birds are inexpensive to feed. The smaller the pet, the less the pet eats. Certainly keeping your bird fed is less costly than feeding a dog or most cats. Generally speaking, it's best to feed a high-quality diet of species-specific commercial pelleted food (not seed mix), fruits, veggies, and sprouted grains.
+But keep in mind … Overall, you shouldn't think cheap-to-keep when it comes to a bird as a pet. Owners of large exotic birds spend around $100 a month for food, toys and other supplies. And feathered pets need annual medical exams from an avian veterinarian to make sure they are healthy. Birds are masters at hiding disease, so it's critically important that your pet has regular blood workups to check for any problems with her health.
+
+Birds can be kept in a small space. Smaller species like budgies, canaries and finches, and their smaller cages, can make perfect sense for people who live in an apartment or condo.
+But keep in mind … Regardless of the size of the pet, constant confinement is not healthy. In addition, small birds have lots of energy and need space to burn it off. If you plan to allow your smaller bird outside his cage most of the day, then a smaller size cage for sleeping at night is acceptable. If your finch or canary lives solely in a cage, I recommend the cage be the largest cage you can afford, not what cage fits in the smallest area.
+
+Most landlords don't collect pet deposits or extra monthly charges for pet birds. Birds aren't thought of by most landlords or rental management companies as pets that cause damage to property like dogs or cats. So a bird could be a good choice for someone who doesn't want to pay those extra fees.
+But keep in mind … If you own a large bird, she can cause plenty of mess and damage in her own right -- often even more than a housebroken dog or litter-trained cat. Keeping her confined to a cage is not the answer, as I explained earlier.
+
+Another consideration is the noise level. If you live in a multi-unit building or in close proximity to others and your bird is prone to shrieking – which many big birds are -- you'll be as unpopular with your neighbors as the pet owner with the dog that barks for hours on end. I actually had to pay extra for my cockatoo to live with me in my apartment years ago. The landlord indicated that birds could be more destructive to the property than dogs or cats.
+
+Birds are attractive and interesting to have around. Many birds have feather coats that are incredibly beautiful and vibrantly colored – it is a joy every time you look at them. Bird behavior is also fun and interesting to observe, and can even lower your stress level.
+But keep in mind … Birds should never be considered as pretty cage ornaments or part of a home's decor. Pet birds are not the feathered equivalent of brightly colored aquarium fish. They are every bit as high maintenance as other more common types of pets, and indeed require a great deal more time and attention than many other companion animals.
+
+Many birds live a very long time. A long-lived pet can be extremely attractive to a person who has suffered the heartbreak of losing a dog, cat or other companion animal -- even if the pet died at what is considered a ripe old age for his species.
+But keep in mind … Depending on your age and the age and species of the bird you bring home, your pet might easily outlive you. Contemplating who will take care of your beloved bird after you're gone can be as difficult as knowing a pet is destined to leave you long before you're ready to say good-bye. A decision about what kind of pet is best for you should always include considering what is also best for the pet.
+
+Cats actually think their owners are just larger, non-hostile version of themselves, according to an expert in animal behaviour.
+
+Biologist Dr John Bradshaw believes when cats are affectionate towards their owners they are just treating them as other cats. 
+
+An upright tale is a greeting sign between felines and is also a way of cats showing affection to their owners. 
+
+The biologist also believes that despite years of domestication, cats are still wild animals. 
+
+He writes: 'The transformation of the cat from resident exterminator to companion cohabiter is both recent and rapid, and—especially from the cat’s perspective—evidently incomplete.'
+
+It has often been thought that when a cat brings home a dead animal it is a gift for its owner. 
+
+However, Dr Bradshaw does not agree and believes cat remember they like tinned food when they re-enter the house and so leave the animal on the floor. 
+
+Dr Bradshaw is a biologist who founded and directs the world-renowned Anthrozoology Institute, based at the University of Bristol. 
+
+He has been studying the behaviour of domestic cats and their owners for more than 25 years, and is the author of many scientific articles, research papers and reviews. 
+
+He is also the author of bestseller, In Defence of Dogs.
+
+In the book he writes: 'One of my reasons for writing this book is to project what the typical cat might be like fifty years from now. 
+
+'I want people to continue to enjoy the company of a delightful animal, but I’m not sure that the cat, as a species, is heading in the right direction. 
+
+Cats actually think their owners are just larger, non-hostile version of themselves, according to an expert in animal behaviour
+Cats actually think their owners are just larger, non-hostile version of themselves, according to an expert in animal behaviour
+
+'The more I’ve studied cats, from the wildest feral to the most cosseted Siamese, the more I’ve become convinced that we can no longer afford to take cats for granted: a more considered approach to cat keeping and cat breeding is necessary if we are to ensure their future.'
+A zoo (short for zoological park or zoological garden, and also called a menagerie) is a facility in which animals are confined within enclosures, displayed to the public, and in which they may also be bred.
+The term zoological garden refers to zoology, the study of animals, a term deriving from the Greek zōon (ζῷον, "animal") and lógos (λóγος, "study"). The abbreviation "zoo" was first used of the London Zoological Gardens, which opened for scientific study in 1828 and to the public in 1847. The number of major animal collections open to the public around the world now exceeds 1,000, around 80 percent of them in cities.
+
+
+== Etymology ==
+London Zoo, which opened in 1828, first called itself a menagerie or "zoological garden," which is short for "Gardens and Menagerie of the Zoological Society of London." The abbreviation "zoo" first appeared in print in the UK around 1847, when it was used for the Clifton Zoo, but it was not until some 20 years later that the shortened form became popular in the song "Walking in the Zoo on Sunday" by music-hall artist Alfred Vance. The term "zoological park" was used for more expansive facilities in Washington, D.C., and the Bronx in New York, which opened in 1891 and 1899 respectively.
+Relatively new terms for zoos coined in the late 20th century are "conservation park" or "biopark". Adopting a new name is a strategy used by some zoo professionals to distance their institutions from the stereotypical and nowadays criticized zoo concept of the 19th century. The term "biopark" was first coined and developed by the National Zoo in Washington D.C. in the late 1980s. In 1993, the New York Zoological Society changed its name to the Wildlife Conservation Society and rebranded the zoos under its jurisdiction as "wildlife conservation parks."
+
+
+== History ==
+
+
+=== Royal menageries ===
+
+The predecessor of the zoological garden is the menagerie, which has a long history from the ancient world to modern times. The oldest known zoological collection was revealed during excavations at Hierakonpolis, Egypt in 2009, of a ca. 3500 B.C. menagerie. The exotic animals included hippos, hartebeest, elephants, baboons and wildcats. King Ashur-bel-kala of the Middle Assyrian Empire created Zoological and Botanical Gardens in the 11th Century BC. In the 2nd century BCE, the Chinese Empress Tanki had a "house of deer" built, and King Wen of Zhou kept a 1,500-acre (6.1 km2) zoo called Ling-Yu, or the Garden of Intelligence. Other well-known collectors of animals included King Solomon of the Kingdom of Israel and Judah, queen Semiramis and king Ashurbanipal of Assyria, and King Nebuchadnezzar of Babylonia. By the 4th century BCE, zoos existed in most of the Greek city states; Alexander the Great is known to have sent animals that he found on his military expeditions back to Greece. The Roman emperors kept private collections of animals for study or for use in the arena, the latter faring notoriously poorly. The 19th-century historian W.E.H. Lecky wrote of the Roman games, first held in 366 BCE:
+
+At one time, a bear and a bull, chained together, rolled in fierce combat across the sand ... Four hundred bears were killed in a single day under Caligula ... Under Nero, four hundred tigers fought with bulls and elephants. In a single day, at the dedication of the Colosseum by Titus, five thousand animals perished. Under Trajan ... lions, tigers, elephants, rhinoceroses, hippopotami, giraffes, bulls, stags, even crocodiles and serpents were employed to give novelty to the spectacle ...
+
+Henry I of England kept a collection of animals at his palace in Woodstock, which reportedly included lions, leopards, and camels. The most prominent collection in medieval England was in the Tower of London, created as early as 1204 by King John I.
+Henry III received a wedding gift in 1235 of three leopards from Frederick II, Holy Roman Emperor, and in 1264, the animals were moved to the Bulwark, renamed the Lion Tower, near the main western entrance of the Tower. It was opened to the public during the reign of Elizabeth I in the 16th century. During the 18th century, the price of admission was three half-pence, or the supply of a cat or dog for feeding to the lions. The animals were moved to the London Zoo when it opened.
+
+
+=== Enlightenment era ===
+
+The oldest zoo in the world still in existence is the Tiergarten Schönbrunn in Vienna, Austria. It was constructed by Adrian van Stekhoven in 1752 at the order of the Holy Roman Emperor Francis I, husband of Maria Theresa of Austria, to serve as an imperial menagerie as part of Schönbrunn Palace. The menagerie was initially reserved for the viewing pleasure of the imperial family and the court, but was made accessible to the public in 1765.
+In 1775, a zoo was founded in Madrid, and in 1795, the zoo inside the Jardin des Plantes in Paris was founded by Jacques-Henri Bernardin, with animals from the royal menagerie at Versailles, primarily for scientific research and education. The Kazan Zoo, the first zoo in Russia was founded in 1806 by the Professor of Kazan State University Karl Fuchs.
+
+
+=== The modern zoo ===
+Until the early 19th century, the function of the zoo was often to symbolize royal power, like King Louis XIV's menagerie at Versailles. The modern zoo that emerged in the early 19th century at London, Paris and Dublin, was focused on providing educational exhibits to the public for entertainment and inspiration.
+A growing fascination for natural history and zoology, coupled with the tremendous expansion in the urbanization of London, led to a heightened demand for a greater variety of public forms of entertainment to be made available. The need for public entertainment, as well as the requirements of scholarly research, came together in the founding of the first modern zoos.
+
+The Zoological Society of London was founded in 1826 by Stamford Raffles and established the London Zoo in Regent's Park two years later in 1828. At its founding, it was the world's first scientific zoo. Originally intended to be used as a collection for scientific study, it was eventually opened to the public in 1847. The Zoo was located in Regent's Park - then undergoing development at the hands of the architect John Nash. What set the London zoo apart from its predecessors was its focus on society at large. The zoo was established in the middle of a city for the public, and its layout was designed to cater for the large London population. The London zoo was widely copied as the archetype of the public city zoo. In 1853, the Zoo opened the world's first public aquarium.
+Dublin Zoo was opened in 1831 by members of the medical profession interested in studying animals while they were alive and more particularly getting hold of them when they were dead. The first zoological garden in Australia was Melbourne Zoo in 1860. In the same year, Central Park Zoo, the first public zoo in the United States, opened in New York, although in 1859, the Philadelphia Zoological Society had made an effort to establish a zoo, but delayed opening it until 1874 because of the American Civil War.
+In 1907, the German entrepreneur Carl Hagenbeck founded the Tierpark Hagenbeck in Stellingen, now a quarter of Hamburg. His zoo was a radical departure from the layout of the zoo that had been established in 1828. It was the first zoo to use open enclosures surrounded by moats, rather than barred cages, to better approximate animals' natural environments. He also set up mixed-species exhibits and based the layout on the different organizing principle of geography, as opposed to taxonomy.
+When ecology emerged as a matter of public interest in the 1970s, a few zoos began to consider making conservation their central role, with Gerald Durrell of the Jersey Zoo, George Rabb of Brookfield Zoo, and William Conway of the Bronx Zoo (Wildlife Conservation Society) leading the discussion. From then on, zoo professionals became increasingly aware of the need to engage themselves in conservation programs, and the American Zoo Association soon said that conservation was its highest priority. Because they wanted to stress conservation issues, many large zoos stopped the practice of having animals perform tricks for visitors. The Detroit Zoo, for example, stopped its elephant show in 1969, and its chimpanzee show in 1983, acknowledging that the trainers had probably abused the animals to get them to perform.
+Whipsnade Park in Bedfordshire, England, was opened in 1931 as the first safari park. It allowed visitors to drive through the enclosures and come into close proximity to the animals.
+Unfortunately, mass destruction of wildlife habitat has yet to cease all over the world and many species are in danger of dying out. Today's zoos hope to stop or slow the decline of many endangered species. Many zoos see their primary purpose as breeding endangered species in captivity and reintroducing them into the wild. Some critics say that zoos, no matter what their intentions are, are immoral and serve nothing but fill human leisure. However, zoo advocates argue that their efforts make a difference in wildlife conservation and education.
+
+
+
+== Type ==
+
+Zoo animals live in enclosures that often attempt to replicate their natural habitats or behavioral patterns, for the benefit of both the animals and visitors. Nocturnal animals are often housed in buildings with a reversed light-dark cycle, i.e. only dim white or red lights are on during the day so the animals are active during visitor hours, and brighter lights on at night when the animals sleep. Special climate conditions may be created for animals living in extreme environments, such as penguins. Special enclosures for birds, mammals, insects, reptiles, fish, and other aquatic life forms have also been developed. Some zoos have walk-through exhibits where visitors enter enclosures of non-aggressive species, such as lemurs, marmosets, birds, lizards, and turtles. Visitors are asked to keep to paths and avoid showing or eating foods that the animals might snatch.
+
+
+=== Safari park ===
+
+Some zoos keep animals in larger, outdoor enclosures, confining them with moats and fences, rather than in cages. Safari parks, also known as zoo parks and lion farms, allow visitors to drive through them and come in close proximity to the animals. Sometimes, visitors are able to feed animals through the car windows. The first safari park was Whipsnade Park in Bedfordshire, England, opened by the Zoological Society of London in 1931 which today (2014) covers 600 acres (2.4 km²). Since the early 1970s, a 1,800 acre (7 km²) park in the San Pasqual Valley near San Diego has featured the San Diego Zoo Safari Park, run by the Zoological Society of San Diego. One of two state-supported zoo parks in North Carolina is the 2,000-acre (8.1 km2) North Carolina Zoo in Asheboro. The 500-acre (2.0 km2) Werribee Open Range Zoo in Melbourne, Australia, displays animals living in an artificial savannah.
+
+
+=== Aquaria ===
+
+The first public aquarium was opened in London Zoo in 1853. This was followed by the opening of public aquaria in continental Europe (e.g. Paris 1859, Hamburg 1864, Berlin 1869, Brighton 1872) and the United States (e.g. Boston 1859, Washington 1873, San Francisco Woodward's Garden 1873, New York Battery Park 1896). In 2005, the non-profit Georgia Aquarium opened with more than 100,000 animals of 500 different species, including whale sharks and beluga whales.
+
+
+=== Roadside zoos ===
+Roadside zoos are found throughout North America, particularly in remote locations. They are small, unregulated, for-profit zoos, often intended to attract visitors to some other facility, such as a gas station. The animals may be trained to perform tricks, and visitors are able to get closer to them than in larger zoos. Since they are sometimes less regulated, roadside zoos are often subject to accusations of neglect and cruelty.
+
+
+=== Petting zoos ===
+
+A petting zoo, also called petting farms or children's zoos, features a combination of domestic animals and wild species that are docile enough to touch and feed. To ensure the animals' health, the food is supplied by the zoo, either from vending machines or a kiosk nearby.
+
+
+=== Animal theme parks ===
+
+An animal theme park is a combination of an amusement park and a zoo, mainly for entertaining and commercial purposes. Marine mammal parks such as Sea World and Marineland are more elaborate dolphinariums keeping whales, and containing additional entertainment attractions. Another kind of animal theme park contains more entertainment and amusement elements than the classical zoo, such as a stage shows, roller coasters, and mythical creatures. Some examples are Busch Gardens Tampa Bay in Tampa, Florida, Disney's Animal Kingdom in Orlando, Florida, Flamingo Land in North Yorkshire, England and Six Flags Discovery Kingdom in Vallejo, California .
+
+
+== Sources of animals ==
+When they arrive at a new zoo, animals usually spend time in quarantine, and are given time to acclimatize to their new enclosures which are often designed to mimic their natural environment. For example, some species of penguins may require refrigerated enclosures. Guidelines on necessary care for such animals is published in the International Zoo Yearbook.
+
+
+== Justification ==
+
+
+=== Conservation and research ===
+
+The position of most modern zoos in Australasia, Europe, and North America, particularly those with scientific societies, is that they display wild animals primarily for the conservation of endangered species, as well as for research purposes and education, and secondarily for the entertainment of visitors, an argument disputed by critics. The Zoological Society of London states in its charter that its aim is "the advancement of Zoology and Animal Physiology and the introduction of new and curious subjects of the Animal Kingdom." It maintains two research institutes, the Nuffield Institute of Comparative Medicine and the Wellcome Institute of Comparative Physiology. In the U.S., the Penrose Research Laboratory of the Philadelphia Zoo focuses on the study of comparative pathology. The World Association of Zoos and Aquariums produced its first conservation strategy in 1993, and in November 2004, it adopted a new strategy that sets out the aims and mission of zoological gardens of the 21st century.
+The breeding of endangered species is coordinated by cooperative breeding programmes containing international studbooks and coordinators, who evaluate the roles of individual animals and institutions from a global or regional perspective, and there are regional programmes all over the world for the conservation of endangered species.
+
+
+== Surplus animals ==
+
+In modern, well-regulated zoos, breeding is controlled to maintain a self-sustaining, global captive population. This is not the case in some less well-regulated zoos, often based in poorer regions. Overall "stock turnover" of animals during a year in a select group of poor zoos was reported as 20%-25% with 75% of wild caught apes dying in captivity within the first 20 months. The authors of the report stated that before successful breeding programs, the high mortality rate was the reason for the "massive scale of importations."
+One 2-year study indicated that of 19,361 species of mammals that left accredited zoos in the U.S. between 1992 and 1998, 7,420 (38%) went to dealers, auctions, hunting ranches, unaccredited zoos and individuals, and game farms.
+In February 2014, Copenhagen Zoo euthanased a healthy, young, male giraffe because he was surplus to their requirements. The giraffe's genes were considered to be too similar to other giraffes in a breeding programme run by the European Association of Zoos and Aquaria (EAZA). The scientific director at the zoo, Bengt Holst, said the zoo was working to maintain "a healthy giraffe population in European zoos". After the giraffe was euthanased with a bolt gun to the head, he was dissected publicly in front of a crowd of children then fed to the lions. Yorkshire Wildlife Park said it was "saddened" to hear of his death, expressing disappointment that its last minute offer to house the giraffe in its "state-of-the-art giraffe house" alongside four other males, including one from Copenhagen Zoo, had been ignored. A Dutch wildlife park had also offered to re-home him.
+
+
+== Animal welfare concerns ==
+
+The welfare of zoo animals varies widely. Many zoos work to improve their animal enclosures, although constraints such as size and expense make it difficult to create ideal captive environments for many species
+
+A four-decade Oxford University study found that polar bears, lions, tigers and cheetahs show evidence of stress in captivity.
+
+
+=== Moral concerns ===
+Some argue that zoo animals are treated as voyeuristic objects, rather than living creatures, and often suffer due to the transition from being free and wild to captivity.
+
+
+=== Behavioural restriction ===
+Many modern zoos attempt to improve the welfare of their animals. The animals are housed in spacious, natural settings that allow the animals to express some of their natural behaviours, such as roaming and foraging. However, many animals remain in barren concrete enclosures or other minimally enriched cages.
+Animals which naturally range over many miles each day are unable to perform this behaviour in zoo enclosures. For example, elephants usually travel around 30 miles each day.
+
+
+=== Abnormal behaviour ===
+
+Zoo animals often exhibit abnormal behaviours indicative of stress. For example, elephants sometimes perform head-bobbing, bears sometimes pace the surrounds of their enclosure, and wild cats sometimes groom themselves obsessively. Critics claim that the animals in zoos are under physical and mental stress. Elephants have been recorded displaying stereotypical behaviours in the form of swaying back and forth, trunk swaying or route tracing. This has been observed in 54% of individuals in UK zoos. Elephants in European zoos have shorter lifespans than their wild counterparts at only 17 years, although other studies suggest that zoo elephants live as long those in the wild.
+
+
+== Live feeding and "baiting" ==
+In many countries, feeding live vertebrates to zoo animals is illegal, except in exceptional circumstances. For example, some snakes refuse to eat dead prey. However, in the Badaltearing Safari Park in China, visitors can throw live goats into the lion enclosure and watch them being eaten, or can purchase live chickens tied to bamboo rods for the equivalent of 2 dollars\euros to dangle into lion pens. Visitors can drive through the lion compound in buses with specially designed chutes which they can use to push live chickens into the enclosure. In the Xiongsen Bear and Tiger Mountain Village near Guilin in south-east China, live cows and pigs are thrown to tigers to amuse visitors.
+In Qingdao zoo (Eastern China), visitors can engage in "tortoise baiting", where tortoises are kept inside small rooms with elastic bands around their necks so that they are unable to retract their heads. Visitors are allowed to throw coins at them. The marketing claim is that if you hit one of the tortoises on the head and make a wish, it will be fulfilled.
+
+
+Belton: intermingled colored and white hairs.
+
+Bicolor: a coat of two distinct colors.
+
+Brindle: an even mixture of dark colors with lighter colors, usually as a striped, tiger-like coat.
+
+Domino: reverse facial mask.
+
+Fawn: color of a newborn deer.
+
+Grizzled: a roan pattern that is usually a mixture of black, bluish-gray, iron gray, or red with white.
+
+Harlequin: black or blue patches on white.
+
+Hound-colored: black, tan and white with a black saddle.
+
+Lion color: tawny tan coat color with darker shading, as seen in Ibizan Hounds.
+
+Merle: a mottled, marbled effect (usually red or black, sometimes blue).
+
+Parti-colored: variegated patches of two or more colors.
+
+Piebald: black and white or two other colors in patches.
+
+Roan: an even mixture of white and another color.
+
+Sable: black tips on silver, gray, gold, fawn or brown hairs.
+
+Saddle: dark patches over the back.
+
+Spectacles: dark markings around the eyes.
+
+Ticked: small areas of black or other dark colors on a white background.
+
+Tricolor: a coat of three distinct colors, usually black, white and tan.
+
+Wheaten: pale yellow or fawn colored.
+
+ 
+
+
+
+
+ 
+
+Coat Terms
+
+Corded: coat that is intertwined in the form of long, narrow mats giving a mop-like appearance (example Komondor).
+
+Double coat: fine undercoat of some dogs that is combined with a harsher outer guard coat.
+
+Feathered: long hair on the ears, backs of legs and beneath the tail.
+
+Flag: long fringe on the tail.
+
+Jacket: tight body coat of a terrier.
+
+Mane: profuse growth of hair on the rear of the neck.
+
+Plume: profusely feathered tail carried over the back.
+
+Ruff: profuse growth of hair on the front of the neck, or surrounding the entire neck.
+
+Single coat: coat that is one layer thick, lacking an undercoat.
+
+Stand-off coat: coat that sticks out from the body rather than lying flat (example: Norwegian Elkhound).
+
+Topknot: tuft of hair on the top of head.
+
+ 
+
+
+
+
+ 
+
+Head Terms
+
+Apple head: extremely domed skull.
+
+Brachycephalic: Broad head with short muzzle (example: Pug)
+
+Butterfly nose: spotted or partially unpigmented nose.
+
+Chiseled: clean-cut muzzle and foreface.
+
+Dish-faced: nose tipped up.
+
+Dolichocephalic: narrow head with long muzzle (example: Collie).
+
+Down-faced: muzzle curved downward.
+
+Dudley nose: liver- or flesh-colored nose.
+
+Fill: fullness beneath the eyes, not chiseled.
+
+Flews: upper lips, especially those that are pendulous.
+
+Haw: exposed nictitating membrane (third eyelid), especially if unpigmented.
+
+Mesatacephalic: medium-width head with medium-length muzzle (example: Beagle).
+
+Occiput: highest point at the back of the skull, above where the neck joins the head; in many breeds it forms a crest and is quite prominent.
+
+Stop: transition area from the back of the skull to muzzle, often demarcated by an abrupt depression.
+
+Snipey: weak, pointed muzzle lacking underjaw.
+
+ 
+
+
+
+
+ 
+
+Teeth Terms
+
+Bite: occlusion; relationship of the upper and lower jaws when the mouth is closed.
+
+Canine tooth: the first premolar; long grasping tooth or a dog's fang.
+
+Deciduous: temporary. Example: A puppy's deciduous teeth are shed before maturity and replaced by permanent teeth.
+
+Dentition: canine tooth development and eruption. In the dog, there are 12 deciduous incisors that erupt at four to five weeks of age, three on each side, six in the upper jaw and six in the lower. Behind them are four deciduous canine teeth, one on either side, in the upper and lower jaws that erupt at about the same time as the incisors. The 12 deciduous premolars erupt about a week later, and are positioned behind the canines, three on each side, in the upper and lower jaws. They complete the set of 28 deciduous or milk teeth. At about three months of age, the central incisors are replaced by permanent teeth. The four permanent canine teeth are often the last to appear, and typically are not visible until about six months of age. Permanent premolars begin to erupt about four months of age. There are four on each side, on both the upper and lower jaws, and the rearmost is usually visible by six months of age. Those 16 permanent teeth take the place of the 12 deciduous premolars. The two upper molars on each side and three lower molars on each side also begin to appear at about four months, with the last of the ten erupting at about six months. Those 42 teeth make up the permanent set of adult teeth.
+
+Eruption: 1. breaking out of a visible, circumscribed lesion of the skin. 2. normal activity of the teeth as they break through the gums.
+
+Full dentition: no missing teeth.
+
+Incisors: any one of the "biting off" or "cutting" teeth directly in the front of the mouth. There are six incisors in the upper jaw, six in the lower. They are named central, intermediate, and corner.
+
+Level bite: when upper and lower incisors meet evenly.
+
+Overbite: when upper incisors overlap lower incisors, leaving a gap between the teeth.
+
+Scissors bite: when upper incisors just overlap lower incisors, such that the rear surface of the upper incisors touches the outer surface of the lower incisors.
+
+Premolars: smaller teeth situated just to the rear of the fangs (canines).
+
+Punishing mouth: strong, powerful jaws.
+
+Undershot bite: when lower incisors extend beyond upper incisors.
+
+ 
+
+
+
+
+ 
+
+Ear Terms
+
+Bat ears: large, erect ears (example: French Bulldog).
+
+Bear ears: small erect ear.
+
+Blunt ears: ears that are too short and rounded at the tips.
+
+Button ears: semi-prick ears in which the top portion folds forward (example: Fox Terrier).
+
+Cropping: the surgical removal of a portion of a dog's ear to make it stand erect. Cropping is cosmetic surgery.
+
+Drop ears: long, hanging ears. (example: Basset Hound).
+
+Ear: organ of hearing—inner ear, middle ear and external ear canal. 2. pinna or earflap.
+
+Ear canal: external duct leading from the tympanic membrane (eardrum) to the outside.
+
+Ear canker: external ear ulceration and infection.
+
+Ear carriage: 1. describing the way the ears are held, indicating the dog's mood. 2. position of the ear's attachment to the head.
+
+Ear clamps: templates or patterns that are attached to an anesthetized dog's ears to outline where the surgical cropping cut is to be made.
+
+Ear clip: act of cutting off and rounding the pendulant ears of hounds to give them a shortened, uniform appearance and to lessen the probability of tearing the ear leather in the field.
+
+Ear feather: long hair on an earflap, typical of the Cocker Spaniel and many other breeds.
+
+Ear foreign bodies: grass seeds and various other extraneous matter that finds its way into the external ear canals of dogs.
+
+Ear fringe: long hair on the tips of the ears that is seen in Bedlington Terriers
+
+Ear guide dog: canine specially trained to aid deaf humans.
+
+Ear hematoma: pocket of blood that occurs between the layers of the ear pinna cartilage and skin. It is often caused by shaking head and whipping the ears due to ear mites or foreign bodies in the external ear canals.
+
+Ear leather: pinna or flap of the ear.
+
+Ear mange: redness and crustiness of the ear that is usually caused by ear mites (Otodectes cynotis).
+
+Earmark: tattoo that is impregnated in the ear leather as a means of permanent identification.
+
+Ear mites: Otodectes cynotis, a tiny mite that parasitizes ear canals and causes intense itching and irritation.
+
+Ear notch: in foxhunting, a small notch, or notches, cut in the margin of the ear of the entire pack to immediately identify the dogs of that pack.
+
+Ear ossicles: three bones of the middle ear—malleus, incus and stapes. They transmit sound waves from the eardrum to the otic ganglion.
+
+Ear set: describing where on the heard the ears are attached
+
+Ears set high: placement of ears high on the crown of the head.
+
+Ears set Low: placement of the ears set low on the head.
+
+Ears set wide: placement of the ears on the head at the maximum distance apart.
+
+Erect: perk ear; pinna of the ear that stands erect, either normally or assisted by ear cropping.
+
+Rose ears: small ears folded back in repose (example: Greyhound).
+
+Semidrop ears: ears that fall over the breaks at the tip.
+
+Semiprick: aural appendages that are carried erect with the tips breaking forward.
+
+Pendulant or Pendant: hanging down (example: Bloodhound's ears).
+
+Pinna: the part of the ear that outside the head; flap or leather.
+
+Prick ears: ears that stand upright (example: German Shepherd Dog).
+
+Trowel: ear that is wider in the middle than at the attachment of its tip.
+
+Tulip: ears that stand erect with a slight forward and inward curvature.
+
+V-Shaped: drop ear that tapers to a point.
+
+ 
+
+
+
+
+ 
+
+Neck Terms
+
+Bull-neck: thick, muscular, often short neck.
+
+Crest: Arched area near the top of the neck.
+
+Ewe neck: Neck that is arched so that the topline of the neck is concave and the bottom is convex.
+
+Goose neck: overly long, thin neck lacking strength and shape.
+
+Throaty neck: neck with loose skin.
+
+ 
+
+
+
+
+ 
+
+Body Terms
+
+Barrel chest: rounded ribcage.
+
+Brisket: chest or sternum area.
+
+Cape long, thick hair covering the shoulders.
+
+Cobby: compact, short and square.
+
+Herring gutted: gradual slope from a fairly shallow chest to tuck-up.
+
+High in rear: a dog that is higher over its rear quarters than over its front quarters.
+
+High-stationed: tall and long-legged.
+
+Hock: Hock Joint: joint on the hind limb between lower thigh and pastern. Since the hock is a joint it cannot itself be long or short; terms such as long or short in hock refer to the distance between the hock joint and the ground.
+
+Loin: region between the ribcage and croup.
+
+Pastern: region of the metatarsus that extends from the hock to the foot in the hind leg, and the metacarpal area of the foreleg.
+
+Racy: long-legged with a slight build.
+
+Rangy: long-bodied with a shallow chest.
+
+Rib spring: arch formed by the ribcage; more spring refers to more arch.
+
+Roach back: an overly arched, convex topline.
+
+Shelly: narrow, shallow chest and body.
+
+Short-coupled: short loin area.
+
+Slab-sided: flat-ribbed.
+
+Swayback: a sunken, concave topline.
+
+Topline: line formed by the withers, back loin, and croup.
+
+Tuck-up: area under the loin in a small-waisted dog.
+
+ 	 	
+
+ 
+ 	 
+ 
+
+
+
+ 
+
+Forequarters Terms
+
+Bowed front: forelegs that curve out between the elbows and pasterns.
+
+Down in pastern: weak, overly sloping pastern.
+
+East-west front: when feet turn out to the sides, pointing away from each other.
+
+Foreleg: the front leg
+
+Fiddle front: east-west front combined with a bowed front, so that the assembly looks like a fiddle.
+
+Lay back: angle at which the shoulders are set on the dog's body.
+
+Knuckled over: steep pastern, or with a reverse slope.
+
+Loaded shoulders: overly muscled or lumpy forequarters.
+
+Out at elbow: elbows that stick out from the sides of the ribcage.
+
+Returned: set-back of the upper arm under the dog's body.
+
+Shoulder or scapula: also used (incorrectly) to refer to both the scapula and upper are (humerus) region.
+
+Shoulder angulation: angle formed between the scapula and humerus.
+
+Toed-in front: or pigeon toed: feet pointing toward each other.
+
+ 
+
+
+
+
+ 
+
+Rear quarters Terms
+
+Bandy-legged: wide, bowed-legged rear quarters.
+
+Cow-hocked: viewed from behind, the point of the hocks point toward each other, resulting in the rear feet pointing outward.
+
+Lower thigh: area from stifle to hock, also called second thigh.
+
+Rear angulation: angles formed between the pelvis, thigh bone (femur) and  second or lower thigh bone (tibia/fibula).
+
+Sickle-hocked: viewed from the side, an over-angulated joint between the lower thigh and hock; an inability to straighten this joint when moving.
+
+Well let-down: short hocks.
+
+ 
+
+
+
+
+ 
+
+Foot Terms
+
+Cat foot: short, round foot.
+
+Dew claws: extra toes on the insides of the front and sometimes rear legs.
+
+Hare foot: long, narrow foot.
+
+Mops: 1. profuse hair on the paws 2. German name for the Pug.
+
+Paper foot: flat foot.
+
+Splay foot: toes that are not close together.
+
+ 
+
+
+
+
+ 
+
+Tail Terms
+
+Bob tail: very short, almost stump-like tail (example: Pembroke Welsh Corgi).
+
+Brush tail: tail covered in hair in such a manner as to give it a bottled-brush appearance (example: Siberian Husky).
+
+Docked tail: tail cut to a shorter length (example: Doberman).
+
+Gay tail: tail carried above the level of the back.
+
+Saber tail: slightly curved, low-carried tail.
+
+Screw tail: short, twisted tail (example: English Bulldog).
+
+ 
+
+
+
+
+ 
+
+Movement Terms
+
+Close behind: moving with hocks close together.
+
+Crabbing: sidewinding.
+
+Crossing-over: when viewed from the front (or rarely, the rear), the legs converge beyond the midline.
+
+Drive: strong thrust from the hindquarters.
+
+Gait: way of moving.
+
+Hackney: high-stepping front movement.
+
+Loose movement: erratic movement suggestive of poor muscle development.
+
+Lumbering: heavy, ungainly movement.
+
+Pacing: moving both legs on the same side of the body in unison, as though hobbled together.
+
+Pounding: front feet hitting the ground with a jarring reaction.
+
+Reach: length of forward stride.
+
+Single tracking: as viewed from the front or rear, the legs converge toward the center line of balance as the dog trots.
+
+Sound: good movement viewed from the front and rear.
+
+Trotting: moving diagonal legs in unison.
+
+ 
+
+
+
+ 
+
+ 
+
+ 	 	
+
+ 
+ 	 
+ 
+
+ 
+
+
+General Terms
+
+Adoption: to choose or take as one's own; make one's own by selection or assent. To adopt a pet.
+
+Agility:  judged competitive timed events for dogs and their handlers in which dogs are trained to master different obstacles such as: tunnels, bridges, various types of high jumps, jumps through windows, board jumps and jumps through tires. The course also includes inclined planes, elevated planks to walk, A-frames to climb and more. Various agility titles are awarded to dogs that successfully complete the course in which they are entered.
+
+Balance: overall proportion and symmetry of conformation.
+
+Bitch: female dog.
+
+Bucketing, to bucket a puppy: Bucketing, to bucket a puppy: When a breeder tosses a newborn puppy into water, drowning it. The reason for the practice is often the breeder feels the dog is not worthy of life because it does not make the written club standards of the specific breed or the puppy does not display the preferred color or type even though it is accepted by the club.
+
+Conformation: physical make-up.
+
+Dam: female parent.
+
+Dealer: one who buys and sells dogs bred by others.
+
+Dominance: assertive characteristics of a dog and its influence over other dogs.
+
+Dominant: alpha dog of a pack that displays a behavior superiority or dominance over other dogs of the pack, and exerts a rule influence
+
+Dysplasia: abnormality of development, especially of the hip or elbow, but it may refer to an organ of the body
+
+Dystrophy: abnormal behavior; behavior problems.
+
+F1: First generation or first cross—the result of two purebred dogs mated together. The puppies would be F1 puppies.
+
+F2: second cross—could mean any next step in the breeding program after F1. Often the F1 offspring bred back to a purebred dog.
+
+F3—third cross after F2 and so on.
+
+Feathering: whelping technique where breeder helps pregnant mother dog (dam) along in her contractions.
+
+Feist: Rat Terrier.
+
+Feral dog: a dog living in a fully wild state.
+
+Flock: 1. collected group of livestock (usually sheep) that are used in a herding trial. 2. farm birds or livestock that are gathered or herded together.
+
+Flyball: in agility trails, a competition that involves a course of jumping and ends with a treadle that the dog steps on to cause a ball to pop out of a box. The dog must catch the ball and return it to the handler.
+
+Game Dog: a working dog usually a hunting , herding or terrier type that will work until it drops, never gives up, perseveres and is ready and willing for anything. See Game Dogs
+
+High in rear: a dog that is higher over its rear quarters than over its front quarters.
+
+High-stationed: tall and long-legged
+
+Hip dysplasia: a very common and debilitating genetic disease of the hips, where the junction of the femur head (large bone in the leg) and the hip socket do not fit as they should. Often, surgery is necessary to correct the problem.
+
+In and In: inbreeding of dogs without regards to results.
+
+Inbred: descriptive of offspring of mated dogs that are closely related to each other.
+
+Inbreeding: practice of mating siblings to each other—father to daughter, mother to son, or other animals closely related to each other.
+
+Kennel: 1. backyard doghouse where family pets or breeding stock are kept. 2. commercial establishment used to maintain a group of dogs, such as a boarding kennel. 3. in foxhunting, fox's lair. 4. foxhunting term for the hound pack's lodging place.
+
+Kennel type: bloodline or strain of dogs that has been developed by an individual breeder in a specific kennel
+
+Line: 1. family of related dogs, usually bred by a single kennel. 2. in foxhunting, the track of a quarry that is indicated by scent. 3. a stripe, streak or lineal mark on a dog's coat.
+
+Linebreeding: mating two dogs that have the same bloodline but are not closely related; a technique used to concentrate and fix genetic features in dog.
+
+Lineage: genealogical descent from a common ancestor; dog's pedigree or family tree.
+
+Metacarpus: referring to bones leading from the carpus (wrist) to the toes; anatomical region of the forepastern.
+
+Molossian dog: Greek sculpture of a Mastiff that belonged to Olympias, the daughter of King Pyrrhus. It is supposed to be a direct ancestor of the modern Mastiff.
+
+Mongrel: cur; mutt; mixed breeds; dogs of unknown ancestry and questionable parentage.
+
+Mops: 1. profuse hair on the paws. 2. German name for the Pug.
+
+OFA: Orthopedic Foundation for Animals.
+
+OFA-certified: a dog’s hips have been x-rayed for hip dysplasia, a very common and debilitating genetic disease.
+
+Pariah dog: is used as a generic term for dogs with a more or less intensive human connection. Some scientists reserve the term for the Indian dog of a specific type, i.e. a Pariah dog: ownerless half-wild mongrel dog common around Asian villages especially India.
+
+Plucking: pulling out loose hair by hand.
+
+Puppy Mill: place in which puppies are bred, often in unsuitable and sometimes inhumane conditions, for sale to dealers.
+
+Purebred: a dog that has parents of the same breed.
+
+Schutzhund: dog that is specially trained and conditioned for guard and attack work.
+
+Schutzhund competition: tests of a guard dog's training in attacking a well padded "enemy".
+
+Sch: abbreviation for the sport of Schutzhund.
+
+Sire: male parent.
+
+Square-proportioned: height at withers equal to length from point of sternum to point of croup.
+
+Stacking: teaching a dog to stand in a show stance that exhibits its characteristics favorably.
+
+Standard: the official blueprint for a breed.
+
+Stifle: knee joint; articulation between the tibia and fibula and the femur.
+
+Stray dog: a dog more or less associated with man who does not have a home; homeless; without a home.
+
+Stripping: the process of hand plucking the outer guard hairs either with your fingers or a stripping knife. removal of the undercoat and dead outercoat without losing the harsh texture; plucking.
+
+Substance: fairly heavy bone and musculature.
+
+Typey: having a superior body conformation; meeting the breeds standard.
+
+Variety: a subtype of a breed that is shown separately, but that can be interbred with other varieties of the same breed.
+
+Weedy: lacking sufficient bone and musculature.
+
+Wicket: device for measuring the height of a dog, consisting of two vertical bars joined by a horizontal bar that can be adjusted for height.
+
+ 
+
+ 

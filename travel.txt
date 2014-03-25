@@ -98,24 +98,7 @@ Bulk transport is common with cargo that can be handled roughly without deterior
 Air freight has become more common for products of high value; while less than one percent of world transport by volume is by airline, it amounts to forty percent of the value. Time has become especially important in regards to principles such as postponement and just-in-time within the value chain, resulting in a high willingness to pay for quick delivery of key components or items of high value-to-weight ratio. In addition to mail, common items sent by air include electronics and fashion clothing.
 
 
-== History ==
 
-Humans' first means of transport were walking and swimming. The domestication of animals introduces a new way to lay the burden of transport on more powerful creatures, allowing heavier loads to be hauled, or humans to ride the animals for higher speed and duration. Inventions such as the wheel and sled helped make animal transport more efficient through the introduction of vehicles. Also water transport, including rowed and sailed vessels, dates back to time immemorial, and was the only efficient way to transport large quantities or over large distances prior to the Industrial Revolution.
-The first forms of road transport were horses, oxen or even humans carrying goods over dirt tracks that often followed game trails. Paved roads were built by many early civilizations, including Mesopotamia and the Indus Valley Civilization. The Persian and Roman empires built stone-paved roads to allow armies to travel quickly. Deep roadbeds of crushed stone underneath ensured that the roads kept dry. The medieval Caliphate later built tar-paved roads. The first watercraft were canoes cut out from tree trunks. Early water transport was accomplished with ships that were either rowed or used the wind for propulsion, or a combination of the two. The importance of water has led to most cities, that grew up as sites for trading, being located on rivers or at sea, often at the intersection of two bodies of water. Until the Industrial Revolution, transport remained slow and costly, and production and consumption were located as close to each other as feasible.
-
-The Industrial Revolution in the 19th century saw a number of inventions fundamentally change transport. With telegraphy, communication became instant and independent of transport. The invention of the steam engine, closely followed by its application in rail transport, made land transport independent of human or animal muscles. Both speed and capacity increased rapidly, allowing specialization through manufacturing being located independent of natural resources. The 19th century also saw the development of the steam ship, that sped up global transport.
-With the development of the combustion engine and the automobile at the turn into the 20th century, road transport became more viable, allowing the introduction of mechanical private transport. The first highways were constructed during the 19th century with macadam. Later, tarmac and concrete became the dominant paving material. In 1903, the first controllable airplane was invented, and after World War I, it became a fast way to transport people and express goods over long distances.
-After World War II, the automobile and airlines took higher shares of transport, reducing rail and water to freight and short-haul passenger. Scientific spaceflight was launched in the 1950s, with rapid growth until the 1970s, when interest dwindled. In the 1950s, the introduction of containerization gave massive efficiency gains in freight transport, permitting globalization. International air travel became much more accessible in the 1960s, with the commercialization of the jet engine. Along with the growth in automobiles and motorways, this introduced a decline for rail and water transport. After the introduction of the Shinkansen in 1964, high-speed rail in Asia and Europe started taking passengers on long-haul routes from airlines.
-Early in U.S. history, most aqueducts, bridges, canals, railroads, roads, and tunnels were owned by private joint-stock corporations. Most such transportation infrastructure came under government control in the late 19th and early 20th centuries, culminating in the nationalization of inter-city passenger rail service with the creation of Amtrak. Recently, however, a movement to privatize roads and other infrastructure has gained some ground and adherents.
-
-
-== Impact ==
-
-
-=== Economic ===
-
-Transport is a key necessity for specialization—allowing production and consumption of products to occur at different locations. Transport has throughout history been a spur to expansion; better transport allows more trade and a greater spread of people. Economic growth has always been dependent on increasing the capacity and rationality of transport. But the infrastructure and operation of transport has a great impact on the land and is the largest drainer of energy, making transport sustainability a major issue.
-Modern society dictates a physical distinction between home and work, forcing people to transport themselves to places of work or study, as well as to temporarily relocate for other daily activities. Passenger transport is also the essence of tourism, a major part of recreational transport. Commerce requires the transport of people to conduct business, either to allow face-to-face communication for important decisions or to move specialists from their regular place of work to sites where they are needed.
 
 
 === Planning ===
@@ -564,8 +547,6 @@ Also known as "Tourism of Doom," or "Last Chance Tourism" this emerging trend in
 == Growth ==
 The World Tourism Organization (UNWTO) forecasts that international tourism will continue growing at the average annual rate of 4%. With the advent of e-commerce, tourism products have become one of the most traded items on the internet.[citation needed] Tourism products and services have been made available through intermediaries, although tourism providers (hotels, airlines, etc.), including small-scale operators, can sell their services directly. This has put pressure on intermediaries from both on-line and traditional shops.
 It has been suggested there is a strong correlation between tourism expenditure per capita and the degree to which countries play in the global context. Not only as a result of the important economic contribution of the tourism industry, but also as an indicator of the degree of confidence with which global citizens leverage the resources of the globe for the benefit of their local economies. This is why any projections of growth in tourism may serve as an indication of the relative influence that each country will exercise in the future.
-There has been a limited \00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00ence that each country will exercise in the future.
-There has been a limited amount of orbital space tourism, with only the Russian Space Agency providing transport to date. A 2010 report into space tourism anticipated that it could become a billion dollar market by 2030.
 
 
 === Sports tourism ===
@@ -584,32 +565,6 @@ However, evidence suggests that tourism as a global phenomena shows no signs of 
 Business tourism
 
 
-== Notes and references ==
-
-
-== Further reading ==
-
-Holder IV, Floyd William (2009). An Empirical Analysis of the State’s Monopolization of the Legitimate Means of Movement: Evaluating the Effects of Required Passport use on International Travel (M.P.A. thesis). Texas State University-San Marcos. OCLC 564144593. Docket Applied Research Projects. Paper 308. 
-Wilkerson, Chad (2003). "Travel and Tourism: An Overlooked Industry in the U.S. and Tenth District". Economic Review 88 (Third Quarter): 45–72. ISSN 0161-2387. OCLC 295437935. 
-
-
-== External links ==
-Wikivoyage — The free, worldwide travel guide that anyone can edit.
-Recreation and Leisure Studies on the Open Directory Project
-Culture (Latin: cultura, lit. "cultivation") is a modern concept based on a term first used in classical antiquity by the Roman orator Cicero: "cultura animi" (cultivation of the soul). This non-agricultural use of the term "culture" re-appeared in modern Europe in the 17th century referring to the betterment or refinement of individuals, especially through education. During the 18th and 19th century it came to refer more frequently to the common reference points of whole peoples, and discussion of the term was often connected to national aspirations or ideals. Some scientists such as Edward Tylor used the term "culture" to refer to a universal human capacity.
-In the 20th century, "culture" emerged as a central concept in anthropology, encompassing the range of human phenomena that cannot be directly attributed to genetic inheritance. Specifically, the term "culture" in American anthropology had two meanings:
-the evolved human capacity to classify and represent experiences with symbols, and to act imaginatively and creatively; and
-the distinct ways that people, who live differently, classified and represented their experiences, and acted creatively.
-Hoebel describes culture as an integrated system of learned behavior patterns which are characteristic of the members of a society and which are not a result of biological inheritance.
-Distinctions are currently made between the physical artifacts created by a society, its so-called material culture, and everything else, the intangibles such as language, customs, etc. that are the main referent of the term "culture".
-
-
-== Etymology ==
-The modern term "culture" is based on a term used by the Ancient Roman orator Cicero in his Tusculan Disputations, where he wrote of a cultivation of the soul or "cultura animi", using an agricultural metaphor for the development of a philosophical soul, understood teleologically as the highest possible ideal for human development. Samuel Pufendorf took over this metaphor in a modern context, meaning something similar, but no longer assuming that philosophy was man's natural perfection. His use, and that of many writers after him "refers to all the ways in which human beings overcome their original barbarism, and through artifice, become fully human".
-As described by Velkley:
-
-The term "culture," which originally meant the cultivation of the soul or mind, acquires most of its later modern meanings in the writings of the 18th-century German thinkers, who were on various levels developing Rousseau's criticism of ″modern liberalism and Enlightenment″. Thus a contrast between "culture" and "civilization" is usually implied in these authors, even when not expressed as such. Two primary meanings of culture emerge from this period: culture as the folk-spirit having a unique identity, and culture as cultivation of waywardness or free individuality. The first meaning is predominant in our current use of the term "culture," although the second still plays a large role in what we think culture should achieve, namely the full "expression" of the unique or "authentic" self.
-
 
 == Change ==
 
@@ -620,74 +575,399 @@ Social conflict and the development of technologies can produce changes within a
 Cultures are externally affected via contact between societies, which may also produce—or inhibit—social shifts and changes in cultural practices. War or competition over resources may impact technological development or social dynamics. Additionally, cultural ideas may transfer from one society to another, through diffusion or acculturation. In diffusion, the form of something (though not necessarily its meaning) moves from one culture to another. For example, hamburgers, fast food in the United States, seemed exotic when introduced into China. "Stimulus diffusion" (the sharing of ideas) refers to an element of one culture leading to an invention or propagation in another. "Direct Borrowing" on the other hand tends to refer to technological or tangible diffusion from one culture to another. Diffusion of innovations theory presents a research-based model of why and when individuals and cultures adopt new ideas, practices, and products.
 Acculturation has different meanings, but in this context refers to replacement of the traits of one culture with those of another, such as what happened to certain Native American tribes and to many indigenous peoples across the globe during the process of colonization. Related processes on an individual level include assimilation (adoption of a different culture by an individual) and transculturation.
 
+Those of a certain age always have memories of times where things were simpler, but as a college or graduate student, those times can seem like less of a reality. The ability to do adventures, like travel, can seem like a “luxurious hobby” rather than something actionable. It may be hard to believe, but this is the perfect time for you to travel. A desire to see the world is all you need, and here are six reasons why you should consider going abroad sooner rather than later.
 
-== Early modern discourses ==
+ RECOMMEND FOR YOU 
+11 Ways Traveling Makes You A Better Person 
+2.2K SHARES
+Traveling Young Offers More Opportunities
+The thought of going to a foreign country may seem unthinkable, but the younger you are (especially after the age of 18), the more opportunities you are given to travel abroad for a lower cost or even for free.
 
+The most common option is studying abroad. While the rules of studying abroad differ depending on the university you attend, it often involves studying for a short-term in a foreign university with English-speaking professors. You are given the time to explore and experience the country for the 4 – 8 months you’re there. There are various scholarships and grants available for those studying abroad as well, which makes it more economical.
 
-=== German Romanticism ===
+Volunteering can make a summer, winter, or Gap Year break more worthwhile. Various organizations provide opportunities to help those underprivileged or just in need of assistance. From providing a hand on a sheep farm in Australia to helping kids in third world countries with Operation Smile, the opportunities available allow you to help others and experience the world at no or a low cost.
 
-The German philosopher Immanuel Kant (1724–1804) has formulated an individualist definition of "enlightenment" similar to the concept of bildung: "Enlightenment is man's emergence from his self-incurred immaturity." He argued that this immaturity comes not from a lack of understanding, but from a lack of courage to think independently. Against this intellectual cowardice, Kant urged: Sapere aude, "Dare to be wise!" In reaction to Kant, German scholars such as Johann Gottfried Herder (1744–1803) argued that human creativity, which necessarily takes unpredictable and highly diverse forms, is as important as human rationality. Moreover, Herder proposed a collective form of bildung: "For Herder, Bildung was the totality of experiences that provide a coherent identity, and sense of common destiny, to a people."
+Traveling Allows You to Discover Yourself
+You’d be surprised how many individuals I’ve met while abroad who have mentioned how much travel influenced their life course. Helping out on a farm could expose you to the experiences that may want you to switch your major. Maybe that all-expenses-paid teaching job in South Korea pulled at your heartstrings and made you want to pursue a career in education. The experiences you are given through travel while young, can truly shape what you want to do when you’re age becomes more advanced.
 
-In 1795, the great linguist and philosopher Wilhelm von Humboldt (1767–1835) called for an anthropology that would synthesize Kant's and Herder's interests. During the Romantic era, scholars in Germany, especially those concerned with nationalist movements—such as the nationalist struggle to create a "Germany" out of diverse principalities, and the nationalist struggles by ethnic minorities against the Austro-Hungarian Empire—developed a more inclusive notion of culture as "worldview"(Weltanschauung). According to this school of thought, each ethnic group has a distinct worldview that is incommensurable with the worldviews of other groups. Although more inclusive than earlier views, this approach to culture still allowed for distinctions between "civilized" and "primitive" or "tribal" cultures.
-In 1860, Adolf Bastian (1826–1905) argued for "the psychic unity of mankind". He proposed that a scientific comparison of all human societies would reveal that distinct worldviews consisted of the same basic elements. According to Bastian, all human societies share a set of "elementary ideas" (Elementargedanken); different cultures, or different "folk ideas" (Völkergedanken), are local modifications of the elementary ideas. This view paved the way for the modern understanding of culture. Franz Boas (1858–1942) was trained in this tradition, and he brought it with him when he left Germany for the United States.
+Traveling Increase Your Confidence
+Last month, I was about to leave a hotel and wanted to have a final look-around to ensure I didn’t forget anything. I did have everything, but one important item: my travel pack, which had my wallet and passport. I freaked inwardly but was in action mode outwardly.
 
+When I finally recovered the pack in the nick of time, relief wasn’t the only thing that came over me. This experience, a little fifteen-minute sliver of my two-week trip, taught me lessons of independence and the ever-useful life lesson of thinking on your toes about how to handle a problem in a mature way.
 
-=== English Romanticism ===
+It may seem like a small experience to those who haven’t traveled, but to a traveler, your wallet and passport are the two things that ensure you have a place to stay thousands of miles away from home and your symbol as an American traveler.
 
-In the 19th century, humanists such as English poet and essayist Matthew Arnold (1822–1888) used the word "culture" to refer to an ideal of individual human refinement, of "the best that has been thought and said in the world." This concept of culture is comparable to the German concept of bildung: "...culture being a pursuit of our total perfection by means of getting to know, on all the matters which most concern us, the best which has been thought and said in the world."
-In practice, culture referred to an élite ideal and was associated with such activities as art, classical music, and haute cuisine. As these forms were associated with urban life, "culture" was identified with "civilization" (from lat. civitas, city). Another facet of the Romantic movement was an interest in folklore, which led to identifying a "culture" among non-elites. This distinction is often characterized as that between high culture, namely that of the ruling social group, and low culture. In other words, the idea of "culture" that developed in Europe during the 18th and early 19th centuries reflected inequalities within European societies.
+As a traveler, you’ll experience situations when you have to think on your feet or be placed in an awkward, lost-in-translation experience. This is what creates confident individuals in the end, who have broken out of their shell. This is something that can only be experienced when you have the time and energy of a young adult.
 
-Matthew Arnold contrasted "culture" with anarchy; other Europeans, following philosophers Thomas Hobbes and Jean-Jacques Rousseau, contrasted "culture" with "the state of nature". According to Hobbes and Rousseau, the Native Americans who were being conquered by Europeans from the 16th centuries on were living in a state of nature; this opposition was expressed through the contrast between "civilized" and "uncivilized." According to this way of thinking, one could classify some countries and nations as more civilized than others and some people as more cultured than others. This contrast led to Herbert Spencer's theory of Social Darwinism and Lewis Henry Morgan's theory of cultural evolution. Just as some critics have argued that the distinction between high and low cultures is really an expression of the conflict between European elites and non-elites, some critics have argued that the distinction between civilized and uncivilized people is really an expression of the conflict between European colonial powers and their colonial subjects.
-Other 19th-century critics, following Rousseau, have accepted this differentiation between higher and lower culture, but have seen the refinement and sophistication of high culture as corrupting and unnatural developments that obscure and distort people's essential nature. These critics considered folk music (as produced by "the folk", i.e., rural, illiterate, peasants) to honestly express a natural way of life, while classical music seemed superficial and decadent. Equally, this view often portrayed indigenous peoples as "noble savages" living authentic and unblemished lives, uncomplicated and uncorrupted by the highly stratified capitalist systems of the West.
-In 1870 the anthropologist Edward Tylor (1832–1917) applied these ideas of higher versus lower culture to propose a theory of the evolution of religion. According to this theory, religion evolves from more polytheistic to more monotheistic forms. In the process, he redefined culture as a diverse set of activities characteristic of all human societies. This view paved the way for the modern understanding of culture.
+Traveling Young Breaks the Tourist Mold
+Extending on the point made above, traveling young is the perfect time to become a true traveler, not simply a tourist. A tourist is someone who fears the alternative path, opting for popular sightseeing before returning to his or her four-star hotel. A traveler doesn’t have a problem staying in a hostel or two-star hotel, and taking the path less traveled. These are the acts that allow a young traveler to experience what others may not.
 
+While your friends, with their wives and kids, may have their best memories of their latest trip to Egypt riding the camels while viewing the pyramids, yours as a young traveler may be trying new delicacies before playing an impromptu game of soccer with your new Egyptian friends.
 
-== 20th-century discourses ==
+The difference between a tourist and a traveler isn’t always based on the places visited, but more on the experiences and connections taken from where you’ve been. This may not be possible with having two little travel companions and a spouse.
 
+Traveling Advances You Professionally
+When exposed to a foreign language, the longer you find yourself abroad, the more of the language you absorb.
 
-=== Anthropology ===
+Those who haven’t traveled before may find it unimaginable how native English speakers can leave the United States with only basic conversational skills and come back in a couple of months with a professional level command of the language.
 
+Going abroad puts you in situations when you learn words as you go along. When a traveler has a basic exposure to the language and its rules before leaving the states, they have a higher chance of coming back with a better command of it. This is by no means a useless feature of an employable adult.
 
-==== American anthropology ====
+Various companies, both in the private sector and in the government, are clamoring over young adults who can speak a second language. This could prove to your parents that your year abroad in Morocco could reap much larger rewards once you return home!
 
-Although anthropologists worldwide refer to Tylor's definition of culture, in the 20th century "culture" emerged as the central and unifying concept of American anthropology, where it most commonly refers to the universal human capacity to classify and encode human experiences symbolically, and to communicate symbolically encoded experiences socially.[citation needed] American anthropology is organized into four fields, each of which plays an important role in research on culture: biological anthropology, linguistic anthropology, cultural anthropology, and archaeology. Research in these fields has influenced anthropologists working in other countries to different degrees.[citation needed]
+Traveling Allows You to Put Myths to Rest
+Finally, and best of all, traveling young when your worldview is still being molded can allow you to become an advocate against the myths and misconceptions that may be placed on the country you visited. You experience firsthand how the people in that country viewed you as an American, as a woman, or as a young adult.
 
+Returning from such a country, you are able to either quash or provide a different perspective to myths about a country. Not all individuals are painted with the same brush stroke, and travel allows you to grow compassion and common ground with those who aren’t the same as you. This is by far the best lesson of a young traveler.
 
-=== Sociology ===
+So what’s keeping you from traveling? Let us know in the comments below and let’s start a conversation.
 
-The sociology of culture concerns culture—usually understood as the ensemble of symbolic codes used by a society —as it is manifested in society. For Georg Simmel, culture referred to "the cultivation of individuals through the agency of external forms which have been objectified in the course of history". Culture in the sociological field can be defined as the ways of thinking, the ways of acting, and the material objects that together shape a people's way of life. Culture can be any of two types, non-material culture or material culture.
-Cultural sociology first emerged in Weimar Germany, where sociologists such as Alfred Weber used the term Kultursoziologie (cultural sociology). Cultural sociology was then "reinvented" in the English-speaking world as a product of the "cultural turn" of the 1960s, which ushered in structuralist and postmodern approaches to social science. This type of cultural sociology may loosely be regarded as an approach incorporating cultural analysis and critical theory. Cultural sociologists tend to reject scientific methods, instead hermeneutically focusing on words, artifacts and symbols. "Culture" has since become an important concept across many branches of sociology, including resolutely scientific fields like social stratification and social network analysis. As a result, there has been a recent influx of quantitative sociologists to the field. Thus there is now a growing group of sociologists of culture who are, confusingly, not cultural sociologists. These scholars reject the abstracted postmodern aspects of cultural sociology, and instead look for a theoretical backing in the more scientific vein of social psychology and cognitive science. "Cultural sociology" is one of the largest sections of the American Sociological Association. The British establishment of cultural studies means the latter is often taught as a loosely-distinct discipline in the UK.
-
-
-==== Early researchers and development of cultural sociology ====
-The sociology of culture grew from the intersection between sociology, as shaped by early theorists like Marx, Durkheim, and Weber, and with the growing discipline of anthropology where researchers pioneered ethnographic strategies for describing and analyzing a variety of cultures around the world. Part of the legacy of the early development of the field is still felt in the methods (much of cultural sociological research is qualitative) in the theories (a variety of critical approaches to sociology are central to current research communities) and substantive focus of the field. For instance, relationships between popular culture, political control, and social class were early and lasting concerns in the field.
-
-
-=== Cultural studies ===
-In the United Kingdom, sociologists and other scholars influenced by Marxism, such as Stuart Hall and Raymond Williams, developed cultural studies. Following nineteenth-century Romantics, they identified "culture" with consumption goods and leisure activities (such as art, music, film, food, sports, and clothing). Nevertheless, they understood patterns of consumption and leisure to be determined by relations of production, which led them to focus on class relations and the organization of production. In the United States, "Cultural Studies" focuses largely on the study of popular culture, that is, the social meanings of mass-produced consumer and leisure goods. The term was coined by Richard Hoggart in 1964 when he founded the Birmingham Centre for Contemporary Cultural Studies or CCCS. It has since become strongly associated with Stuart Hall, who succeeded Hoggart as Director. Cultural studies in this sense, then, can be viewed as a limited concentration scoped on the intricacies of consumerism, which belongs to a wider culture sometimes referred to as "Western Civilization," or "Globalism."
-From the 1970s onward, Stuart Hall's pioneering work, along with his colleagues Paul Willis, Dick Hebdige, Tony Jefferson, and Angela McRobbie, created an international intellectual movement. As the field developed it began to combine political economy, communication, sociology, social theory, literary theory, media theory, film/video studies, cultural anthropology, philosophy, museum studies and art history to study cultural phenomena or cultural texts. In this field researchers often concentrate on how particular phenomena relate to matters of ideology, nationality, ethnicity, social class, and/or gender.[citation needed] Cultural studies is concerned with the meaning and practices of everyday life. These practices comprise the ways people do particular things (such as watching television, or eating out) in a given culture. This field studies the meanings and uses people attribute to various objects and practices. Specifically, culture involves those meanings and practices held independently of reason. Watching television in order to view a public perspective on a historical event should not be thought of as culture, unless referring to the medium of television itself, which may have been selected culturally; however, schoolchildren watching television after school with their friends in order to "fit in" certainly qualifies, since there is no grounded reason for one's participation in this practice. Recently, as capitalism has spread throughout the world (a process called globalization), cultural studies has begun to analyse local and global forms of resistance to Western hegemony.[citation needed]
-In the context of cultural studies, the idea of a text not only includes written language, but also films, photographs, fashion or hairstyles: the texts of cultural studies comprise all the meaningful artifacts of culture.[citation needed] Similarly, the discipline widens the concept of "culture". "Culture" for a cultural studies researcher not only includes traditional high culture (the culture of ruling social groups) and popular culture, but also everyday meanings and practices. The last two, in fact, have become the main focus of cultural studies. A further and recent approach is comparative cultural studies, based on the discipline of comparative literature and cultural studies.[citation needed]
-Scholars in the United Kingdom and the United States developed somewhat different versions of cultural studies after the field's inception in the late 1970s. The British version of cultural studies was developed in the 1950s and 1960s mainly under the influence first of Richard Hoggart, E. P. Thompson, and Raymond Williams, and later Stuart Hall and others at the Centre for Contemporary Cultural Studies at the University of Birmingham. This included overtly political, left-wing views, and criticisms of popular culture as 'capitalist' mass culture; it absorbed some of the ideas of the Frankfurt School critique of the "culture industry" (i.e. mass culture). This emerges in the writings of early British cultural-studies scholars and their influences: see the work of (for example) Raymond Williams, Stuart Hall, Paul Willis, and Paul Gilroy.
-Whereas in the United States Lindlof & Taylor said, "Cultural studies [were] grounded in a pragmatic, liberal-pluralist tradition". The American version of cultural studies initially concerned itself more with understanding the subjective and appropriative side of audience reactions to, and uses of, mass culture; for example, American cultural-studies advocates wrote about the liberatory aspects of fandom.[citation needed] The distinction between American and British strands, however, has faded.[citation needed] Some researchers, especially in early British cultural studies, apply a Marxist model to the field. This strain of thinking has some influence from the Frankfurt School, but especially from the structuralist Marxism of Louis Althusser and others. The main focus of an orthodox Marxist approach concentrates on the production of meaning. This model assumes a mass production of culture and identifies power as residing with those producing cultural artifacts. In a Marxist view, those who control the means of production (the economic base) essentially control a culture.[citation needed] Other approaches to cultural studies, such as feminist cultural studies and later American developments of the field, distance themselves from this view. They criticize the Marxist assumption of a single, dominant meaning, shared by all, for any cultural product. The non-Marxist approaches suggest that different ways of consuming cultural artifacts affect the meaning of the product. This view is best exemplified by the book Doing Cultural Studies: The Case of the Sony Walkman (by Paul du Gay et al.), which seeks to challenge the notion that those who produce commodities control the meanings that people attribute to them. Feminist cultural analyst, theorist and art historian Griselda Pollock contributed to cultural studies from viewpoints of art history and psychoanalysis. The writer Julia Kristeva is among influential voices in the turn of the century, contributing to cultural studies from the field of art and psychoanalytical French feminism.[citation needed]
-
-
-== See also ==
-
-Anthropology
-Cultural region
-Outline of culture
-Semiotics of culture
- Culture at Wikipedia books
+Instead of just sitting on some tropical beach and sipping pina coladas during your vacations, it is very possible to get a ton of personal growth from your travels. How You Can Broaden Your Horizons with Travel
 
 
-== Notes ==
+How I Traveled for 2 Months in New Zealand on Less than $500
+LEISURE LIFESTYLE DECEMBER 26 BY LESLIE FREY
 
+I always thought you had to have tons of money to travel. Not true! With the tips I learned out of necessity, I traveled in New Zealand on about $250 a month. And I could have spent less if I had known these tips from the beginning!
 
-== Sources ==
+My best tool for traveling? The Internet! I’ll show you all the sites you’ll need.
 
+Follow these tips and explore one of the most beautiful, friendly, diverse countries on Earth!  (You can use many of these tips while traveling in other countries, too!)
 
-== References ==
+ RECOMMEND FOR YOU 
+The Only Learning Resources Your Children Will Ever Need To Be Smarter 
+22.3K SHARES
+Get informed.
+The most expensive part of this venture will be your airline ticket. When I say I spent less than $500 in two months, I’m NOT including airfare. Even still, if I paid about $1600 and used all the techniques I’m sharing here, I could have spent a year traveling in New Zealand for less than $4600!
 
+New Zealand is unique in many ways (there are no naturally occurring mammals!), but two particular aspects make traveling especially inexpensive if you’re well-informed.  First, the government has made major investments into boosting the tourism-driven economy. People come from all over the world, and New Zealanders want you to come.
 
-== External links ==
-Cultura: International Journal of Philosophy of Culture and Axiology
+Secondly, as a country colonized by England, many of the citizens have relatives far away. It is common for New Zealanders in their early twenties to go live in other countries for a while to gain work and education experience and to connect with distant relatives.
+
+Get a job.
+New Zealand has worked with other governments to make this process very smooth, an arrangement called a “Working Holiday Visa.”  This is a reciprocal arrangement, so that citizens of either country can apply for this visa for a limited time, and it allows the visa holder to have full employment privileges. In other words, you may be able to work in New Zealand for up to a year. One major caveat: you must be under 35 to secure a Working Holiday Visa.
+
+Now, even if you don’t get a visa or you are over 35, there is no need to worry. I’ve listed plenty of other strategies to save you money and make your time in New Zealand “Sweet as, bro!”
+
+I used BUNAC and highly recommend them:
+
+Screen Shot 2013-12-14 at 1.44.14 PM
+
+Because of the robust tourist economy in New Zealand, it is incredibly easy to find work quickly. I landed in Auckland, and in two weeks I had a job paying $15NZ (~$12.29 USD at the time of publication) an hour and a room in a house with two young, fun New Zealanders.
+
+Because work is so easy to find, you can work for a few months to save up money, travel for a time, and find a new job somewhere else. Or you could get a job in your career field and travel on the weekends.
+
+I used these two websites, which are like Craigslist combined with eBay. I also found bikes, camping equipment, and tons of other stuff.
+
+Trade Me
+Screen Shot 2013-12-14 at 1.47.49 PM
+
+Auckland Gumtree
+Screen Shot 2013-12-14 at 1.46.49 PM
+
+Pack light.
+When I left for New Zealand, I had no idea what I was going to do or what to expect.  The luggage I packed weighed the maximum limit of 70 lbs.  Rather than being an advantage, this eventually became a burden because I had to store or keep up with all of that stuff.
+
+New Zealand is a country of islands, and each island has its own personality and flair.  You will want to see as much as you can, and lugging around a bunch of junk isn’t worth it.
+
+When I was happiest, a had a large backpack and a small computer bag.  Oh, and a ukulele.  Buying clothes is expensive, but there are thrift shops everywhere.  Macklemore’s paradise!
+
+I will say this: if you wear makeup, bring what you will need.  Makeup in New Zealand is ridiculously expensive.  $27NZ (~$22 USD at the time of publication) for a tube of mascara was the cheapest I could find.
+
+Hitchhike like an expert.
+While I lived in Auckland, I took public transportation, which was easy to navigate using the Internet. Each region has similar sites which are easy to find through simple searches.  This one is AT Public Transport:
+
+Screen Shot 2013-12-14 at 1.44.51 PM
+
+I bought a bike for $50NZ (~$40.97 USD at time of publication) that came with a helmet.  It was a piece of junk, but it worked while I needed it.
+
+Gumtree also has a ride share board that is well-maintained and easy to use.
+
+The idea of hitchhiking seemed crazy to me.  I’m a 5’1″ woman who grew up in America and was taught to never, ever to hitch a ride.  But it eventually became second nature to me, and I frequently did it by myself.  Hitching is legal in New Zealand, and I found it to be enjoyable because I met many local people who were just lovely and extremely generous.
+
+Get more tips at HitchWiki
+
+Screen Shot 2013-12-14 at 2.07.37 PM
+
+Arrange work-trades.
+A work-trade is when you put in about a half day of work in exchange for a place to stay for the night and three meals that day.  No money is exchanged.  By far, some of the best experiences I had in New Zealand came through work-trades.  It allowed me to be in beautiful places, meet interesting people, learn new things, and spend next to nothing!
+
+This is the key strategy for traveling for a long time with very little money.  I met people who had been doing it for years, going all around the world on next to nothing.  I met a couple from the Bronx who were doing it for 6 months as their honeymoon!
+
+WWOOFing is the most organized system I’ve found for work-trades.  It stands for Willing Workers On Organic Farms, and “farm” has a very loose definition in New Zealand.  So does “work” and even “organic.”  You may find a family with a large garden and a llama farm who would like you to come babysit and tutor their children in the evening.  Or a meditation center that wants you to prepare lunch and dinner.  I worked on an orchard pruning trees from 8 to noon, then had the rest of the day to bike into town and play.  Learn more at WWOOF:
+
+Screen Shot 2013-12-14 at 1.45.43 PM
+
+You can also find some work-trades on the two sites I listed above, TradeMe and Gumtree.
+
+Do some couch surfing.
+Couchsurfing gives me faith in humanity!  The whole idea is to use the Internet to connect one person who has room in their home for a traveler who is looking for a place to stay.  And it’s all FREE!  The cardinal rule of the Couchsurfing community is that no money can exchange hands. You have to be willing to be social and flexible.  And ideally, when you return home, you return the favor and host other travelers on your couch.  Check it out at CouchSurfing:
+
+Screen Shot 2013-12-14 at 2.32.02 PM
+
+Work at festivals.
+New Zealanders love a good festival.  Why pay to go when you can go for free?  If you “work” a festival, many of them will give you full admission and feed you in exchange for a half day of work. You can meet wonderful people and have a great time for little cash.
+
+I spent New Year’s Eve on a beach in the Coromandel Peninsula drinking wine with other festival “workers” and then danced until dawn to live music on the main stage.
+
+Here are just a few I found with a quick search:
+After traveling to over 40 countries and learning valuable ways to travel hack, I have learned one important rule: you do not need a lot of money (or have a high-paying job) to travel. Many people are hesitant to travel, and hold themselves back from possibly some of the most epic adventures because they think that they can’t afford the costs of traveling the world. With a few simple rules and tips it can be entirely possible to travel short or long term with little income.
+
+In any case, if you’re going to travel the world, you’re going to need realistic financial planning. How much are you going to save? What is the minimum you will need to get you where you want to go without starving or feeling stranded? How do your finances look for when you return home? These are all essential questions to have thought out before one departs on a long trip, and the following guidelines can help you get set to afford to travel.
+
+1. Mendenhall Glacier Caves, Alaska
+Mendenhall Glacier Caves, Alaska
+AER Wilmington DE / Flickr: 25949441@N02 / Creative Commons
+
+AER Wilmington DE / Flickr: 25949441@N02 / Creative Commons
+
+Sergey Yechikov / shutterstock.com
+ 
+In Mendenhall Valley of Juneau stands this 12-mile glacier that is home to some incredibly surreal ice caves. If you follow the West Glacier trail, you can get a chance to see these whimsical ice clouds for yourself.
+2. Antelope Canyon, Arizona
+Antelope Canyon, Arizona
+Manamana / shutterstock.com
+
+Francesco R. Iacomino / shutterstock.com
+
+Flickr: merlune / Creative Commons
+ 
+Located near Page, Ariz., this brilliant slot canyon is split into two different sections, commonly referred to as “The Crack” and “The Corkscrew.” The natural canvas of color and unique structure is an Instgrammer’s dream.
+3. Oneonta Gorge, Oregon
+Oneonta Gorge, Oregon
+zschnepf / shutterstock.com
+
+zschnepf / shutterstock.com
+
+Flickr: gorgejeff / Creative Commons
+ 
+The Oneonta Gorge is in the Columbia River Gorge with a unique set of aquatic and woodland plants. The ferns and moss make the walls look like a fairy tale, and visitors can walk through the creek on a warm summer day.
+4. Skagit Valley Tulip Fields, Washington
+Skagit Valley Tulip Fields, Washington
+RuthChoi / shutterstock.com
+
+karamysh / shutterstock.com
+
+Jaime Pharr / shutterstock.com
+ 
+Located in Washington state, hundreds of thousands of visitors come to the tulip fields between April 1–30 to see these gorgeous flowers in bloom. The festival is designed as a driving tour since there is no one designated “site.”
+5. Maroon Bells-Snowmass Wilderness, Colorado
+Maroon Bells-Snowmass Wilderness, Colorado
+Mavrick / shutterstock.com
+
+Dr. Alan Lipkin / shutterstock.com
+
+Flickr: usdagov / Creative Commons
+ 
+This wilderness area is located in the Elk Mountains of central Colorado and has over 100 miles of trails. The closest city in reach is Aspen and the entire area spans over 181,000 acres.
+6. Dry Tortugas National Park, Florida
+Dry Tortugas National Park, Florida
+Varina and Jay Patel / shutterstock.com
+
+Nagel Photography / shutterstock.com
+
+Flickr: sathishcj / Creative Commons
+ 
+This isolated island of bliss sits roughly 70 miles west of Key West in the Gulf of Mexico, surrounded by clear waters and an abundance of sea life. The area is only accessible by boat or seaplane, so leave your phone at home and enjoy a day off the grid.
+7. Zion National Park, Utah
+Zion National Park, Utah
+fabernova / shutterstock.com
+
+Steven Castro / shutterstock.com
+
+Flickr: gregfoster / Creative Commons
+ 
+Located near Springdale, Utah, this incredible 146,000-acre park is a popular destination for nature enthusiasts. A prominent feature is the Zion Canyon, which is 15 miles long and a half-mile deep. Other spots to visit while you’re here is “The Subway”(pictured on the left) and “The Narrows” (pictured on the right).
+8. Watkins Glen State Park, New York
+Watkins Glen State Park, New York
+Flickr: dr_bullschmidt / Creative Commons
+
+alexsvirid / shutterstock.com
+
+Adam Lohr / shutterstock.com
+ 
+We all know Niagara Falls is a sight to see, but located south of Seneca Lake in the Finger Lakes region lies a lesser-known fantasy-like area called Rainbow Bridge and Falls. It will make you feel like you’re in Lord of the Rings.
+9. Yosemite Valley, California
+Yosemite Valley, California
+Flickr: robsettantasei / Creative Commons
+
+Peter O'Toole / shutterstock.com
+
+Flickr: grimeshome / Creative Commons
+ 
+This 8-mile glacial valley is covered in pine and surrounded by granite summits like Half Dome and El Capitan. The California beauty is a hot spot for tourists and photographers and it also offers scenic trails for hikers.
+10. Grand Prismatic Spring, Wyoming
+Grand Prismatic Spring, Wyoming
+Flickr: projekction / Creative Commons
+
+Lorcel / shutterstock.com
+
+Anne Elliott / Flickr: 71833159@N00 / Creative Commons
+ 
+This natural pool of rainbow-like colors is the largest hot spring in the U.S. and the third largest in the world. It’s located in Yellowstone National Park, which also has other great sights to see such as Morning Glory Pool, Old Faithful, and the Grand Canyon of the Yellowstone.
+11. Haiku Stairs of Oahu, Hawaii
+Haiku Stairs of Oahu, Hawaii
+Flickr: uosuaq / Creative Commons
+
+Flickr: kevin1024 / Creative Commons
+
+Flickr: syntheticaperture / Creative Commons
+ 
+This “Stairway to Heaven” is a steep hiking trail that is technically closed to the public, but many people continue to climb despite the “No Trespassing” signs. Sometimes breaking the law is worth it, right?
+12. Carlsbad Caverns, New Mexico
+Carlsbad Caverns, New Mexico
+Flickr: pumpkincanada / Creative Commons
+
+Doug Meek / shutterstock.com
+
+Flickr: unkwot / Creative Commons
+ 
+In this National Park beneath the rocky land lies more than 119 known caves, formed from limestone and sulfuric acid. Visitors can take the natural entrance (pictured on the right) or ride down the elevator 750 feet below ground.
+13. Whitaker Point, Arkansas
+Whitaker Point, Arkansas
+Flickr: texas_tongs / Creative Commons
+
+Bernie Jungkind / CJRW of Little Rock / buffaloriver.com
+
+Flickr: naturegal / Creative Commons
+ 
+In the heart of the Buffalo River country lies this incredible crag, a popular spot for proposals, scenic photographs, and pretty killer views. The best time to snap a pic is at 6:15 a.m. (as pictured above on the left).
+14. Hamilton Pool, Texas
+Hamilton Pool, Texas
+Flickr: dawilson / Creative Commons
+
+Flickr: dawilson / Creative Commons
+
+Flickr: dawilson / Creative Commons
+ 
+Located just outside of Austin, this natural pool is a popular spot for tourists and residents in the summer. Hamilton Pool was created when the dome of an underground river collapsed due to massive erosion thousands of years ago.
+15. Horseshoe Bend, Arizona
+Horseshoe Bend, Arizona
+Flickr: paxson_woelber / Creative Commons
+
+Flickr: hig_37 / Creative Commons
+
+Flickr: fkehren / Creative Commons
+ 
+Named after its horseshoe-like shape, this famous meander is located just outside Page, Ariz., and offers a wicked view of the Colorado River.
+16. Northern Lights, Alaska
+Northern Lights, Alaska
+Flickr: gsfc / Creative Commons
+
+Flickr: arctic_troy / Creative Commons
+
+Flickr: bjgraf / Creative Commons
+ 
+The Northern Lights is one of the most beautiful wonders of the world, and a trip to Alaska will give you a front-row seat. The best places to see the lights are in Fairbanks and Anchorage from about September–April 20.
+17. Bryce Canyon, Utah
+Bryce Canyon, Utah
+Luca Galuzzi / commons.wikimedia.org
+
+Flickr: markusnl / Creative Commons
+
+Anna Morgan / shutterstock.com
+ 
+This collection of large natural amphitheaters is famous for its hoodoos, geological structures formed by frost weather and stream erosion. The orange, red, and white rocks are a beautiful sight and only roughly 50 miles from Zion National Park.
+18. Lake Tahoe, California/Nevada
+Lake Tahoe, California/Nevada
+Topseller / shutterstock.com
+
+Curtis / shutterstock.com
+
+George Lamson / shutterstock.com
+ 
+Bordering California and Nevada, this freshwater lake is the largest alpine lake in North America. The clear waters and surrounding trees make it an ideal vacation spot.
+19. Smoky Mountains, North Carolina/Tennessee
+Smoky Mountains, North Carolina/Tennessee
+Flickr: mikerhicks / Creative Commons
+
+Flickr: gaensler / Creative Commons
+
+Flickr: fkehren / Creative Commons
+ 
+A subrange of the Appalachian Mountains, the Smokies are a mountain range along the North Carolina–Tennessee border. It’s the most visited national park in the U.S., with 9 million-plus visitors per year.
+20. Niagara Falls, New York
+Niagara Falls, New York
+Chawalit S / shutterstock.com
+
+Eugene Moerman / shutterstock.com
+
+Elena Elisseeva / shutterstock.com
+ 
+Located along the United States–Canada border is the famous Niagara Falls, a popular spot for tourists.
+21. The Wave, Arizona
+The Wave, Arizona
+Flickr: thaths / Creative Commons
+
+Frank Kovalchek / Flickr: 72213316@N00 / Creative Commons
+
+Flickr: james_gordon_losangeles / Creative Commons
+ 
+Located in Paria Canyon-Vermilion Cliffs Wilderness near the Arizona-Utah border lies The Wave, a sandstone rock formation that looks look a painting. The sight is known for its vibrant colors and the trackless hike to reach it.
+22. Sequoia National Park, California
+Sequoia National Park, California
+dcrjsr / en.wikipedia.org
+
+Galyna Andrushko / shutterstock.com
+
+Jim Bahn / en.wikipedia.org
+ 
+Sequoia National Park is known for its giant sequoia trees, including the General Sherman Tree, one of the largest in the world. It stands at 275 feet tall and is believed to be roughly 2,500 years old.
+23. Thor’s Well, Oregon
+Thor's Well, Oregon
+Flickr: by_photo / Creative Commons
+
+Thomas Shahan / Flickr: 49580580@N02 / Creative Commons
+
+Flickr: bengrewell / Creative Commons
+ 
+Along Cape Perpetua lies Thor’s Well, a saltwater fountain driven by the power of the ocean tide. The best time to see it in action is an hour before high tide to an hour after high tide. While it’s a beautiful sight, it’s also highly dangerous and visitors should proceed with caution.
+24. Badlands National Park, South Dakota
+Badlands National Park, South Dakota
+Dapixstudio / shutterstock.com
+
+Flickr: mtsn / Creative Commons
+
+Flickr: naturegal / Creative Commons
+ 
+The red and orange rocky mountains bring in nearly 1 million visitors per year to the Badlands National Park. Native Americans used this area for hunting grounds for roughly 11,000 years.
+25. Savannah, Georgia
+Savannah, Georgia
+Jeffrey T. Kreulen / shutterstock.com
+
+meanmachine77 / shutterstock.com
+
+Irina Mos / shutterstock.com
+ 
+The oldest city in the state of Georgia, Savannah has a charming personality and fairy tale-like array of Spanish moss trees.
+26. Palouse Falls, Washington
+Palouse Falls, Washington
+Flickr: darekfarmer / Creative Commons
+
+Flickr: shankarrk / Creative Commons
+
+Flickr: rampix / Creative Commons
+ 
+Located in Washington state, this enchanting scene almost came to an end in 1984 when the Franklin County Public Utility District proposed to build a dam to allow hydroelectric power generation. Ratepayers decided to preserve the falls.
+27. Glacier National Park, Montana
+Glacier National Park, Montana
+Flickr: emilyrachelhildebrand / Creative Commons
+
+Julie Lubick / shutterstock.com
+
+mlorenz / shutterstock.com
+ 
+Glacier National Park is located near Kalispell, Mont., and borders parts of Canada. The park encompasses more than 1,000,000 acres and attracts roughly 2 million people per year.
+28. Nā Pali Coast State Park, Hawaii
+Nā Pali Coast State Park, Hawaii
+Sarah Fields Photography / shutterstock.com
+
+Flickr: jginsbu / Creative Commons
+
+Jose Gil / shutterstock.com
+ 
+The Na Pali Coast is inaccessible by car but can be seen over land by helicopter or hiking. The Kalalau Trail provides the only land access, but there are also caves you can explore along the coast.
+29. Devils Tower, Wyoming
+Devils Tower, Wyoming
+Flickr: davidkingham / Creative Commons
+

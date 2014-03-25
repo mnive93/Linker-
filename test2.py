@@ -107,6 +107,7 @@ def training_set():
     topics['Social Networking'] = 'social network.txt'
     topics['Pets and Animals'] ='pets.txt'
     topics['Automobiles'] = 'cars&bikes.txt'
+    topics['Life Hacks'] = 'tips.txt'
 
 
 
@@ -148,7 +149,7 @@ if(line):
  f1= open('my_dataset.pkl')
  classifier=cPickle.load(f1)
  f1.close()
- #print tokens
+ print tokens
  decision = classifier.classify(tokens)
  labels  = classifier.prob_classify(tokens)
   #batch = classifier.batch_classify(tokens)
